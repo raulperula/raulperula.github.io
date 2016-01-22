@@ -7,7 +7,7 @@ category: cv
 description: I am a robotics engineer and a designer
 article: yes
 permalink: cv.html
-tags: [cv,personal,resume,curriculum,online,pdf,research,design,iit,istituto italiando di tecnologia,phd,yale,university,postdoc]
+tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad carlos iii,uc3m,phd,yale,university,software,engineer]
 
 skills:
  - name: Programming
