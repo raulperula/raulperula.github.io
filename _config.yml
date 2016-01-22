@@ -42,7 +42,7 @@ color:
 # ALTERNATIVE 0
   articletext: 4e4e4e                     # This is the text color
   primary: 25754F                         # This is the gray color with a blue tint
-  secondary: 84CF96                       # This is the green color
-  secondary-dark: 009A31                  # This is the dark green color
-  secondary-alpha: rgba(2,55,30,.7)       # This is the same as the secondary color but with an alpha value
-  tertiary: C6E7CE                        # This is light brown
+  secondary: 86e2d5                       # This is the green color
+  secondary-dark: 00c95e                  # This is the dark green color
+  secondary-alpha: rgba(0,201,94,.7)      # This is the same as the secondary color but with an alpha value
+  tertiary: 52b3d9                        # This is light brown
