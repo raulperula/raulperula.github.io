@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /ARoncone_resume.doc
 Disallow: /ARoncone_resume.pdf
 Disallow: /ARoncone_cv.pdf
