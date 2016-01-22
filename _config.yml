@@ -42,9 +42,9 @@ color:
 # ALTERNATIVE 0
   articletext: 4e4e4e                     # This is the text color
   primary: b5c0c7                         # This is the gray color with a blue tint
-  secondary: 0892d0                       # This is the blue color
-  secondary-dark: 055c83                  # This is the blue color
-  secondary-alpha: rgba(84,99,116,.7)     # This is the same as the secondary color but with an alpha value
+  secondary: 92cd00                       # This is the green color
+  secondary-dark: 2c6700                  # This is the dark green color
+  secondary-alpha: rgba(44,103,0,.7)      # This is the same as the secondary color but with an alpha value
   tertiary: e20e59                        # These are the pink accents
 # ALTERNATIVE 1
   # primary: b4b4b4                         # This is gray
@@ -52,9 +52,9 @@ color:
   # secondary-dark: b9493b                  # This is reddish
   # tertiary: 8ca08d                        # This is greenish
 # ALTERNATIVE 2
-  secondary: 589ee4                       # This is blueish
-  secondary-dark: 368ade                  # This is blueish
-  tertiary: ed6152                        # This is reddish
+  #secondary: 589ee4                       # This is blueish
+  #secondary-dark: 368ade                  # This is blueish
+  tertiary: ffcf79                        # This is light brown
 # ALTERNATIVE 3
   # tertiary: 53c3cb                        # This is greenish
   # secondary: f4676d                       # This is reddish
