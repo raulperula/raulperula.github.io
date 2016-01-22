@@ -41,7 +41,7 @@ color:
 # 
 # ALTERNATIVE 0
   articletext: 4e4e4e                     # This is the text color
-  primary: 85BD76 #c4e59c                         # This is the gray color with a green tint
+  primary: c4e59c                         # This is the gray color with a green tint
   secondary: 84ad52                       # This is the green color
   secondary-dark: 6e9145                  # This is the dark green color
   secondary-alpha: rgba(132,173,82,.7)    # This is the same as the secondary color but with an alpha value
