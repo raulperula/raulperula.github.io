@@ -45,4 +45,4 @@ color:
   secondary: 84ad52                       # This is the green color
   secondary-dark: 6e9145                  # This is the dark green color
   secondary-alpha: rgba(132,173,82,.7)    # This is the same as the secondary color but with an alpha value
-  tertiary: 320E59 #7a3bff                        # This is purple
+  tertiary: 7a3bff                        # This is purple
