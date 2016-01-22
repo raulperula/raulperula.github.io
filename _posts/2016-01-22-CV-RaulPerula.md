@@ -12,16 +12,14 @@ tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de c
 skills:
  - name: Programming
    items:
+    - name: Python
+      knowledge: 90
     - name: C++
       knowledge: 90
     - name: Matlab
       knowledge: 85
-    - name: CSS3 & HTML5
-      knowledge: 95
-    - name: IPOPT
-      knowledge: 70
     - name: Bash
-      knowledge: 65
+      knowledge: 80
     - name: OpenCV
       knowledge: 55
     - name: UX/UI
@@ -30,8 +28,9 @@ skills:
       knowledge: 55
     - name: R
       knowledge: 40
-    - name: Python
-      knowledge: 25
+    - name: CSS3 & HTML5
+      knowledge: 30
+
  - name: Robots & Platforms
    items:
     - name: iCub
