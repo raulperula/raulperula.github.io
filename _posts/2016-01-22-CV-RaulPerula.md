@@ -140,35 +140,35 @@ professional:
 
 education:
  - name: Ph.D. in Life and Humanoid Technologies <a class="no-print" href="/papers/[Roncone PhD Thesis 2015] Expanding Sensorimotor capabilities of Humanoid Robots through Multisensory Integration - a study on the implementation of Peripersonal Space on the iCub.pdf" target="_blank"> [PDF]</a>
-   title: Thesis title `Expanding sensorimotor capabilities of humanoid robots through multisensory integration. A study on the implementation of peripersonal space on the iCub.`
-   start: 2012
-   end: 2015
-   location: Istituto Italiano di Tecnologia (IIT), Genova IT
-   location-link: http://www.iit.it
+   title: Thesis title ``
+   start: 2013
+   end: present
+   location: University Carlos III of Madrid (UC3M), Madrid, ES
+   location-link: http://ieee.uc3m.es/
    description: "I focused on improving the sensorimotor capabilities of the iCub humanoid, by implementing a bio-inspired system able to learn a multisensory representation of the space around the robot’s body (or <i>peripersonal space</i>). The robot is equipped with a whole-body artificial skin and learns the consequences of its interaction with the self and the environment by means of a multisensory (tactile-motor and tactile-visual) representation. This results in the extension of the robot's tactile domain toward the nearby space, in such a way that it implicitly copes with modeling or calibration errors. Finally, this representation is then exploited with a sensory-based guidance of the motor actions performed by the robot. That is, an avoidance and catching controller capable of using any body part in order to either prevent collision with or come into contact with incoming objects. "
    
- - name: M.Sc. with honors in NeuroEngineering
-   title: Thesis title `Visuo-Haptic Integration for Object Characterization in an Unstructured Environment`
-   start: 2008
-   end: 2011
-   location: Università degli studi di Genova, IT
-   location-link: http://www.unige.it
+ - name: M.Sc. in Robotics and Automation
+   title: Thesis title `State of the Art and Implementation of a Classifier for Daily Use Objects`
+   start: 2011
+   end: 2013
+   location: University Carlos III of Madrid (UC3M), Madrid, ES
+   location-link: http://ieee.uc3m.es/
    description: "I developed a multisensory machine learning system in order to improve the detection and the identification of objects in the iCub robot's workspace. Specifically, I implemented an SVM-based system able to integrate between the visual system and the haptic information coming from the F/T sensor of the iCub robot. The system proved to be successful in improving the vision-based detection of a set of objects by means of the haptic exploration of the same objects."
    
- - name: B.Sc. with honors in Biomedical Engineering
-   title: Thesis title `Support Vector Machine Analysis applied to a Manipulator in a Non-Structured Environment`
-   start: 2005
-   end: 2009
-   location: Università degli studi di Genova, IT
-   location-link: http://www.unige.it
+ - name: B.Sc. with honors in Computer Science Engineering
+   title: Thesis title `Neuronal Networks Models for Ordinal Regression based on Gradient Descent Techniques`
+   start: 2009
+   end: 2011
+   location: University of Cordoba (UCO), Cordoba, ES
+   location-link: http://www.uco.es/
    description: "I carried out a system able to control a PUMA robotic arm and develop a goalkeeper-like behavior in an air hockey setup. The robot used SVMs in order to understand which of the puck trajectories it previously experienced was scoring a point. Based on this, it learned the ability to prevent such points by predicting the final outcome of a trajectory given some initial samples. Its success rate was beyond 95%."
    
- - name: Student (with scholarship) at ISICT
-   title: 
-   start: 2005
-   end: 2008
-   location: ISICT (Istituto Superiore di Studi in Tecnologie dell'Informazione e della Comunicazione)
-   location-link: http://www.isict.it/
+ - name: B.Sc. in Technical Engineering in Computer Science Systems
+   title: Thesis title `Watermarks in Digital Images`
+   start: 2006
+   end: 2009
+   location: University of Cordoba (UCO), Cordoba, ES
+   location-link: http://www.uco.es/
    description: "ISICT stands for <i>Institute for Advanced Studies in Information and Communication Technologies</i>. It is a consortium that integrates the courses provided by the University of Genoa with lessons held by industry leaders. The goal is to better prepare students for the labor market. To this end, I attended a number of additional courses ranging from <i>Marketing</i> to <i>Telecommunications</i> to <i>Aerospace Engineering</i>. I've been also selected for a scholarship, after a thorough examination (only three positions were available)."
 
 publications:
