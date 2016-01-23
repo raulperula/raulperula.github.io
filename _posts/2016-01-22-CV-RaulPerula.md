@@ -178,15 +178,6 @@ education:
    location-link: http://www.isict.it/
    description: "ISICT stands for <i>Institute for Advanced Studies in Information and Communication Technologies</i>. It is a consortium that integrates the courses provided by the University of Genoa with lessons held by industry leaders. The goal is to better prepare students for the labor market. To this end, I attended a number of additional courses ranging from <i>Marketing</i> to <i>Telecommunications</i> to <i>Aerospace Engineering</i>. I've been also selected for a scholarship, after a thorough examination (only three positions were available)."
 
-graphics:
- - name: FlatWoken Icons
-   start: 2013
-   end: 2014
-   
- - name: AwOken Icons
-   start: 2010
-   end: 2013
-
 publications:
  - title: "Learning peripersonal space representation through artificial skin for avoidance and reaching with whole body surface"
    authors: Alessandro Roncone, Ugo Pattacini, Giorgio Metta, and Lorenzo Natale
@@ -271,5 +262,5 @@ Energetic and resourceful Robotics Engineer with more than five years research e
 ## Summary
 
 Raúl Pérula-Martínez was born in Cordoba, Spain, 1988. He received his BSc in [Technical Engineering in Computer Science Systems](http://www.uco.es/eps/node/87) at the [University of Cordoba](http://www.uco.es/) in 2009. In 2011 he completed another BSc in [Computer Science Engineering](http://www.uco.es/eps/node/99)  in the same university. While he was working as Jr. Software Engineer for the company Mirada PLC, he finished his MSc in Robotics and Automation at the [University Carlos III of Madrid](http://www.uc3m.es/) in 2013. In 2012, he started as a member of the [Robotics Society and IEEE Student Branch](http://ieee.uc3m.es/) at the UC3M, being the _Chairman_ since 2014.
-Since 2013, he is working in his Ph.D. in _Robotics_ from the same university. During this time he is working in the _Social Robots_ group at the _RoboticsLab_ in UC3M, Madrid, under the supervision of professor [Miguel A. Salichs](http://roboticslab.uc3m.es/roboticslab/people/ma-salichs). The goal of his Ph.D. project is to exploit insights from neuroscience and psychology in order to implement a model of a **Decision-Making** process for Social Robots based on Human-Robot Interaction.
+Since 2013, he is working in his Ph.D. in _Robotics_ from the same university. During this time he is working in the _Social Robots_ group at the _RoboticsLab_ in UC3M, Madrid, under the supervision of professor [Miguel A. Salichs](http://roboticslab.uc3m.es/roboticslab/people/ma-salichs). The goal of his Ph.D. project is to exploit insights from neuroscience and psychology in order to implement a model of a **Decision-Making** process for Social Robots based on Human-Robot Interaction. He is also teacher of Robotics and Computer Science.
 Since December 2015, he is also collaborating as a Visiting Assistance in Research at the [Social Robotics Lab](http://scazlab.yale.edu/) in Yale University.
