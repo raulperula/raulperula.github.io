@@ -1,8 +1,8 @@
 ---
 layout: post-cv
 title: Curriculum Vitae
-cv-download-link: AlessandroRoncone_cv.pdf
-resume-download-link: AlessandroRoncone_resume.pdf
+cv-download-link: .pdf
+resume-download-link: .pdf
 category: cv
 description: Software Engineer and Roboticist
 article: yes
@@ -10,6 +10,17 @@ permalink: cv.html
 tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad carlos iii,uc3m,phd,yale,university,software,engineer]
 
 skills:
+ - name: Software Engineering
+   items:
+    - name: Pattern Design
+      knowledge: 90
+    - name: Continuous Integration
+      knowledge: 80
+    - name: Agile Development (SCRUM & KANBAN)
+      knowledge: 80
+    - name: UML Diagramming
+      knowledge: 80
+      
  - name: Programming
    items:
     - name: Python
@@ -20,9 +31,9 @@ skills:
       knowledge: 85
     - name: Bash
       knowledge: 80
-    - name: UX/UI
-      knowledge: 70
     - name: CMake
+      knowledge: 70
+    - name: UX/UI
       knowledge: 70
     - name: OpenCV
       knowledge: 30
@@ -33,8 +44,12 @@ skills:
    items:
     - name: ROS
       knowledge: 95
-    - name: Maggie
+    - name: PrintBots (Arduino)
       knowledge: 95
+    - name: Social Robot Maggie
+      knowledge: 95
+    - name: 3D Printers
+      knowledge: 80
     - name: PR2
       knowledge: 50
     - name: NAO
@@ -51,24 +66,28 @@ skills:
       
  - name: Mobile
    items:
+    - name: MIT App Inventor
+      knowledge: 95
     - name: Android Development
-      knowledge: 45
+      knowledge: 40
+       
  - name: OS/Software
    items: 
-    - name: Linux
+    - name: Ubuntu GNU/Linux
+      knowledge: 95
+    - name: Microsoft Windows
       knowledge: 90
-    - name: Windows
-      knowledge: 30
     - name: Gimp
-      knowledge: 75
-    - name: Inkscape
-      knowledge: 90
+      knowledge: 60
+      
  - name: Languages
    items:
-    - name: Italian
+    - name: Spanish
       knowledge: 99
     - name: English
-      knowledge: 82
+      knowledge: 70
+    - name: French
+      knowledge: 35
 
 professional:
  - name: Post-Doc
@@ -78,6 +97,7 @@ professional:
    location: Yale University, New Haven, CT (USA)
    location-link: http://scazlab.yale.edu
    description: "I am currently focusing on the exploitation of bidirectional, natural communication between the robot and the human in the context of human-robot collaborative tasks. I will mainly work on the Baxter, <i>'the world's first dual arm collaborative robot for manufacturing'</i>. It is a ROS-based system."
+   
  - name: Post-Doc
    title: Post Doc @ iCub Facility
    start: Jan.
@@ -85,6 +105,7 @@ professional:
    location: Istituto Italiano di Tecnologia (IIT), Genova IT
    location-link: http://www.iit.it
    description: "I continued the work I started during my Ph.D. fellowship at the iCub Facility. Specifically, I was interested in the exploitation of the peripersonal space model I implemented during my Ph.D., by focusing toward two types of applications: i) better, richer body representations (in collaboration with CITEC @Bielefeld) ii) distributed motor control via whole-body awareness (partially collaborating with WYSIWYD project partners). Furthermore, I extended the gaze stabilization framework I developed during my Ph.D. by integrating it with an existing gaze controller. I was also contributing to a human-robot interaction project aimed at developing natural interaction(s) between the iCub humanoid robot and humans."
+   
  - name: Ph.D. Fellow @ iCub Facility
    title: Life and Humanoid Technologies
    start: 2012
@@ -92,12 +113,14 @@ professional:
    location: Istituto Italiano di Tecnologia (IIT), Genova IT
    location-link: http://www.iit.it
    description: Doctoral course in Robotics, Cognition and Interaction Technologies. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the Xperience FP7-ICT-270273 and WYSIWYD FP7-ICT-61239 projects, funded by the European Union Seventh Framework Program with a funding of €7,634,000 and €4,583,016 respectively.
+   
  - name: Research Fellow @ RBCS (Robotics, Brain and Cognitive Science)
    start: Oct.
    end: Jul. 2011
    location: Istituto Italiano di Tecnologia (IIT), Genova IT
    location-link: http://www.iit.it
    description: I have partnered with the Italian Institute of Technology during my MSc thesis. See the <i>`Education`</i> section below for details about my master thesis.
+   
  - name: Icon Designer
    title: Icon Designer in outsourcing
    start: Jul.
@@ -105,6 +128,7 @@ professional:
    location: Coop la Lucerna
    location-link: http://cooplalucerna.it/
    description: "<i>Coop la Lucerna</i> is a farm right in the middle of Pianura Padana, IT. During the process of restructuring their online offerings, they contacted me in order to implemented a set of icons for their website. The icons were a set of 20 vegetables, rendered in a flat and minimal look."
+   
  - name: Icon Designer
    title: Icon Designer in outsourcing
    start: Oct.
@@ -112,6 +136,7 @@ professional:
    location: Magor Corp.
    location-link: http://www.magorcorp.com/
    description: "I have been contacted in order to design a new set of icons for their tele-collaboration software (a Skype-like alternative oriented toward telepresence and teleconference). I designed a total of 30 icons."
+   
  - name: Icon Designer
    title: Icon Designer in outsourcing
    start: Feb.
@@ -128,6 +153,7 @@ education:
    location: Istituto Italiano di Tecnologia (IIT), Genova IT
    location-link: http://www.iit.it
    description: "I focused on improving the sensorimotor capabilities of the iCub humanoid, by implementing a bio-inspired system able to learn a multisensory representation of the space around the robot’s body (or <i>peripersonal space</i>). The robot is equipped with a whole-body artificial skin and learns the consequences of its interaction with the self and the environment by means of a multisensory (tactile-motor and tactile-visual) representation. This results in the extension of the robot's tactile domain toward the nearby space, in such a way that it implicitly copes with modeling or calibration errors. Finally, this representation is then exploited with a sensory-based guidance of the motor actions performed by the robot. That is, an avoidance and catching controller capable of using any body part in order to either prevent collision with or come into contact with incoming objects. "
+   
  - name: M.Sc. with honors in NeuroEngineering
    title: Thesis title `Visuo-Haptic Integration for Object Characterization in an Unstructured Environment`
    start: 2008
@@ -135,6 +161,7 @@ education:
    location: Università degli studi di Genova, IT
    location-link: http://www.unige.it
    description: "I developed a multisensory machine learning system in order to improve the detection and the identification of objects in the iCub robot's workspace. Specifically, I implemented an SVM-based system able to integrate between the visual system and the haptic information coming from the F/T sensor of the iCub robot. The system proved to be successful in improving the vision-based detection of a set of objects by means of the haptic exploration of the same objects."
+   
  - name: B.Sc. with honors in Biomedical Engineering
    title: Thesis title `Support Vector Machine Analysis applied to a Manipulator in a Non-Structured Environment`
    start: 2005
@@ -142,6 +169,7 @@ education:
    location: Università degli studi di Genova, IT
    location-link: http://www.unige.it
    description: "I carried out a system able to control a PUMA robotic arm and develop a goalkeeper-like behavior in an air hockey setup. The robot used SVMs in order to understand which of the puck trajectories it previously experienced was scoring a point. Based on this, it learned the ability to prevent such points by predicting the final outcome of a trajectory given some initial samples. Its success rate was beyond 95%."
+   
  - name: Student (with scholarship) at ISICT
    title: 
    start: 2005
@@ -154,6 +182,7 @@ graphics:
  - name: FlatWoken Icons
    start: 2013
    end: 2014
+   
  - name: AwOken Icons
    start: 2010
    end: 2013
@@ -220,9 +249,9 @@ misc:
    description: "I've been researcher of the week for two times. Despite its name, this award is given very rarely to outstanding research performed in the iCub Facility at IIT. In the past two years, only 6 of these awards have been given."
 ---
 
-<div><p class="only-print">Personal Website: <a href="http://alecive.github.io">http://alecive.github.io</a></p></div>
+<div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
 
-<div><p class="only-print">GitHub Page: <a href="http://github.com/alecive">http://github.com/alecive</a></p></div>
+<div><p class="only-print">GitHub Page: <a href="http://github.com/raulperula">http://github.com/raulperula</a></p></div>
 
 ## Who am I
 
@@ -241,5 +270,5 @@ Energetic and resourceful Robotics Engineer with more than five years research e
 
 ## Summary
 
-Alessandro Roncone was born in Genova (GE), Italy, 1987. He received his BSc in Biomedical Engineering with the score of _110/110 summa cum laude_ at the [Università degli Studi di Genova](http://www.unige.it/) in February 2008. In July 2011 he completed his MSc in NeuroEngineering (with the score of _110/110 summa cum laude_) in the same university. In April 2015 he got a Ph.D. in _Robotics, Cognition and Interaction Technologies_ from the ["Università degli studi di Genova"](http://www.unige.it) and ["Istituto Italiano di Tecnologia"](http://www.iit.it). During his PhD he worked in the _Robotics, Brain and Cognitive Sciences_ department and the _iCub Facility_ in IIT, Genova, under the supervision of prof. [Giorgio Metta](http://pasa.lira.dist.unige.it/). The goal of his Ph.D. project was to exploit insights from neuroscience in order to implement a model of **Peripersonal Space (PPS)** on the iCub humanoid robot (see below for details on its Ph.D. project). 
+Raúl Pérula-Martínez was born in Cordoba, Spain, 1988. He received his BSc in Biomedical Engineering with the score of _110/110 summa cum laude_ at the [Università degli Studi di Genova](http://www.unige.it/) in February 2008. In July 2011 he completed his MSc in NeuroEngineering (with the score of _110/110 summa cum laude_) in the same university. In April 2015 he got a Ph.D. in _Robotics, Cognition and Interaction Technologies_ from the ["Università degli studi di Genova"](http://www.unige.it) and ["Istituto Italiano di Tecnologia"](http://www.iit.it). During his PhD he worked in the _Robotics, Brain and Cognitive Sciences_ department and the _iCub Facility_ in IIT, Genova, under the supervision of prof. [Giorgio Metta](http://pasa.lira.dist.unige.it/). The goal of his Ph.D. project was to exploit insights from neuroscience in order to implement a model of **Peripersonal Space (PPS)** on the iCub humanoid robot (see below for details on its Ph.D. project). 
 He is currently working as a Postdoctoral Associate at the [Social Robotics Lab](http://scazlab.yale.edu/) in Yale University.
