@@ -112,10 +112,10 @@ professional:
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://www.uc3m.es
-   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the [MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033](http://monarch-fp7.eu/) and the [RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)](http://www.robocity2030.org/) projects, funded by the European Union Seventh Framework Program. And also in the national project [Applications of Social Robots](http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots).
+   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the <a class="no-print" href="" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> and the <a class="no-print" href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> projects, funded by the European Union Seventh Framework Program. And also in the national project <a class="no-print" href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a>.
    
  - name: Research Fellow
-   title: Research Assistant and IT Engineer @ [HANDLE Project](http://www.handle-project.eu/)
+   title: Research Assistant and IT Engineer @ <a class="no-print" href="http://www.handle-project.eu/" target="_blank">HANDLE Project</a>
    start: Feb. 2012
    end: Sep. 2012
    location: University Carlos III of Madrid (UC3M), Madrid, ES
