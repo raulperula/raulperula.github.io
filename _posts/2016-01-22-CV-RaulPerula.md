@@ -20,35 +20,35 @@ skills:
       knowledge: 85
     - name: Bash
       knowledge: 80
-    - name: OpenCV
-      knowledge: 55
     - name: UX/UI
       knowledge: 70
     - name: CMake
-      knowledge: 55
-    - name: R
-      knowledge: 40
+      knowledge: 70
+    - name: OpenCV
+      knowledge: 30
     - name: CSS3 & HTML5
       knowledge: 30
 
  - name: Robots & Platforms
    items:
-    - name: iCub
-      knowledge: 95
-    - name: YARP
-      knowledge: 90
     - name: ROS
-      knowledge: 25
-    - name: Baxter
+      knowledge: 95
+    - name: Maggie
+      knowledge: 95
+    - name: PR2
+      knowledge: 50
+    - name: NAO
       knowledge: 20
+      
  - name: Versioning Systems
    items:
     - name: Git
-      knowledge: 75
+      knowledge: 90
     - name: Subversion
-      knowledge: 60
-    - name: cvs
-      knowledge: 20
+      knowledge: 90
+    - name: Mercurial
+      knowledge: 80
+      
  - name: Mobile
    items:
     - name: Android Development
