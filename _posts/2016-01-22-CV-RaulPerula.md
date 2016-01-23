@@ -4,7 +4,7 @@ title: Curriculum Vitae
 cv-download-link: AlessandroRoncone_cv.pdf
 resume-download-link: AlessandroRoncone_resume.pdf
 category: cv
-description: I am a robotics engineer and a designer
+description: Software Engineer and Roboticist
 article: yes
 permalink: cv.html
 tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad carlos iii,uc3m,phd,yale,university,software,engineer]
