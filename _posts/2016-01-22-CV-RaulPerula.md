@@ -94,17 +94,17 @@ professional:
    title: VAR @ Social Robotics Lab, Computer Science Department
    start: Dec. 2015
    end: present
-   location: Yale University, New Haven, CT (USA)
+   location: Yale University, New Haven, CT, USA
    location-link: http://scazlab.yale.edu
    description: 
    
  - name: Chairman IEEE Student Branch
-   title: VAR @ Robotics Society, Computer Science Department
+   title: Project Manager @ Robotics Society
    start: Jan. 2014
    end: present
-   location: Yale University, New Haven, CT (USA)
-   location-link: http://scazlab.yale.edu
-   description: 
+   location: University Carlos III of Madrid (UC3M), Madrid, ES
+   location-link: http://ieee.uc3m.es/
+   description: I coordinate educational projects at the _School of Robots_ and _Open-Source 3D Printers_ groups. 
    
  - name: Ph.D. Fellow
    title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
@@ -120,7 +120,7 @@ professional:
    end: Sep. 2012
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://www.uc3m.es
-   description: I have partnered with the HANDLE European Project during my MSc thesis. See the <i>`Education`</i> section below for details about my master thesis. This collaborative project is funded by the European Commission within the Seventh Framework Programme FP7, as part of theme 2: Cognitive Systems, Interaction, Robotics, under grant agreement 231640. 
+   description: I have partnered with the HANDLE European Project during my MSc thesis. See the <i>`Education`</i> section below for details about my master thesis.
 
  - name: Jr. Software Engineer 
    title: UX/UI Engineer @ Mirada PLC
@@ -128,7 +128,7 @@ professional:
    end: Feb. 2012
    location: Mirada PLC, Madrid, ES
    location-link: http://www.mirada.tv/
-   description: I implemented a set of icons for their website. It was a non-profit organization based in Edinburgh aimed toward taking care of drug- and alcohol- addicts, so I had some fun in designing some drug-related icons.
+   description: I implemented a set of interactive TV applications using QML and Qt technologies.
 
  - name: Research Fellow
    title: Machine Learning Engineer @ Learning and Artificial Neural Networks AYRNA, Computer Science Department
@@ -136,7 +136,7 @@ professional:
    end: Jun. 2010
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/
-   description: I implemented a set of libraries for Matlab. It was related to .
+   description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks.
 
 education:
  - name: Ph.D. in Life and Humanoid Technologies <a class="no-print" href="/papers/[Roncone PhD Thesis 2015] Expanding Sensorimotor capabilities of Humanoid Robots through Multisensory Integration - a study on the implementation of Peripersonal Space on the iCub.pdf" target="_blank"> [PDF]</a>
