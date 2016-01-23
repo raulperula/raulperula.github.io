@@ -5,7 +5,7 @@ download-link: http://alecive.deviantart.com/art/Gray-Revenge-1-7-194633730
 download-alt: GrayRevenge Suite on DeviantART
 img: grayRevenge.png
 alt: grayrevenge-suite
-category: design
+category: teaching
 description: 
 tags: [design,gtk,theme,gnome,linux,open source,lxde,xfce,a new start blood,gtk2,gtk3]
 article: yes

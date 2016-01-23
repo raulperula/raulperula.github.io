@@ -7,7 +7,7 @@ date: 2014-09-15
 img: flatwoken.jpg
 alt: flatwoken-icons
 project-date: September 2014
-category: design
+category: robots
 description: Flat, long shadow iconset
 tags: [design,icon pack,icon theme,icons,flat design,flat icons,long shadow,linux,gtk,kde,lxde,ubuntu,xfce,png,arch,fedora,desktop environment,gnome,open source,github]
 article: yes

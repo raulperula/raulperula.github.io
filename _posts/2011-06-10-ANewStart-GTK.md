@@ -5,7 +5,7 @@ download-link: http://alecive.deviantart.com/art/A-New-Start-1-3-169100684
 download-alt: A New Start Suite on DeviantART
 img: aNewStart.png
 alt: anewstart-suite
-category: design
+category: teaching
 description: 
 tags: [design,gtk,theme,gnome,linux,open source,lxde,xfce,a new start blood,gtk2,gtk3]
 article: yes

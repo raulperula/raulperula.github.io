@@ -6,7 +6,7 @@ download-alt:  AwOken icons on DeviantART
 date: 2012-09-01
 img: awoken.png
 alt: awoken-icons
-category: design
+category: robots
 description: Minimalism at its finest
 tags: [design,icon pack,icon theme,icons,minimal,token,gray,grey,design,linux,gtk,kde,lxde,ubuntu,xfce,png,arch,fedora,desktop environment,gnome,open source]
 article: yes
