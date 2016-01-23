@@ -90,60 +90,53 @@ skills:
       knowledge: 35
 
 professional:
- - name: Post-Doc
-   title: Postdoctoral Associate @ Social Robotics Lab, Computer Science Department
-   start: Nov. 2015
+ - name: Visiting Assistance in Research
+   title: VAR @ Social Robotics Lab, Computer Science Department
+   start: Dec. 2015
    end: present
    location: Yale University, New Haven, CT (USA)
    location-link: http://scazlab.yale.edu
-   description: "I am currently focusing on the exploitation of bidirectional, natural communication between the robot and the human in the context of human-robot collaborative tasks. I will mainly work on the Baxter, <i>'the world's first dual arm collaborative robot for manufacturing'</i>. It is a ROS-based system."
+   description: 
    
- - name: Post-Doc
-   title: Post Doc @ iCub Facility
-   start: Jan.
-   end: Oct. 2015
-   location: Istituto Italiano di Tecnologia (IIT), Genova IT
-   location-link: http://www.iit.it
-   description: "I continued the work I started during my Ph.D. fellowship at the iCub Facility. Specifically, I was interested in the exploitation of the peripersonal space model I implemented during my Ph.D., by focusing toward two types of applications: i) better, richer body representations (in collaboration with CITEC @Bielefeld) ii) distributed motor control via whole-body awareness (partially collaborating with WYSIWYD project partners). Furthermore, I extended the gaze stabilization framework I developed during my Ph.D. by integrating it with an existing gaze controller. I was also contributing to a human-robot interaction project aimed at developing natural interaction(s) between the iCub humanoid robot and humans."
+ - name: Chairman IEEE Student Branch
+   title: VAR @ Robotics Society, Computer Science Department
+   start: Jan. 2014
+   end: present
+   location: Yale University, New Haven, CT (USA)
+   location-link: http://scazlab.yale.edu
+   description: 
    
- - name: Ph.D. Fellow @ iCub Facility
-   title: Life and Humanoid Technologies
+ - name: Ph.D. Fellow
+   title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
    start: 2012
-   end: 2015
-   location: Istituto Italiano di Tecnologia (IIT), Genova IT
-   location-link: http://www.iit.it
-   description: Doctoral course in Robotics, Cognition and Interaction Technologies. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the Xperience FP7-ICT-270273 and WYSIWYD FP7-ICT-61239 projects, funded by the European Union Seventh Framework Program with a funding of €7,634,000 and €4,583,016 respectively.
+   end: present
+   location: University Carlos III of Madrid (UC3M), Madrid, ES
+   location-link: http://www.uc3m.es
+   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the [MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033](http://monarch-fp7.eu/) and the [RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)](http://www.robocity2030.org/) projects, funded by the European Union Seventh Framework Program. And also in the national project [Applications of Social Robots](http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots).
    
- - name: Research Fellow @ RBCS (Robotics, Brain and Cognitive Science)
-   start: Oct.
-   end: Jul. 2011
-   location: Istituto Italiano di Tecnologia (IIT), Genova IT
-   location-link: http://www.iit.it
-   description: I have partnered with the Italian Institute of Technology during my MSc thesis. See the <i>`Education`</i> section below for details about my master thesis.
-   
- - name: Icon Designer
-   title: Icon Designer in outsourcing
-   start: Jul.
-   end: Oct. 2013
-   location: Coop la Lucerna
-   location-link: http://cooplalucerna.it/
-   description: "<i>Coop la Lucerna</i> is a farm right in the middle of Pianura Padana, IT. During the process of restructuring their online offerings, they contacted me in order to implemented a set of icons for their website. The icons were a set of 20 vegetables, rendered in a flat and minimal look."
-   
- - name: Icon Designer
-   title: Icon Designer in outsourcing
-   start: Oct.
-   end: Dec. 2011
-   location: Magor Corp.
-   location-link: http://www.magorcorp.com/
-   description: "I have been contacted in order to design a new set of icons for their tele-collaboration software (a Skype-like alternative oriented toward telepresence and teleconference). I designed a total of 30 icons."
-   
- - name: Icon Designer
-   title: Icon Designer in outsourcing
-   start: Feb.
-   end: Mar. 2010
-   location: The Castle Project
-   location-link: http://www.castleproject.org.uk/
-   description: "I implemented a set of icons for their website. It was a non-profit organization based in Edinburgh aimed toward taking care of drug- and alcohol- addicts, so I had some fun in designing some drug-related icons."
+ - name: Research Fellow
+   title: Research Assistant and IT Engineer @ [HANDLE Project](http://www.handle-project.eu/)
+   start: Feb. 2012
+   end: Sep. 2012
+   location: University Carlos III of Madrid (UC3M), Madrid, ES
+   location-link: http://www.uc3m.es
+   description: I have partnered with the HANDLE European Project during my MSc thesis. See the <i>`Education`</i> section below for details about my master thesis. This collaborative project is funded by the European Commission within the Seventh Framework Programme FP7, as part of theme 2: Cognitive Systems, Interaction, Robotics, under grant agreement 231640. 
+
+ - name: Jr. Software Engineer 
+   title: UX/UI Engineer @ Mirada PLC
+   start: Aug. 2011
+   end: Feb. 2012
+   location: Mirada PLC, Madrid, ES
+   location-link: http://www.mirada.tv/
+   description: I implemented a set of icons for their website. It was a non-profit organization based in Edinburgh aimed toward taking care of drug- and alcohol- addicts, so I had some fun in designing some drug-related icons.
+
+ - name: Research Fellow
+   title: Machine Learning Engineer @ Learning and Artificial Neural Networks AYRNA, Computer Science Department
+   start: Sep. 2010
+   end: Jun. 2010
+   location: University of Cordoba (UCO), Cordoba, ES
+   location-link: http://www.uco.es/
+   description: I implemented a set of libraries for Matlab. It was related to .
 
 education:
  - name: Ph.D. in Life and Humanoid Technologies <a class="no-print" href="/papers/[Roncone PhD Thesis 2015] Expanding Sensorimotor capabilities of Humanoid Robots through Multisensory Integration - a study on the implementation of Peripersonal Space on the iCub.pdf" target="_blank"> [PDF]</a>
