@@ -104,7 +104,7 @@ professional:
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://ieee.uc3m.es/
-   description: I coordinate educational projects at the _School of Robots_ and _Open-Source 3D Printers_ groups. 
+   description: I coordinate educational projects at the <i>School of Robots</i> and <i>Open-Source 3D Printers</i> groups. 
    
  - name: Ph.D. Fellow
    title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
@@ -255,5 +255,5 @@ Energetic and resourceful Robotics Engineer with more than five years research e
 ## Summary
 
 Raúl Pérula-Martínez was born in Cordoba, Spain, 1988. He received his BSc in [Technical Engineering in Computer Science Systems](http://www.uco.es/eps/node/87) at the [University of Cordoba](http://www.uco.es/) in 2009. In 2011 he completed another BSc in [Computer Science Engineering](http://www.uco.es/eps/node/99)  in the same university. While he was working as Jr. Software Engineer for the company Mirada PLC, he finished his MSc in Robotics and Automation at the [University Carlos III of Madrid](http://www.uc3m.es/) in 2013. In 2012, he started as a member of the [Robotics Society and IEEE Student Branch](http://ieee.uc3m.es/) at the UC3M, being the _Chairman_ since 2014.
-Since 2013, he is working in his Ph.D. in _Robotics_ from the same university. During this time he is working in the _Social Robots_ group at the _RoboticsLab_ in UC3M, Madrid, under the supervision of professor [Miguel A. Salichs](http://roboticslab.uc3m.es/roboticslab/people/ma-salichs). The goal of his Ph.D. project is to exploit insights from neuroscience and psychology in order to implement a model of a **Decision-Making** process for Social Robots based on Human-Robot Interaction. He is also teacher of Robotics and Computer Science.
+Since 2013, he is working in his Ph.D. in _Robotics_ from the same university. During this time he is working in the _Social Robots_ group at the _RoboticsLab_, UC3M. The goal of his Ph.D. project is to exploit insights from neuroscience and psychology in order to implement a model of a **Decision-Making** process for Social Robots based on Human-Robot Interaction. He is also teacher of Robotics and Computer Science.
 Since December 2015, he is also collaborating as a Visiting Assistance in Research at the [Social Robotics Lab](http://scazlab.yale.edu/) in Yale University.
