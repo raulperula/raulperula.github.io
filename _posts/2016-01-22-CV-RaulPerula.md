@@ -172,47 +172,54 @@ education:
    description: I implemented .
 
 publications:
+ - title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
+   authors: Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, Carlos Balaguer
+   year: 2015
+   venue: Jornadas de Automática
+   description:
+   pdf: "Gonzalez2015.pdf"
+   
  - title: "Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies"
    authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, Miguel A. Salichs
    year: 2015
    venue: Journal of Intelligent and Robotics Systems (DOI: 10.1007/s10846-015-0205-3)
    description:
-   pdf: ""
+   pdf: "Perula-Martinez2015a.pdf"
 
  - title: "Improving the expressiveness of a social robot through luminous devices"
    authors: Raúl Pérula-Martínez, Esther Salichs, Irene P. Encinar, Álvaro Castro-González, Miguel A. Salichs
    year: 2015
    venue: 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
    description:
-   pdf: ""
+   pdf: "Perula-Martinez2015b.pdf"
 
  - title: "Modelado e Implementación de un robot de entretenimiento para competición"
    authors: Raúl Pérula-Martínez, Juan Miguel García Haro and Abdulla Al-Kaff
    year: 2013
    venue: 11th workshop Robocity2030. Robots Sociales. (ISBN: 978-84-615-6787-4)
    description:
-   pdf: ""
+   pdf: "Perula-Martinez2013a.pdf"
 
  - title: "Diseño de un robot móvil como mascota robótica de entretenimiento para personas con discapacidad"
    authors: Raúl Pérula-Martínez, Abdulla Al-Kaff and Juan Miguel García Haro
    year: 2013
    venue: 11th workshop Robocity2030. Robots Sociales. (ISBN: 978-84-615-6787-4)
    description:
-   pdf: ""
+   pdf: "Perula-Martinez2013b.pdf"
 
  - title: "Algoritmos cuánticos en criptografía y distribución de claves en espacio libre"
-   authors: Raúl Pérula-Martínez
+   authors: Raúl Pérula-Martínez, and Pedro A. Gutiérrez Peña
    year: 2011
    venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011). (ISBN: 978-84-15105-32-9)
    description:
-   pdf: ""
+   pdf: "Perula-Martinez2011.pdf"
 
  - title: "Diseño de un controlador PID en NXT OSEK para el autoequilibrado de un robot sobre dos ruedas"
-   authors: Manuel Pedrero Luque and Raúl Pérula-Martínez
+   authors: Manuel Pedrero Luque, Raúl Pérula-Martínez, and José M. Palomares Muñoz
    year: 2011
    venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011). (ISBN: 978-84-15105-32-9)
    description:
-   pdf: ""
+   pdf: "Pedrero-Luque2011.pdf"
 
 misc:
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
