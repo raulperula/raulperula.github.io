@@ -145,7 +145,7 @@ education:
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://ieee.uc3m.es/
-   description: "I focused on improving the sensorimotor capabilities of the iCub humanoid, by implementing a bio-inspired system able to learn a multisensory representation of the space around the robot’s body (or <i>peripersonal space</i>). The robot is equipped with a whole-body artificial skin and learns the consequences of its interaction with the self and the environment by means of a multisensory (tactile-motor and tactile-visual) representation. This results in the extension of the robot's tactile domain toward the nearby space, in such a way that it implicitly copes with modeling or calibration errors. Finally, this representation is then exploited with a sensory-based guidance of the motor actions performed by the robot. That is, an avoidance and catching controller capable of using any body part in order to either prevent collision with or come into contact with incoming objects. "
+   description: I focused on improving the low and high-level capabilities of the social robot Maggie, by implementing a bio-inspired decision-making system able to learn from Human-Robot Interaction. The robot is equipped with a whole-body artificial skin and learns the consequences of its interaction with the self and the environment by means of a multisensory (tactile-motor and tactile-visual) representation. This results in the extension of the robot's tactile domain toward the nearby space, in such a way that it implicitly copes with modeling or calibration errors. Finally, this representation is then exploited with a sensory-based guidance of the motor actions performed by the robot. That is, an avoidance and catching controller capable of using any body part in order to either prevent collision with or come into contact with incoming objects.
    
  - name: M.Sc. in Robotics and Automation
    title: Thesis title `State of the Art and Implementation of a Classifier for Daily Use Objects`
@@ -153,7 +153,7 @@ education:
    end: 2013
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://ieee.uc3m.es/
-   description: "I developed a multisensory machine learning system in order to improve the detection and the identification of objects in the iCub robot's workspace. Specifically, I implemented an SVM-based system able to integrate between the visual system and the haptic information coming from the F/T sensor of the iCub robot. The system proved to be successful in improving the vision-based detection of a set of objects by means of the haptic exploration of the same objects."
+   description: I developed an artificial vision machine learning system using ROS in order to improve the detection and the identification of daily use objects. Specifically, I implemented a SIFT-based system able to integrate between the 2D (SIFT) and 3D (PointCloud) information coming from a kinect camera. The system proved to be successful in improving the vision-based detection and labeling of a set of objects.
    
  - name: B.Sc. with honors in Computer Science Engineering
    title: Thesis title `Neuronal Networks Models for Ordinal Regression based on Gradient Descent Techniques`
@@ -161,7 +161,7 @@ education:
    end: 2011
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/
-   description: "I carried out a system able to control a PUMA robotic arm and develop a goalkeeper-like behavior in an air hockey setup. The robot used SVMs in order to understand which of the puck trajectories it previously experienced was scoring a point. Based on this, it learned the ability to prevent such points by predicting the final outcome of a trajectory given some initial samples. Its success rate was beyond 95%."
+   description: I carried out .
    
  - name: B.Sc. in Technical Engineering in Computer Science Systems
    title: Thesis title `Watermarks in Digital Images`
@@ -169,7 +169,7 @@ education:
    end: 2009
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/
-   description: "ISICT stands for <i>Institute for Advanced Studies in Information and Communication Technologies</i>. It is a consortium that integrates the courses provided by the University of Genoa with lessons held by industry leaders. The goal is to better prepare students for the labor market. To this end, I attended a number of additional courses ranging from <i>Marketing</i> to <i>Telecommunications</i> to <i>Aerospace Engineering</i>. I've been also selected for a scholarship, after a thorough examination (only three positions were available)."
+   description: I implemented .
 
 publications:
  - title: "Learning peripersonal space representation through artificial skin for avoidance and reaching with whole body surface"
@@ -177,60 +177,16 @@ publications:
    year: 2015
    venue: IEEE/RSJ International Conference on Intelligent Robots and Systems
    where: Hamburg, Germany, September 28-October 2, 2015
+   description:
    pdf: "[Roncone et al. 2015] Learning peripersonal space representation through artificial skin for avoidance and reaching with whole body surface.pdf"
-   description:
- - title: "Gaze Stabilization for Humanoid Robots: A Comprehensive Framework"
-   authors: Alessandro Roncone, Ugo Pattacini, Giorgio Metta, and Lorenzo Natale
-   year: 2014
-   venue: IEEE-RAS International Conference on Humanoid Robots
-   where: Madrid, Spain, November 18-20, 2014
-   description:
-   pdf: "[Roncone et al. 2014] - Gaze stabilization for humanoid robots: a Comprehensive Framework.pdf"
- - title: "3D Stereo Estimation and Fully Automated Learning of Eye-Hand Coordination in Humanoid Robots"
-   authors: S. R. Fanello, U. Pattacini, I. Gori, V. Tikhanoff, M. Randazzo, A. Roncone, F. Odone, and G. Metta
-   year: 2014
-   venue: IEEE-RAS International Conference on Humanoid Robots
-   where: Madrid, Spain, November 18-20, 2014
-   description:
-   pdf: "[Fanello et al. 2014] - 3D estimation and fully automated learning of eye-hand coordination in humanoid robots.pdf"
- - title: "Automatic kinematic chain calibration using artificial skin: self-touch in the iCub humanoid robot"
-   authors: Alessandro Roncone, Matej Hoffmann, Ugo Pattacini, and Giorgio Metta
-   year: 2014
-   venue: IEEE International Conference on Robotics and Automation (ICRA)
-   where: Hong Kong, China, May 31-June 7, 2014
-   description: <a href="http://spectrum.ieee.org/automaton/robotics/robotics-software/video-friday-robot-racecar-kilobot-display-humanoid-skin" target="_blank">It was featured at the IEEE Spectrum Video Friday!</a>
-   pdf: "[Roncone et al. 2014] - Automatic Kinematic Chain Calibration using artificial skin: self-touch in the iCub humanoid robot.pdf"
 
 misc:
- - title: "Teaching Assistant"
-   authors: "Alessandro Roncone, Carlo Ciliberto, Giulia Pasquale and Raffaello Camoriano"
-   year: 2015
-   venue: "CBMM 2015 Summer School"
-   where: "Woods Hole, MA, August 13-September 3, 2015"
-   description: "Teaching assistant at the 2015 CBMM Summer School, organized by a number of MIT lab groups and affiliates. I focused on tutoring students during their projects with the iCub. A notable achievement has been the integration of Google Glass onto the YARP framework, that has been later used in order to perform head/gaze teleoperation on the iCub."
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
    authors: "Matej Hoffmann, Alessandro Roncone, Lorenzo Jamone, and Beata Grzyb"
    year: 2014
    venue: "IEEE International Conference on Development and Learning and on Epigenetic Robotics"
    where: Genoa, Italy, October 13-16, 2014
    description: "Half-day workshop @ICDL-EPIROB 2014 Conference. The goal of the workshop was to <i>explore the possibility of robots developing models inspired by the mechanisms of human body representations</i>. In this way, they can on one hand become new modeling tools for empirical sciences - expanding the domain of computational modeling by anchoring it to the physical environment and a physical body. On the other hand, robot controllers endowed with multimodal whole-body awareness and plasticity typical of humans should give rise to - in robotics unprecedented - autonomy, robustness, and resilience."
- - title: "Modeling the development of body knowledge using humanoid robots"
-   authors: "Matej Hoffmann, Alessandro Roncone, Giorgio Metta"
-   year: 2014
-   venue: "International conference on Infant Studies"
-   where: Berlin, Germany, July 3-5, 2014
-   description: "Oral presentation at the <i>International Conference on Infant Studies</i> on my work related to the double-touch (made by Matej)."
- - title: "Modeling the development of human body representations"
-   authors: "Matej Hoffmann, Alessandro Roncone, Giorgio Metta"
-   year: 2013
-   venue: "SMLC - Workshop on Synthetic Modeling of Life and Cognition: Open Questions"
-   where: Bergamo, Italy, September 12-14, 2013
-   description: "Oral presentation at the workshop on <i>Synthetic Modeling of Life and Cognition</i>: Open Questions."
- - title: "Researcher of the week"
-   year: 2013-2014
-   venue: IIT (Istituto Italiano di Tecnologia)
-   where: iCub Facility
-   description: "I've been researcher of the week for two times. Despite its name, this award is given very rarely to outstanding research performed in the iCub Facility at IIT. In the past two years, only 6 of these awards have been given."
 ---
 
 <div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
