@@ -187,6 +187,38 @@ publications:
    where: Portland, USA, March 2-5, 2015
    description:
    pdf: "Perula-Martinez2015b.pdf"
+   
+ - title: "Modelado e Implementación de un robot de entretenimiento para competición"
+   authors: Raúl Pérula-Martínez, Juan Miguel García Haro and Abdulla Al-Kaff
+   year: 2013
+   venue: 13th workshop Robocity2030. Robots para los ciudadanos. (ISBN: 978-84-615-6787-4)
+   where: University Carlos III of Madrid, Spain, September 27, 2013
+   description:
+   pdf: "Perula-Martinez2013a.pdf"
+
+ - title: "Diseño de un robot móvil como mascota robótica de entretenimiento para personas con discapacidad"
+   authors: Raúl Pérula-Martínez, Abdulla Al-Kaff and Juan Miguel García Haro
+   year: 2013
+   venue: 13th workshop Robocity2030. Robots para los ciudadanos. (ISBN: 978-84-615-6787-4)
+   where: University Carlos III of Madrid, Spain, September 27, 2013
+   description:
+   pdf: "Perula-Martinez2013b.pdf"
+
+ - title: "Algoritmos cuánticos en criptografía y distribución de claves en espacio libre"
+   authors: Raúl Pérula-Martínez, and Pedro A. Gutiérrez Peña
+   year: 2011
+   venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011). (ISBN: 978-84-15105-32-9)
+   where: University of Cordoba, Spain, April 13, 2011
+   description:
+   pdf: "Perula-Martinez2011.pdf"
+
+ - title: "Diseño de un controlador PID en NXT OSEK para el autoequilibrado de un robot sobre dos ruedas"
+   authors: Manuel Pedrero Luque, Raúl Pérula-Martínez, and José M. Palomares Muñoz
+   year: 2011
+   venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011). (ISBN: 978-84-15105-32-9)
+   where: University of Cordoba, Spain, April 13, 2011
+   description:
+   pdf: "Pedrero-Luque2011.pdf"
 
 misc:
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
