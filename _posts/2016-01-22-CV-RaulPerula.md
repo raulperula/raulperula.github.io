@@ -186,7 +186,6 @@ publications:
    venue: Journal of Intelligent and Robotics Systems (DOI: 10.1007/s10846-015-0205-3)
    where: Springer
    description:
-   pdf: "Perula-Martinez2015a.pdf"
 
 misc:
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
