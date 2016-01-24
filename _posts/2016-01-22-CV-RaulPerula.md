@@ -193,7 +193,7 @@ publications:
    year: 2015
    venue: Journal of Intelligent and Robotics Systems
    where: Springer
-   description:
+   description: DOI: 10.1007/s10846-015-0205-3
    pdf: "Perula-Martinez2015a.pdf"
 
 misc:
