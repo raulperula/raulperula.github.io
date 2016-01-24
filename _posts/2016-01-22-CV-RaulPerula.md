@@ -239,7 +239,7 @@ misc:
 
 ## Who am I
 
-Energetic and resourceful Robotics Engineer with more than five years research experience and a proven publication track record. Motivated by intellectually challenging projects as well as personal achievements, I like to learn new things by stimulating myself with new goals. I am capable of pursuing individual research aimed at the development of novel applications, but I particularly love to be part of a team with bright people working toward ambitious ideas. I am enthusiastic toward the design and the realization of highly innovative tasks, and I love to work hard in pursuance of them.
+Enthusiastic and skillful Software Engineer and Roboticist with more than five years software programming and research experience, and a proven publication track record. Motivated by intellectually challenging projects as well as personal achievements. I love learning new things related with technology and find new goals to motivate myself. I am capable of pursuing individual R&D, but I particularly prefer to be part of a team with bright people working toward ambitious ideas. I love being a perfectionist and hardworking person toward the realization of highly innovative tasks.
 
 ## Me at a glance
 
