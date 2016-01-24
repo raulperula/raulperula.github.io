@@ -181,7 +181,7 @@ publications:
    pdf: "Gonzalez2015.pdf"
    
  - title: "Improving the expressiveness of a social robot through luminous devices"
-   authors: Raúl Pérula-Martínez, Esther Salichs, Irene P. Encinar, Álvaro Castro-González, Miguel A. Salichs
+   authors: Raúl Pérula-Martínez, Esther Salichs, Irene P. Encinar, Álvaro Castro-González, and Miguel A. Salichs
    year: 2015
    venue: 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
    where: Portland, USA, March 2-5, 2015
@@ -189,7 +189,7 @@ publications:
    pdf: "Perula-Martinez2015b.pdf"
    
  - title: "Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies"
-
+   authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, and Miguel A. Salichs
 
 misc:
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
