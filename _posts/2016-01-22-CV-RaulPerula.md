@@ -178,6 +178,7 @@ publications:
    venue: XXXVI Jornadas de Automática
    where: Bizkaia Aretoa, Bilbao, Spain, September 2-4, 2015
    description:
+   pdf: "Gonzalez2015.pdf"
 
 misc:
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
