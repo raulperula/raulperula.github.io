@@ -190,6 +190,7 @@ publications:
    
  - title: "Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies"
    authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, and Miguel A. Salichs
+   year: 2015
 
 misc:
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
