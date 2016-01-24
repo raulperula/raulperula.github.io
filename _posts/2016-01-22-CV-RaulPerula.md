@@ -187,6 +187,9 @@ publications:
    where: Portland, USA, March 2-5, 2015
    description:
    pdf: "Perula-Martinez2015b.pdf"
+   
+ - title: "Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies"
+
 
 misc:
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
