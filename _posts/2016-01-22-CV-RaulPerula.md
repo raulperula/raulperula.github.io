@@ -243,14 +243,11 @@ Enthusiastic and skillful Software Engineer and Roboticist with more than five y
 
 ## Me at a glance
 
- * _Robotics Engineer_ with _4 year full-time experience_ with one of the most advanced robots out there, i.e. the [iCub](http://www.icub.org).
- * Research interests: **robotics**, multisensory integration, calibration, kinematics, tactile sensing, machine learning, computer vision, sensor fusion.
- * Considerable background in employing optimization techniques in real-world robotic applications: knowledgeable in particular about [IPOPT](https://projects.coin-or.org/Ipopt), a software designed for large-scale nonlinear optimization problems. Some experience with control engineering and signal processing.
- * _C++ developer_, with a fine knowledge of **YARP** and **iCub** software and libraries. Some experience with the ROS middleware.
- * Some of my work is available to download at my [GitHub page](http://github.com/alecive/), or in the [Robotology GitHub Organization](https://github.com/robotology).
- * Long-time Linux user, and active contributor to the Linux FOSS community.
- * Graphic Designer and freelancer in the spare time, with a number of successfull projects and employments.
- * Obsessed by two things: _pixel-perfect graphics_, and _bit-perfect code_.
+ * **Python and C++ developer**, with a fine knowledge of software engineering methodologies, continuous integration, and statistical software and libraries.
+ * **Robotics Engineer** with _5 years full-time experience_ with one of the most advanced social robots out there, the social robot [Maggie](http://wiki.ros.org/Robots/Maggie). Considerable background employing the ROS framework, from low-level implementation (i.e. drivers) to high-level skills (i.e. decision-making systems), and the deployment process
+ * **Researcher** with interests about: social robots, educational robots, human-robot interaction, high-level decision-making, machine learning, computer vision, sensorimotor controllers, and sensor fusion among others.
+ * Some of my works are available to download at my [GitHub page](http://github.com/raulperula/). And also in the [Social Robots GitHub Organization](https://github.com/UC3MSocialRobots) or the [ASROB GitHub Organization](https://github.com/asrob-uc3m).
+ * GNU/Linux user with more than _8 years experience_, and contributor with some scripts.
 
 ## Summary
 
