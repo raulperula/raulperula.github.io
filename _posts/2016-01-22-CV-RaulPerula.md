@@ -197,7 +197,7 @@ publications:
    pdf: "Perula-Martinez2015a.pdf"
    
  - title: "Modelado e Implementación de un robot de entretenimiento para competición"
-   authors: Raúl Pérula-Martínez, Juan Miguel García Haro and Abdulla Al-Kaff
+   authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, and Abdulla Al-Kaff
    year: 2013
    venue: 13th workshop Robocity2030. Robots para los ciudadanos
    where: University Carlos III of Madrid, Spain, September 27, 2013
@@ -205,7 +205,7 @@ publications:
    pdf: "Perula-Martinez2013a.pdf"
    
  - title: "Diseño de un robot móvil como mascota robótica de entretenimiento para personas con discapacidad"
-   authors: Raúl Pérula-Martínez, Abdulla Al-Kaff and Juan Miguel García Haro
+   authors: Raúl Pérula-Martínez, Abdulla Al-Kaff, and Juan Miguel García-Haro
    year: 2013
    venue: 13th workshop Robocity2030. Robots para los ciudadanos
    where: University Carlos III of Madrid, Spain, September 27, 2013
@@ -221,7 +221,7 @@ publications:
    pdf: "Perula-Martinez2011.pdf"
    
  - title: "Diseño de un controlador PID en NXT OSEK para el autoequilibrado de un robot sobre dos ruedas"
-   authors: Manuel Pedrero Luque, Raúl Pérula-Martínez, and José M. Palomares Muñoz
+   authors: Manuel Pedrero-Luque, Raúl Pérula-Martínez, and José M. Palomares Muñoz
    year: 2011
    venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011)
    where: University of Cordoba, Spain, April 13, 2011
