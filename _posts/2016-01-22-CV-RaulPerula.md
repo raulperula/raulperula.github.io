@@ -175,7 +175,8 @@ publications:
  - title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
    authors: Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, Carlos Balaguer
    year: 2015
-   venue: Jornadas de Automática
+   venue: XXXVI Jornadas de Automática
+   where: Bizkaia Aretoa, Bilbao, Spain, September 2-4, 2015
    description:
    pdf: "Gonzalez2015.pdf"
    
@@ -183,6 +184,7 @@ publications:
    authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, Miguel A. Salichs
    year: 2015
    venue: Journal of Intelligent and Robotics Systems (DOI: 10.1007/s10846-015-0205-3)
+   where: Springer
    description:
    pdf: "Perula-Martinez2015a.pdf"
 
@@ -190,20 +192,23 @@ publications:
    authors: Raúl Pérula-Martínez, Esther Salichs, Irene P. Encinar, Álvaro Castro-González, Miguel A. Salichs
    year: 2015
    venue: 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+   where: Portland, USA, March 2-5, 2015
    description:
    pdf: "Perula-Martinez2015b.pdf"
 
  - title: "Modelado e Implementación de un robot de entretenimiento para competición"
    authors: Raúl Pérula-Martínez, Juan Miguel García Haro and Abdulla Al-Kaff
    year: 2013
-   venue: 11th workshop Robocity2030. Robots Sociales. (ISBN: 978-84-615-6787-4)
+   venue: 13th workshop Robocity2030. Robots para los ciudadanos. (ISBN: 978-84-615-6787-4)
+   where: University Carlos III of Madrid, Spain, September 27, 2013
    description:
    pdf: "Perula-Martinez2013a.pdf"
 
  - title: "Diseño de un robot móvil como mascota robótica de entretenimiento para personas con discapacidad"
    authors: Raúl Pérula-Martínez, Abdulla Al-Kaff and Juan Miguel García Haro
    year: 2013
-   venue: 11th workshop Robocity2030. Robots Sociales. (ISBN: 978-84-615-6787-4)
+   venue: 13th workshop Robocity2030. Robots para los ciudadanos. (ISBN: 978-84-615-6787-4)
+   where: University Carlos III of Madrid, Spain, September 27, 2013
    description:
    pdf: "Perula-Martinez2013b.pdf"
 
@@ -211,6 +216,7 @@ publications:
    authors: Raúl Pérula-Martínez, and Pedro A. Gutiérrez Peña
    year: 2011
    venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011). (ISBN: 978-84-15105-32-9)
+   where: University of Cordoba, Spain, April 13, 2011
    description:
    pdf: "Perula-Martinez2011.pdf"
 
@@ -218,6 +224,7 @@ publications:
    authors: Manuel Pedrero Luque, Raúl Pérula-Martínez, and José M. Palomares Muñoz
    year: 2011
    venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011). (ISBN: 978-84-15105-32-9)
+   where: University of Cordoba, Spain, April 13, 2011
    description:
    pdf: "Pedrero-Luque2011.pdf"
 
