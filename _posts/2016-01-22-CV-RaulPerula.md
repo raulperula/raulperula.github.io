@@ -188,13 +188,13 @@ publications:
    description:
    pdf: "Perula-Martinez2015b.pdf"
    
- - title: "Algoritmos cuánticos en criptografía y distribución de claves en espacio libre"
-   authors: Raúl Pérula-Martínez, and Pedro A. Gutiérrez Peña
+ - title: "Diseño de un controlador PID en NXT OSEK para el autoequilibrado de un robot sobre dos ruedas"
+   authors: Manuel Pedrero Luque, Raúl Pérula-Martínez, and José M. Palomares Muñoz
    year: 2011
    venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011). (ISBN: 978-84-15105-32-9)
    where: University of Cordoba, Spain, April 13, 2011
    description:
-   pdf: "Perula-Martinez2011.pdf"
+   pdf: "Pedrero-Luque2011.pdf"
 
 misc:
  - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
