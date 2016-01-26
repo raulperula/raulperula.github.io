@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer Vision 
+title: Object Recognition 
 link: 
 link-alt: GitHub repository
 img: perception.png
