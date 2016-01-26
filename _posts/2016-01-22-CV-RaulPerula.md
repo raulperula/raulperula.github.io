@@ -141,7 +141,7 @@ professional:
    description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks.
 
 education:
- - name: Ph.D. in Life and Humanoid Technologies <a class="no-print" href="/papers/[Roncone PhD Thesis 2015] Expanding Sensorimotor capabilities of Humanoid Robots through Multisensory Integration - a study on the implementation of Peripersonal Space on the iCub.pdf" target="_blank"> [PDF]</a>
+ - name: Ph.D. in Robotics
    title: Thesis title ``
    start: 2013
    end: present
