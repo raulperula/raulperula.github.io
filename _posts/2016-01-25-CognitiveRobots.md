@@ -3,7 +3,7 @@ layout: post
 title: Cognitive Robots
 link: 
 link-alt: GitHub repository
-img: mind.png
+img: mind.jpg
 alt: mind
 date: 2016-01-25
 category: research
