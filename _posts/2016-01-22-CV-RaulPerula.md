@@ -147,7 +147,7 @@ education:
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://ieee.uc3m.es/
-   description: I focused on improving the low and high-level capabilities of the social robot Maggie, by implementing a bio-inspired decision-making system able to learn from Human-Robot Interaction. The robot is equipped with a whole-body artificial skin and learns the consequences of its interaction with the self and the environment by means of a multisensory (tactile-motor and tactile-visual) representation. This results in the extension of the robot's tactile domain toward the nearby space, in such a way that it implicitly copes with modeling or calibration errors. Finally, this representation is then exploited with a sensory-based guidance of the motor actions performed by the robot. That is, an avoidance and catching controller capable of using any body part in order to either prevent collision with or come into contact with incoming objects.
+   description: I focused on improving the low and high-level capabilities of the social robot Maggie, by implementing a bio-inspired decision-making system able to learn from Human-Robot Interaction.
    
  - name: M.Sc. in Robotics and Automation
    title: Thesis title `State of the Art and Implementation of a Classifier for Daily Use Objects`
@@ -163,7 +163,7 @@ education:
    end: 2011
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/
-   description: I carried out .
+   description: I carried out more functionalities for a Matlab toolbox (nnet) implementing the ordinal regression algorithm iRPROP+, throw Artificial Neural Networks. This work is available to download at my [GitHub project](https://github.com/raulperula/nnet_toolbox).
    
  - name: B.Sc. in Technical Engineering in Computer Science Systems
    title: Thesis title `Watermarks in Digital Images`
@@ -171,7 +171,7 @@ education:
    end: 2009
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/
-   description: I implemented .
+   description: I implemented the most significant algorithms used for watermarking (steganography) throw a comparative of robustness and vulnerabilities for each algorithm. This work is available to download at my [GitHub project](https://github.com/raulperula/watermarks_toolbox).
 
 publications:
  - title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
