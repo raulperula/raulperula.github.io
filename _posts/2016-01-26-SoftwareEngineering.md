@@ -3,8 +3,8 @@ layout: post
 title: Software Engineering
 link: 
 link-alt: GitHub repository
-img: .jpg
-alt: 
+img: programming.png
+alt: programming
 date: 2016-01-26
 category: research
 description: 
