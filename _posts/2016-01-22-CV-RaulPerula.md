@@ -16,7 +16,7 @@ skills:
       knowledge: 90
     - name: Continuous Integration
       knowledge: 80
-    - name: Agile Development (SCRUM & KANBAN)
+    - name: Agile Development
       knowledge: 80
     - name: UML Diagramming
       knowledge: 80
@@ -25,9 +25,11 @@ skills:
    items:
     - name: Python
       knowledge: 90
-    - name: C++
+    - name: C/C++
       knowledge: 90
     - name: Matlab
+      knowledge: 85
+    - name: SQL
       knowledge: 85
     - name: Bash
       knowledge: 80
