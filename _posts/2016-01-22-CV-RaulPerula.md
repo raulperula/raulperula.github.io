@@ -165,7 +165,7 @@ education:
    end: 2011
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/
-   description: I carried out more functionalities for a Matlab toolbox (nnet) implementing the ordinal regression algorithm iRPROP+, throw Artificial Neural Networks. This work is available to download at my [GitHub project](https://github.com/raulperula/nnet_toolbox).
+   description: I carried out more functionalities for a Matlab toolbox (nnet) implementing the ordinal regression algorithm iRPROP+, throw Artificial Neural Networks. This work is available to download at my <a class="no-print" href="https://github.com/raulperula/nnet_toolbox" target="_blank">GitHub project</a>.
    
  - name: B.Sc. in Technical Engineering in Computer Science Systems
    title: Thesis title `Watermarks in Digital Images`
@@ -173,7 +173,7 @@ education:
    end: 2009
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/
-   description: I implemented the most significant algorithms used for watermarking (steganography) throw a comparative of robustness and vulnerabilities for each algorithm. This work is available to download at my [GitHub project](https://github.com/raulperula/watermarks_toolbox).
+   description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a class="no-print" href="https://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
 
 publications:
  - title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
