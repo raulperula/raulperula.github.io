@@ -1,27 +1,27 @@
-<section id="post">
-    <div class="container" id="portfolio" itemscope itemtype="http://schema.org/BlogPosting">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 itemprop="name headline">{{ page.title }}</h2>
-                <h3 itemprop="description">{{ page.description }}</h3>
-                <hr class="star-secondary-on-white">
+
+    <section id="post">
+        <div class="container" id="portfolio" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 itemprop="name headline">{{ page.title }}</h2>
+                    <h3 itemprop="description">{{ page.description }}</h3>
+                    <hr class="star-secondary-on-white">
+                </div>
+            </div>
+            <div id="article" itemprop="articleBody">
+                {% if page.img %}
+                    <div id="article-img" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+                        <img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}" itemprop="url contentUrl">
+                    </div>
+                {% endif %}
+
+                {% if page.download-link%}
+                    <h2>Download Link: <a href="{{ page.download-link }}" target="_blank">{{ page.download-alt }}</a></h2>
+                {% elsif page.link%}
+                    <h2>Link: <a href="{{ page.link }}" target="_blank">{{ page.link-alt }}</a></h2>
+                {% endif%}
+
+                {{ content }}
             </div>
         </div>
-        
-        <div id="article" itemprop="articleBody">
-            {% if page.img %}
-                <div id="article-img" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-                    <img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}" itemprop="url contentUrl">
-                </div>
-            {% endif %}
-
-            {% if page.download-link%}
-                <h2>Download Link: <a href="{{ page.download-link }}" target="_blank">{{ page.download-alt }}</a></h2>
-            {% elsif page.link%}
-                <h2>Link: <a href="{{ page.link }}" target="_blank">{{ page.link-alt }}</a></h2>
-            {% endif%}
-
-            {{ content }}
-        </div>
-    </div>
-</section>
+    </section>
