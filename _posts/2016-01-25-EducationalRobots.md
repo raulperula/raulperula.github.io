@@ -19,11 +19,11 @@ Educational Robotics is the field of study related to teach STEM (Science, Techn
 
 Educational Robotics usually involves some mechanics, electronics, and software programming knowledge.
 
-More often, low-cost printed modular robots (<b><i>Figure 1</i></b>) are used. 3d printers are the emergent tool to do faster prototypes in a cheaper way. Also, Open Source technologies are the way to share information.
+Nowadays, this kind of robots are being used in many schools an universities (<b><i>Figure 1</i></b>). Along with the boom of 3d printers, these technologies are emergent tools to do faster prototypes in a cheaper way. Furthermore, Open Source collaborative communities are helping the way to share information and this is producing that this field evolves in much faster than we can perceive.
 
 {% include image.html url="portfolio/robot_colony.png" description="<b><i>Figure 1</i></b>. Educational robots used in university to teach real-time programming." %}
 
-With my team in CREA, we are currently researching how educational robots could improve the learning process for teaching children in high-schools. Moreover, we are involved in creating new low-cost modular printable robots - created by 3d printers, as a main platform for teaching. <b><i>Figure 2</i></b> shows the ProtoCREA prototype that is currently being used in several schools in Madrid.
+With my team from the <a href="https://crea-robotica.com/">CREA Educational Robotics</a> company, we are currently researching how educational robots could improve the learning process for teaching children in high-schools. Moreover, we are involved in creating new low-cost modular printable robots - created by 3d printers, as a main platform for teaching. <b><i>Figure 2</i></b> shows the ProtoCREA prototype that is currently being used in several schools in Madrid.
 
 <div class="row">
   <div class="col-sm-6">
