@@ -32,5 +32,5 @@ In this paper, we have done a low-cost printed modular robotic platform to teach
 
 #### Reference papers
 
-1. Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, and Miguel A. Salichs. <a class="no-print" href="/papers/Perula-Martinez2015a.pdf" target="_blank">_Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies_</a>. Journal of Intelligent and Robotics Systems. 2015
-2. 
+1. Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, and Miguel A. Salichs. <a class="no-print" href="/papers/Perula-Martinez2015a.pdf" target="_blank">_Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies_</a>. Journal of Intelligent and Robotics Systems. 2015.
+2. Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, Carlos Balaguer. <a class="no-print" href="/papers/Gonzalez2015.pdf" target="_blank">Estado de la Tecnología en Robótica Educativa para la Educación Secundaria</a>. XXXVI Jornadas de Automática. 2015.
