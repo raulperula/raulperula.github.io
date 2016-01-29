@@ -27,10 +27,10 @@ With my team in CREA, we are currently researching how educational robots could 
 
 <div class="row">
   <div class="col-sm-6">
-    {% include image.html url="portfolio/protocrea1.png" description="<b><i>Figure 2</i></b>. New modular printable robot called ProtoCREA." %}
+    {% include image.html url="portfolio/protocrea1.png" description="<b><i>Figure 2</i></b>. New modular printable " %}
   </div>
   <div class="col-sm-6">
-    {% include image.html url="portfolio/protocrea2.png" description="" %}
+    {% include image.html url="portfolio/protocrea2.png" description="robot called ProtoCREA." %}
   </div>
 </div>
 
