@@ -23,7 +23,7 @@ Nowadays, this kind of robots are being used in many schools an universities (<b
 
 {% include image.html url="portfolio/robot_colony.png" description="<b><i>Figure 1</i></b>. Educational robots used in university to teach real-time programming." %}
 
-Together with my team from <a href="https://crea-robotica.com/">CREA Educational Robotics</a>, we are currently researching how educational robots could improve the learning process for teaching children in high-schools. Moreover, we are involved in creating new low-cost modular printable robots - created by 3d printers, as a main platform for teaching. <b><i>Figure 2</i></b> shows the ProtoCREA prototype that is currently being used in several schools in Madrid.
+Together with my team from <a href="https://crea-robotica.com/" target="_blank">CREA Educational Robotics</a>, we are currently researching how educational robots could improve the learning process for teaching children in high-schools. Moreover, we are involved in creating new low-cost modular printable robots - created by 3d printers, as a main platform for teaching. <b><i>Figure 2</i></b> shows the ProtoCREA prototype that is currently being used in several schools in Madrid.
 
 <div class="row">
   <div class="col-sm-6">
