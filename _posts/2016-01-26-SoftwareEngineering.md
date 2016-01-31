@@ -33,4 +33,4 @@ A **design pattern** is a general reusable solution to a commonly occurring prob
 
 Software **testing** (<b><i>Figure 3</i></b>) is an investigation conducted to provide stakeholders with information about the quality of the product or service under test.
 
-{% include image.html url="portfolio/testing.png" description="<b><i>Figure 3</i></b>. The process of testing usually consists in "bugs" discovery." %}
+{% include image.html url="portfolio/testing.png" description="<b><i>Figure 3</i></b>. The process of testing usually consists in bugs discovery." %}
