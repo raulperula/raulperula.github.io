@@ -25,6 +25,6 @@ A **design pattern** is a general reusable solution to a commonly occurring prob
 
 **Agile Software Development** is a set of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams.
 
-**Continuous integration** (CI) is the practice of merging all developer working copies to a shared mainline several times a day.
+**Continuous integration** (CI) is the practice of merging all developer working copies to a shared mainline several times a day. Jenkins and Travis.
 
-Software testing is an investigation conducted to provide stakeholders with information about the quality of the product or service under test.
+Software **testing** is an investigation conducted to provide stakeholders with information about the quality of the product or service under test.
