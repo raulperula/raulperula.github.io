@@ -37,4 +37,4 @@ Together with my team from <a href="https://crea-robotica.com/" target="_blank">
 #### Reference papers
 
 1. Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, and Miguel A. Salichs. **_"Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies"_**. Journal of Intelligent and Robotics Systems. 2015.
-2. Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, Carlos Balaguer. **_"Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"_**. XXXVI Jornadas de Automática. 2015.
+1. Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, Carlos Balaguer. **_"Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"_**. XXXVI Jornadas de Automática. 2015.

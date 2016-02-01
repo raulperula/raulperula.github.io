@@ -26,3 +26,7 @@ There are many sources that says the origin of HRI as a discrete problem was sta
 > Second Law. A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.\s\s
 
 > Third Law. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
+#### Reference papers
+
+1. Raúl Pérula-Martínez, Esther Salichs, Irene P. Encinar, Álvaro Castro-González, and Miguel A. Salichs. **_"Improving the expressiveness of a social robot through luminous devices"_**. 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI). 2015.
