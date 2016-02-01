@@ -19,9 +19,8 @@ A **social robot** is an autonomous robot that interacts and communicates with h
 
 I am mainly interested in how to make social robots more intelligent for a human-robot interaction.
 
-The origin of HRI as a discrete problem was stated by 20th-century author Isaac Asimov in 1941, in his novel I, Robot. He states the Three Laws of Robotics as,
-“	
-A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.
-A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
-”
+There are many sources that says the origin of HRI as a discrete problem was stated by 20th-century author Isaac Asimov in 1941, in his novel "_I, Robot_". He states the Three Laws of Robotics as,
+
+> Law 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+> Law 2. A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.
+> Law 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
