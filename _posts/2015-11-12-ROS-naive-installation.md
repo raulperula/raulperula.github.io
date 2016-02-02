@@ -139,7 +139,7 @@ source devel/setup.bash
 To make sure your workspace is properly overlayed by the setup script, make sure `ROS_PACKAGE_PATH` environment variable includes the directory you're in.
 
 {% highlight bash %}
-[alecive@malakim]$ echo $ROS_PACKAGE_PATH
+$ echo $ROS_PACKAGE_PATH
 /home/alecive/code/catkin_ws/src:/home/alecive/code/ros_catkin_ws/install_isolated/share:/home/alecive/code/ros_catkin_ws/install_isolated/stacks
 {% endhighlight %}
 
@@ -160,7 +160,7 @@ To make sure your workspace is properly overlayed by the setup script, make sure
 `rospack` allows you to get information about packages. In this tutorial, we are only going to cover the find option, which returns the path to package. 
 
 {% highlight bash %}
-[alecive@malakim]$ rospack find roscpp
+$ rospack find roscpp
 /home/alecive/code/ros_catkin_ws/install_isolated/share/roscpp
 {% endhighlight %}
 
@@ -170,8 +170,8 @@ To make sure your workspace is properly overlayed by the setup script, make sure
 
 {% highlight bash %}
 (~) () 
-[alecive@malakim]$ roscd roscpp
+$ roscd roscpp
 
 (~/code/ros_catkin_ws/install_isolated/share/roscpp) () 
-[alecive@malakim]$ 
+$ 
 {% endhighlight %}
