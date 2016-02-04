@@ -14,12 +14,12 @@ skills:
    items:
     - name: Pattern Design
       knowledge: 90
-    - name: Continuous Integration
-      knowledge: 80
-    - name: Agile Development
-      knowledge: 80
     - name: UML Diagramming
       knowledge: 80
+    - name: Agile Development
+      knowledge: 70
+    - name: Continuous Integration
+      knowledge: 70
       
  - name: Programming
    items:
@@ -75,7 +75,7 @@ skills:
     - name: Android Development
       knowledge: 40
        
- - name: OS/Software
+ - name: OS / Software
    items: 
     - name: Ubuntu GNU/Linux
       knowledge: 95
