@@ -24,7 +24,7 @@ skills:
    items:
     - name: Python
       knowledge: 95
-    - name: C / C++ / Arduino
+    - name: C / C++
       knowledge: 95
     - name: Matlab
       knowledge: 95
