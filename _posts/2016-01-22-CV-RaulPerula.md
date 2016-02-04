@@ -105,7 +105,7 @@ professional:
    description: 
    
  - name: Chairman IEEE Student Branch
-   title: Project Manager @ Robotics Society
+   title: Project Manager @ Robotics Society (ASROB)
    start: Jan. 2014
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
