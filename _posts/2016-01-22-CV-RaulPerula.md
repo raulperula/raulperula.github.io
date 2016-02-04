@@ -24,18 +24,20 @@ skills:
  - name: Programming
    items:
     - name: Python
-      knowledge: 90
-    - name: C/C++
-      knowledge: 90
+      knowledge: 95
+    - name: C / C++ / Arduino
+      knowledge: 95
     - name: Matlab
-      knowledge: 85
+      knowledge: 95
     - name: SQL
       knowledge: 85
     - name: Bash
       knowledge: 80
+    - name: Qt
+      knowledge: 80
     - name: CMake
-      knowledge: 70
-    - name: UX/UI
+      knowledge: 80
+    - name: CUDA
       knowledge: 70
     - name: OpenCV
       knowledge: 30
