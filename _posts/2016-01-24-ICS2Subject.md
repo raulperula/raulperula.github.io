@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Teaching
+title: Industrial Computer Science II (UC3M)
 link: 
 link-alt: GitHub repository
-img: teaching.png
-alt: teaching
 date: 2016-01-24
-category: research
-description: 
+category: teaching
+description: For the students from the Degree of Electronics and Automation
 tags: [open source,robot,laboratory,diy]
 article: yes
 
