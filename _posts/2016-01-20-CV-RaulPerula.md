@@ -43,6 +43,17 @@ skills:
     - name: CSS3 & HTML5
       knowledge: 30
 
+ - name: Documentation
+   items:
+    - name: LaTeX
+      knowledge: 95
+    - name: Google Docs
+      knowledge: 95
+    - name: Doxygen
+      knowledge: 80
+    - name: Sphinx / Epydoc
+      knowledge: 80
+
  - name: Robots & Platforms
    items:
     - name: ROS
@@ -80,7 +91,11 @@ skills:
       knowledge: 95
     - name: Microsoft Windows
       knowledge: 90
+    - name: Eclipse
+      knowledge: 90
     - name: Dia Diagram Editor
+      knowledge: 90
+    - name: Trello
       knowledge: 90
     - name: Gimp
       knowledge: 60
