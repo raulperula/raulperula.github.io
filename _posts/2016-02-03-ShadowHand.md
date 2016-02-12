@@ -3,7 +3,7 @@ layout: post
 title: Shadow Robotic Hand
 download-link: 
 download-alt:  
-date: 2016-02-02
+date: 2016-02-03
 img: shadow_hand.png
 alt: shadow-hand
 category: robots
