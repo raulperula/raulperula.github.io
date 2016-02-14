@@ -13,6 +13,8 @@ article: yes
 
 ---
 
+# Subjects
+
 ## 2015-2016
 
 ### 1st Semester
@@ -54,3 +56,10 @@ article: yes
 * Ingeniería de Control (Control Engineering). Industrial Technologies Engineering Degree. 3rd year. University Carlos III of Madrid. (6 ECTS)
 * Organización de Computadores (Computers Organization). Adaptation course for Computer Science Engineering Degree. 1st year. University Carlos III of Madrid. (6 ECTS)
 * Informática Industrial (Industrial Computer Science). Industrial Technologies Engineering Degree. 4th year. University Carlos III of Madrid. (6 ECTS)
+
+# Final Degree Projects
+
+* Sánz Ruzafa, Eduardo. “Navegación robusta de un robot social mediante fusión sensorial”. 2015.
+* Blázquez Partido, María. “Desarrollo de una librería para control de colonia de mini-robots”. 2014.
+* Ponce Antolín, Miguel. “Diseño, Construcción y Puesta en Marcha de una Impresora 3D Modelo ROSTOCK”. 2014.
+* Ruíz-Medrano García, Enrique. “Desarrollo de un sistema de telepresencia robótica con Oculus Rift”. 2013.
