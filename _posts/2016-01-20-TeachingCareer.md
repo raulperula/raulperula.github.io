@@ -9,7 +9,7 @@ alt:
 category: hide
 description: 
 tags: [teaching,university,degree]
-article: yes
+permalink: teaching.html
 
 ---
 
