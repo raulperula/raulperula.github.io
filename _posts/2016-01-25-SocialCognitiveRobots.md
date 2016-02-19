@@ -27,6 +27,12 @@ There are many sources that says the origin of HRI as a discrete problem was sta
 
 > _**Third Law**. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law._
 
+Although all of this seems to be science fiction, there is a part of reality. Human-Robot collaboration is a field of study that is becoming very important. This is because robots nowadays are more complex and the ways of interaction with people are growing. For example, robots can now do a rational speech, cooking or even play a game with children.
+
+At the moment, I am focus on studying what is the best way this kind of robots can make decisions for helping people. This is a hard task, not only because we are talking about providing intelligence to a machine, it is just that those decisions need to be coherent and secure.
+
+Moreover, biology is an important factor here. This is because rational behavior is nowadays study in humans with not so much results. How the brain works is hard to discover, and neuropsychology is a field of study that only a few can understand. In a near future, robots and our homes are going to be connected among them, and also with our smartphones, smartwatches, or intelligent devices. For all these reasons, how this kind of robots are going to behave and make decisions is a very important field of study.  
+
 #### Reference papers
 
 1. Raúl Pérula-Martínez, Esther Salichs, Irene P. Encinar, Álvaro Castro-González, and Miguel A. Salichs. **_"Improving the expressiveness of a social robot through luminous devices"_**. 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI). 2015.
