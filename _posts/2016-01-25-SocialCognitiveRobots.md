@@ -31,7 +31,7 @@ Although all of this seems to be science fiction, there is a part of reality. Hu
 
 At the moment, I am focus on studying what is the best way this kind of robots can make decisions for helping people. This is a hard task, not only because we are talking about providing intelligence to a machine, it is just that those decisions need to be coherent and secure.
 
-Moreover, biology is an important factor here. This is because rational behavior is nowadays study in humans with not so much results. How the brain works is hard to discover, and neuropsychology is a field of study that only a few can understand. In a near future, robots and our homes are going to be connected among them, and also with our smartphones, smartwatches, or intelligent devices. For all these reasons, how this kind of robots are going to behave and make decisions is a very important field of study.  
+Also *biology* is an important factor here. This is because rational behavior is nowadays study in humans with not so much results. How the brain works is hard to discover, and _neuropsychology_ is a field of study that only a few can understand. In a near future, robots and our homes are going to be connected among them, and also with our smartphones, smartwatches, or intelligent devices. For all these reasons, how this kind of robots are going to behave and make decisions is a very important field of study.
 
 #### Reference papers
 
