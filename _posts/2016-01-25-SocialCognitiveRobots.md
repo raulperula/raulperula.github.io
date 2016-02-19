@@ -8,7 +8,7 @@ alt: social-robot
 date: 2016-01-25
 category: research
 description: 
-tags: [research,robotics,social,personal,help,big hero 6,i robot,robot,cognitive,cognition,github]
+tags: [research,robotics,social,personal,entertainment,help,assistance,big hero 6,i robot,robot,cognitive,cognition,github]
 article: yes
 
 ---
