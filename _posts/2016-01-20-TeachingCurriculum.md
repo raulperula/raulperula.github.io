@@ -1,6 +1,6 @@
 ---
 layout: post
-title: University Career
+title: University Curriculum
 download-link: 
 download-alt:  
 date: 2016-01-20
