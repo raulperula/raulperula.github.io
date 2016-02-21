@@ -66,9 +66,10 @@ permalink: teaching.html
 
 # Workshops & Events
 
-* Introduction to Robotics with Arduino. [AULA 2015](http://asrob.uc3m.es/index.php/RoboticAula_2016). Robotics Society & IEEE Student Branch. University Carlos III of Madrid. 2016.
-* Introduction to Robotics with Arduino. [AULA 2015](http://asrob.uc3m.es/index.php/RoboticAula_2015). Robotics Society & IEEE Student Branch. University Carlos III of Madrid. 2015.
+* Introduction to Robotics with Arduino. [RoboticAULA 2016](http://asrob.uc3m.es/index.php/School_of_Robots#AULA_.28IFEMA.29). Robotics Society & IEEE Student Branch. University Carlos III of Madrid. 2016.
+* Coordinator: [RoboKode 2015](http://asrob.uc3m.es/index.php/School_of_Robots#Robokode). University Carlos III of Madrid. 2015.
+* Introduction to Robotics with Arduino. [RoboticAULA 2015](http://asrob.uc3m.es/index.php/School_of_Robots#AULA_.28IFEMA.29). Robotics Society & IEEE Student Branch. University Carlos III of Madrid. 2015.
 * Instructional material: [Organización de Computadores](http://ocw.uc3m.es/ingenieria-informatica/organizacion-de-computadores). OpenCourseWare. Public Domain. University Carlos III of Madrid. 2014. (Finalista premio MECD-Universia 2014)
+* Coordinator: [RoboKode 2014](http://asrob.uc3m.es/index.php/School_of_Robots#Robokode). University Carlos III of Madrid. 2014.
 * Introduction to Robotics with Arduino. [Robocity13](http://roboticslab.uc3m.es/robocity13/). Robotics Society. University Carlos III of Madrid. 2013.
 * Introduction to Robotics with Arduino. [TechF3st](https://techfest.uc3m.es/2013/). Robotics Society. University Carlos III of Madrid. 2013.
-* Creator and organizer of the event [RoboKode](http://asrob.uc3m.es/index.php/School_of_Robots#Robokode). University Carlos III of Madrid. 2014-2015.
