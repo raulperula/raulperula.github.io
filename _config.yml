@@ -23,8 +23,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: University Carlos III of Madrid,
-  - line: Department of System Engineering and Automation,
+  - line: University Carlos III of Madrid
+  - line: Department of System Engineering and Automation
   - line: Leganes, 28911, Madrid, Spain.
 
 # Build settings
