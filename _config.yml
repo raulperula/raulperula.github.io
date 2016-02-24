@@ -1,6 +1,6 @@
 # Site settings
 title: raulperula
-email: raules@gmail.com
+email: raul.perula@uc3m.es
 url: http://raulperula.github.io
 phone: +34
 description: "Personal website of Raúl Pérula-Martínez, Software Engineer and Roboticist. He works at the Social Robots Group at RoboticsLab, University Carlos III, Madrid, Spain."
@@ -23,8 +23,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: University Carlos III of Madrid
+  - line: Social Robots Group, Robotics Lab
   - line: Department of System Engineering and Automation
+  - line: University Carlos III of Madrid
   - line: Leganes, 28911, Madrid, Spain
 
 # Build settings
