@@ -13,11 +13,11 @@ article: yes
 
 # Brief
 
-Language: Spanish
-Credits: 6 ECTS
-Semester: 1st
-Year: 4th
-Degree: Electronic and Automatic Degree
+* Language: Spanish
+* Credits: 6 ECTS
+* Semester: 1st
+* Year: 4th
+* Degree: Electronic and Automatic Degree
 
 ## Description
 
