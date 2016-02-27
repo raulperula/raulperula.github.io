@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Social Cognitive Robots
-link: 
+link: https://github.com/UC3MSocialRobots?utf8=%E2%9C%93&query=maggie
 link-alt: GitHub repository
 img: robot.png
 alt: social-robot
