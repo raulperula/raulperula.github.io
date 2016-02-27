@@ -2,7 +2,7 @@
 layout: post
 title: Competition robots
 download-link: https://github.com/asrob-uc3m/rpc_robot_colony.git
-download-alt:  robots-for-people-and-competition
+download-alt: GitHub repository
 date: 2016-02-02
 img: printbot.png
 alt: printbot
