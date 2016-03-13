@@ -140,7 +140,7 @@ professional:
    end: Feb. 2016
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://ieee.uc3m.es/
-   description: I coordinated several educational projects at the <a href="http://asrob.uc3m.es/index.php/School_of_Robots" target="_blank">School of Robots</a> and <a href="http://asrob.uc3m.es/index.php/Impresora-3D_Open_Source" target="_blank">Open-Source 3D Printers</i> groups. 
+   description: I coordinated several educational projects at the <a href="http://asrob.uc3m.es/index.php/School_of_Robots" target="_blank">School of Robots</a> and <a href="http://asrob.uc3m.es/index.php/Impresora-3D_Open_Source" target="_blank">Open-Source 3D Printers</a> groups. 
    
  - name: Research Fellow
    title: Research Assistant and IT Engineer @ <a class="no-print" href="http://www.handle-project.eu/" target="_blank">HANDLE Project</a>
