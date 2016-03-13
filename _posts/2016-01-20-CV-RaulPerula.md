@@ -110,22 +110,14 @@ skills:
       knowledge: 35
 
 professional:
- - name: Visiting Assistance in Research
-   title: VAR @ Social Robotics Lab, Computer Science Department
-   start: Dec. 2015
-   end: present
-   location: Yale University, New Haven, CT, USA
-   location-link: http://scazlab.yale.edu
-   description: 
-   
- - name: Chairman IEEE Student Branch
-   title: Project Manager @ Robotics Society (ASROB)
-   start: Jan. 2014
-   end: present
-   location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://ieee.uc3m.es/
-   description: I coordinate educational projects at the <i>School of Robots</i> and <i>Open-Source 3D Printers</i> groups. 
-   
+ - name: Research Software Engineer
+   title: CTO @ CREA Robótica Educativa (Educational Robotics)
+   start: Sep. 2015
+   end: Present
+   location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
+   location-link: https://crea-robotica.com/
+   description: I am the responsible 
+
  - name: Ph.D. Fellow
    title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
    start: 2012
@@ -133,6 +125,22 @@ professional:
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://www.uc3m.es
    description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the <a class="no-print" href="" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> and the <a class="no-print" href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> projects, funded by the European Union Seventh Framework Program. And also in the national project <a class="no-print" href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a>. See the <a class="no-print" href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
+   
+ - name: Visiting Assistance in Research
+   title: VAR @ Social Robotics Lab, Computer Science Department
+   start: Dec. 2015
+   end: Feb. 2016
+   location: Yale University, New Haven, CT, USA
+   location-link: http://scazlab.yale.edu
+   description: I did some research related to how to increase the interaction with users applying a probabilistic method for personalization in human-robot collaboration applied to teach children.
+   
+ - name: Chairman IEEE Student Branch
+   title: Project Manager @ Robotics Society (ASROB)
+   start: Jan. 2014
+   end: Feb. 2016
+   location: University Carlos III of Madrid (UC3M), Madrid, ES
+   location-link: http://ieee.uc3m.es/
+   description: I coordinated several educational projects at the <a href="http://asrob.uc3m.es/index.php/School_of_Robots" target="_blank">School of Robots</a> and <a href="http://asrob.uc3m.es/index.php/Impresora-3D_Open_Source" target="_blank">Open-Source 3D Printers</i> groups. 
    
  - name: Research Fellow
    title: Research Assistant and IT Engineer @ <a class="no-print" href="http://www.handle-project.eu/" target="_blank">HANDLE Project</a>
