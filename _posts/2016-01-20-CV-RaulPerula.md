@@ -111,7 +111,7 @@ skills:
 
 professional:
  - name: Research Software Engineer
-   title: CTO @ [CREA Robótica Educativa (Educational Robotics)](https://crea-robotica.com/)
+   title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
    start: Sep. 2015
    end: Present
    location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
