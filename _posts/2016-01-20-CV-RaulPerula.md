@@ -72,7 +72,7 @@ skills:
  - name: Versioning Systems
    items:
     - name: Git
-      knowledge: 90
+      knowledge: 95
     - name: Subversion
       knowledge: 90
     - name: Mercurial
