@@ -172,7 +172,7 @@ education:
    start: 2013
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://ieee.uc3m.es/
+   location-link: http://www.uc3m.es/ss/Satellite/Doctorado/en/Detalle/Estudio_C/1371210539831/1371210298470/Electrical_Engineering,_Electronics_and_Automation
    description: I focused on improving the low and high-level capabilities of the social robot Maggie, by implementing a bio-inspired decision-making system able to learn from Human-Robot Interaction.
    
  - name: M.Sc. in Robotics and Automation
@@ -180,7 +180,7 @@ education:
    start: 2011
    end: 2013
    location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://ieee.uc3m.es/
+   location-link: http://www.uc3m.es/ss/Satellite/Postgrado/en/Detalle/Estudio_C/1371209124791/1371211096495/Master_in_Robotics_and_Automation
    description: I developed an artificial vision machine learning system using ROS in order to improve the detection and the identification of daily use objects. Specifically, I implemented a SIFT-based system able to integrate between the 2D (SIFT) and 3D (PointCloud) information coming from a kinect camera. The system proved to be successful in improving the vision-based detection and labeling of a set of objects.
    
  - name: B.Sc. with honors in Computer Science Engineering
@@ -188,7 +188,7 @@ education:
    start: 2009
    end: 2011
    location: University of Cordoba (UCO), Cordoba, ES
-   location-link: http://www.uco.es/
+   location-link: https://www.uco.es/eps/node/99
    description: I carried out more functionalities for a Matlab toolbox (nnet) implementing the ordinal regression algorithm iRPROP+, throw Artificial Neural Networks. This work is available to download at my <a class="no-print" href="https://github.com/raulperula/nnet_toolbox" target="_blank">GitHub project</a>.
    
  - name: B.Sc. in Technical Engineering in Computer Science Systems
@@ -196,7 +196,7 @@ education:
    start: 2006
    end: 2009
    location: University of Cordoba (UCO), Cordoba, ES
-   location-link: http://www.uco.es/
+   location-link: https://www.uco.es/eps/node/87
    description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a class="no-print" href="https://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
 
 publications:
