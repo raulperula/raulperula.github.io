@@ -32,3 +32,5 @@ The structure for this module is the next (in Spanish):
 * Práctica 3. Estrategias de navegación en entornos 2D desconocidos [[PDF]]()
 * Practica 4. Localización geométrica [[PDF]]()
 * Práctica 5. Procesamiento de imágenes [[PDF]]()
+
+**Warning**: due to the UC3M Google Drive policy, PDFs are only available for people in the same domain.

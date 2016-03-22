@@ -31,3 +31,5 @@ The structure for this module is the next  (in Spanish):
 * Práctica 2. Actuadores y sensores con Arduino [[PDF]]()
 * Práctica 3. Control de un robot con Arduino [[PDF]]()
 * Practica 4. Aplicaciones prácticas de robótica con Arduino [[PDF]]()
+
+**Warning**: due to the UC3M Google Drive policy, PDFs are only available for people in the same domain.
