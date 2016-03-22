@@ -27,9 +27,9 @@ The main goal of this subject is students learn how to apply their knowledge abo
 
 The structure for this module is the next  (in Spanish):
 
-* Práctica 1. Introducción a Arduino [[PDF]]()
-* Práctica 2. Actuadores y sensores con Arduino [[PDF]]()
-* Práctica 3. Control de un robot con Arduino [[PDF]]()
-* Practica 4. Aplicaciones prácticas de robótica con Arduino [[PDF]]()
+* Práctica 1. Introducción a Arduino [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_NXFGS3ZEMDJRbTg)
+* Práctica 2. Actuadores y sensores con Arduino [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_NXFGS3ZEMDJRbTg)
+* Práctica 3. Control de un robot con Arduino [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_dk1hckVoZW5fS1k)
+* Practica 4. Aplicaciones prácticas de robótica con Arduino [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_Nndscmt0TUVYQUk)
 
 **Warning**: due to the UC3M Google Drive policy, PDFs are only available for people in the same domain.
