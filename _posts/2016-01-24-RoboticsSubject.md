@@ -27,10 +27,10 @@ The main goal of this subject is students learn how to apply their knowledge abo
 
 The structure for this module is the next (in Spanish):
 
-* Práctica 1. Introducción a Webots [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_WjFpWHB5WHRoZGs)
-* Práctica 2. Uso de sensores y actuadores [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_OEk5and3RkVlOGs)
-* Práctica 3. Estrategias de navegación en entornos 2D desconocidos [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_dEdId21CZ2tsVlk)
-* Practica 4. Localización geométrica [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_bEQtb0NvYWdqNFE)
-* Práctica 5. Procesamiento de imágenes [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_TWhoNzh6QlNPdEk)
+* Práctica 1. Introducción a Webots [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_WjFpWHB5WHRoZGs){:target="_blank"}
+* Práctica 2. Uso de sensores y actuadores [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_OEk5and3RkVlOGs){:target="_blank"}
+* Práctica 3. Estrategias de navegación en entornos 2D desconocidos [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_dEdId21CZ2tsVlk){:target="_blank"}
+* Practica 4. Localización geométrica [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_bEQtb0NvYWdqNFE){:target="_blank"}
+* Práctica 5. Procesamiento de imágenes [[PDF]](https://drive.google.com/open?id=0B7z0K9SklIP_TWhoNzh6QlNPdEk){:target="_blank"}
 
 **Warning**: due to the UC3M Google Drive policy, PDFs are only available for people in the same domain.
