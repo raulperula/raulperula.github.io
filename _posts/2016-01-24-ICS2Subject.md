@@ -25,9 +25,9 @@ In this subject I do the module 2 of the subject teaching how to include program
 
 The main goal of this subject is students learn how to apply their knowledge about C/C++ programming in a real-time microcontroler doing robotics tasks.
 
-The structure for this module is the next:
+The structure for this module is the next  (in Spanish):
 
-* Práctica 1. Introducción a Arduino
-* Práctica 2. Actuadores y sensores con Arduino
-* Práctica 3. Control de un robot con Arduino
-* Practica 4. Aplicaciones prácticas de robótica con Arduino
+* Práctica 1. Introducción a Arduino [[PDF]]()
+* Práctica 2. Actuadores y sensores con Arduino [[PDF]]()
+* Práctica 3. Control de un robot con Arduino [[PDF]]()
+* Practica 4. Aplicaciones prácticas de robótica con Arduino [[PDF]]()

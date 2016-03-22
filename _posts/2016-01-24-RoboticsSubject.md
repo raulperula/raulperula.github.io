@@ -25,10 +25,10 @@ In this subject I teach the programming methodologies and good practices applied
 
 The main goal of this subject is students learn how to apply their knowledge about programming in a real-time simulator (Webots) implementing several tasks in a Pionner 2 mobile robot for solving the task of search and rescue 2 people in a scenario of chaos.
 
-The structure for this module is the next:
+The structure for this module is the next (in Spanish):
 
-* Práctica 1. Introducción a Webots
-* Práctica 2. Uso de sensores y actuadores
-* Práctica 3. Estrategias de navegación en entornos 2D desconocidos
-* Practica 4. Localización geométrica
-* Práctica 5. Procesamiento de imágenes
+* Práctica 1. Introducción a Webots [[PDF]]()
+* Práctica 2. Uso de sensores y actuadores [[PDF]]()
+* Práctica 3. Estrategias de navegación en entornos 2D desconocidos [[PDF]]()
+* Practica 4. Localización geométrica [[PDF]]()
+* Práctica 5. Procesamiento de imágenes [[PDF]]()
