@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Information for ROS Indigo
+title: Brief information for ROS Indigo
 link: 
 link-alt: 
 date: 2015-11-12
