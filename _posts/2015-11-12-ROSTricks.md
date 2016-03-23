@@ -45,5 +45,16 @@ $ catkin
 
 # Templates
 
-## launch file
+## Launch file
 
+{% highlight xml %}
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+    <arg name="robot" />
+
+    <group ns="$(arg robot)">
+        <node name="some_skill" pkg="some_skill" type="node.py" output="screen" />
+    </group>
+</launch>
+{% endhighlight %}
