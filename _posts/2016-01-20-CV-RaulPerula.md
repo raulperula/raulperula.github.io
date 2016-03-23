@@ -116,7 +116,7 @@ professional:
    end: Present
    location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://portal.uc3m.es/portal/page/portal/investigacion/parque_cientifico/empresas/vivero/directorio_empresas/CREA-Robotica-Educativa
-   description: I am currently responsible for the software department. Moreover, I am part of the team of teachers responsible for training teachers from schools. 
+   description: I am currently the responsible of the software department. Moreover, I am part of the team of teachers responsible for training other teachers from schools. 
 
  - name: Ph.D. Fellow
    title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
