@@ -17,7 +17,7 @@ tags: [blog,how to,tutorial,ros,installation,indigo,ubuntu,14.04,robotics,baxter
 * This line will be replaced by the ToC, excluding the "Contents" header
 {:toc}
 
-# Installing ROS indigo
+# Installation
 
 ## In a Ubuntu 14.04 system
 
@@ -30,3 +30,18 @@ tags: [blog,how to,tutorial,ros,installation,indigo,ubuntu,14.04,robotics,baxter
 {% highlight bash %}
 
 {% endhighlight %}
+
+# Use
+
+## catkin
+
+
+
+## roslaunch
+
+
+
+# Templates
+
+## launch file
+
