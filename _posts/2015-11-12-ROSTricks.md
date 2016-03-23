@@ -42,7 +42,7 @@ $ catkin
 ## roslaunch
 
 {% highlight bash %}
-$ roslaunch 
+$ roslaunch some_skill_pkg some_skill.launch robot:=maggie
 {% endhighlight %}
 
 # Templates
