@@ -41,11 +41,15 @@ $ catkin
 
 ## roslaunch
 
-
+{% highlight bash %}
+$ roslaunch 
+{% endhighlight %}
 
 # Templates
 
 ## Launch file
+
+Example for a file named "some_skill.launch":
 
 {% highlight xml %}
 <?xml version="1.0" encoding="UTF-8"?>
