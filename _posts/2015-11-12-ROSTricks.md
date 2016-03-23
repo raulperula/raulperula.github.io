@@ -19,13 +19,13 @@ tags: [blog,how to,tutorial,ros,installation,indigo,ubuntu,14.04,robotics,baxter
 
 # Installation
 
-## In a Ubuntu 14.04 system
+## For an Ubuntu 14.04 system
 
 {% highlight bash %}
 $ 
 {% endhighlight %}
 
-## In a Raspberry Pi 2
+## For a Raspberry Pi 2 system
 
 {% highlight bash %}
 $ 
