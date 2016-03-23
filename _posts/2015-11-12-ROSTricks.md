@@ -22,20 +22,22 @@ tags: [blog,how to,tutorial,ros,installation,indigo,ubuntu,14.04,robotics,baxter
 ## In a Ubuntu 14.04 system
 
 {% highlight bash %}
-
+$ 
 {% endhighlight %}
 
 ## In a Raspberry Pi 2
 
 {% highlight bash %}
-
+$ 
 {% endhighlight %}
 
 # Use
 
-## catkin
+## Compilation
 
-
+{% highlight bash %}
+$ catkin
+{% endhighlight %}
 
 ## roslaunch
 
