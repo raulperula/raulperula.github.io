@@ -135,7 +135,7 @@ professional:
    description: I did some research related to how to increase the interaction with users applying a probabilistic method for personalization in human-robot collaboration applied to teach children.
    
  - name: Chairman IEEE Student Branch
-   title: Project Manager @ Robotics Society (ASROB)
+   title: Project Manager @ Robotics Society & IEEE Student Branch (ASROB)
    start: Jan. 2014
    end: Feb. 2016
    location: University Carlos III of Madrid (UC3M), Madrid, ES
