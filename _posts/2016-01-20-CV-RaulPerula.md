@@ -260,35 +260,35 @@ misc:
  - title: "Co-organizer of the <i>RoboticAula</i> workshop"
    authors: "Raúl Pérula-Martínez, Verónica González, Juan M. García-Haro, Pablo Marín"
    year: 2016
-   venue: University Carlos III of Madrid
+   venue: "University Carlos III of Madrid"
    where: Madrid, Spain, March 2-3, 2016
    description: "Second edition. Two-days workshop @Aula educational event. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
    
  - title: "Organizer of the <i>Robokode</i> Conference"
    authors: "Raúl Pérula-Martínez"
    year: 2015
-   venue: University Carlos III of Madrid
+   venue: "University Carlos III of Madrid"
    where: Madrid, Spain, November 12-13, 2015
    description: "Second edition. Two-days workshop @Robokode2015 Conference. The goal of the workshop was to <i>teach students in other topics than related to basic subjects</i> they learn in the career. In this way, there were talks, demonstrations, and practical classes."
    
  - title: "Co-organizer of the <i>RoboticAula</i> workshop"
    authors: "Raúl Pérula-Martínez, Verónica González, Juan M. García-Haro, Pablo Marín"
    year: 2015
-   venue: University Carlos III of Madrid
+   venue: "University Carlos III of Madrid"
    where: Madrid, Spain, March 4, 2015
    description: "One-day workshop @Aula educational event. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
    
  - title: "Organizer of the <i>Robokode</i> Conference"
    authors: "Raúl Pérula-Martínez"
    year: 2014
-   venue: University Carlos III of Madrid
+   venue: "University Carlos III of Madrid"
    where: Madrid, Spain, October 13-16, 2014
    description: "Two-days workshop @Robokode2014 Conference. The goal of the workshop was to <i>teach students in other topics than related to basic subjects</i> they learn in the career. In this way, there were talks, demonstrations, and practical classes."
    
  - title: "Organizer of the <i>Arduino + Robots</i> workshop"
    authors: "Raúl Pérula-Martínez"
    year: 2013
-   venue: University Carlos III of Madrid
+   venue: "University Carlos III of Madrid"
    where: Madrid, Spain, September 27, 2013
    description: "One-day workshop @T3chFest Conference. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
    
