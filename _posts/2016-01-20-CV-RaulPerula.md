@@ -256,13 +256,14 @@ publications:
    description:
    pdf: "Pedrero-Luque2011.pdf"
 
-misc:   
- - title: "Organizer of the <i>robotic</i> workshop at Robocity13"
-   authors: "Raúl Pérula-Martínez"
-   year: 2013
-   venue: University Carlos III of Madrid
-   where: Madrid, Spain, September 27, 2013
-   description: "One-day workshop <a href="http://roboticslab.uc3m.es/robocity13/?q=talleres" target="_blank">#Robocity13</a>. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
+misc:
+ - title: "Co-organizer of the <i>Development of body representations in humans and robots</i> workshop"
+   authors: "Matej Hoffmann, Alessandro Roncone, Lorenzo Jamone, and Beata Grzyb"
+   year: 2014
+   venue: "IEEE International Conference on Development and Learning and on Epigenetic Robotics"
+   where: Genoa, Italy, October 13-16, 2014
+   description: "Half-day workshop @ICDL-EPIROB 2014 Conference. The goal of the workshop was to <i>explore the possibility of robots developing models inspired by the mechanisms of human body representations</i>. In this way, they can on one hand become new modeling tools for empirical sciences - expanding the domain of computational modeling by anchoring it to the physical environment and a physical body. On the other hand, robot controllers endowed with multimodal whole-body awareness and plasticity typical of humans should give rise to - in robotics unprecedented - autonomy, robustness, and resilience."
+
 ---
 
 <div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
