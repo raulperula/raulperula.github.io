@@ -270,7 +270,6 @@ misc:
    venue: "University Carlos III of Madrid"
    where: Madrid, Spain, September 27, 2013
    description: ""
-
 ---
 
 <div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
