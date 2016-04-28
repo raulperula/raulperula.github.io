@@ -269,7 +269,7 @@ misc:
    year: 2013
    venue: "University Carlos III of Madrid"
    where: Madrid, Spain, September 27, 2013
-   description: "One-day workshop <a href="http://roboticslab.uc3m.es/robocity13/?q=talleres" target="_blank">#Robocity13</a>. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
+   description: "One-day workshop <a href="http://roboticslab.uc3m.es/robocity13/?q=talleres" target="_blank">@Robocity13</a>. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
 ---
 
 <div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
