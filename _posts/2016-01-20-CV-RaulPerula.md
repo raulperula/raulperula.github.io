@@ -110,7 +110,7 @@ skills:
       knowledge: 35
 
 professional:
- - name: Research Software Engineer
+ - name: Chief Technology Officer
    title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
    start: Sep. 2015
    end: Present
