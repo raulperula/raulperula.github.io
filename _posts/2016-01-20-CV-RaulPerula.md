@@ -124,7 +124,7 @@ professional:
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://roboticslab.uc3m.es/
-   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the <a class="no-print" href="" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> and the <a class="no-print" href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> projects, funded by the European Union Seventh Framework Program. And also in the national project <a class="no-print" href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a>. See the <a class="no-print" href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
+   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the <a href="" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> and the <a href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> projects, funded by the European Union Seventh Framework Program. And also in the national project <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a>. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
    
  - name: Visiting Assistance in Research
    title: VAR @ Social Robotics Lab, Computer Science Department
@@ -143,7 +143,7 @@ professional:
    description: I coordinated several educational projects at the <a href="http://asrob.uc3m.es/index.php/School_of_Robots" target="_blank">School of Robots</a> and <a href="http://asrob.uc3m.es/index.php/Impresora-3D_Open_Source" target="_blank">Open-Source 3D Printers</a> groups. 
    
  - name: Research Fellow
-   title: Research Assistant and IT Engineer @ <a class="no-print" href="http://www.handle-project.eu/" target="_blank">HANDLE Project</a>
+   title: Research Assistant and IT Engineer @ <a href="http://www.handle-project.eu/" target="_blank">HANDLE Project</a>
    start: Feb. 2012
    end: Sep. 2012
    location: University Carlos III of Madrid (UC3M), Madrid, ES
@@ -189,7 +189,7 @@ education:
    end: 2011
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: https://www.uco.es/eps/node/99
-   description: I carried out more functionalities for a Matlab toolbox (nnet) implementing the ordinal regression algorithm iRPROP+, throw Artificial Neural Networks. This work is available to download at my <a class="no-print" href="https://github.com/raulperula/nnet_toolbox" target="_blank">GitHub project</a>.
+   description: I carried out more functionalities for a Matlab toolbox (nnet) implementing the ordinal regression algorithm iRPROP+, throw Artificial Neural Networks. This work is available to download at my <a href="https://github.com/raulperula/nnet_toolbox" target="_blank">GitHub project</a>.
    
  - name: B.Sc. in Technical Engineering in Computer Science Systems
    title: Thesis title `Watermarks in Digital Images`
@@ -197,7 +197,7 @@ education:
    end: 2009
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: https://www.uco.es/eps/node/87
-   description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a class="no-print" href="https://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
+   description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a href="https://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
 
 publications:
  - title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
