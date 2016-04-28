@@ -265,7 +265,7 @@ misc:
    description: "Half-day workshop @ICDL-EPIROB 2014 Conference. The goal of the workshop was to <i>explore the possibility of robots developing models inspired by the mechanisms of human body representations</i>. In this way, they can on one hand become new modeling tools for empirical sciences - expanding the domain of computational modeling by anchoring it to the physical environment and a physical body. On the other hand, robot controllers endowed with multimodal whole-body awareness and plasticity typical of humans should give rise to - in robotics unprecedented - autonomy, robustness, and resilience."
    
  - title: "Co-organizer of the <i>Introduction to robotics</i> workshop at Robocity13"
-   authors: "Raúl Pérula-Martínez, Juan M. García-Haro"
+   authors: "Raúl Pérula-Martínez, and Juan M. García-Haro"
    year: 2013
    venue: "University Carlos III of Madrid"
    where: Madrid, Spain, September 27, 2013
