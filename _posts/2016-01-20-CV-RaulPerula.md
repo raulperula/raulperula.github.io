@@ -302,6 +302,8 @@ misc:
 
 <div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
 
+<div><p class="only-print">LinkedIn Page: <a href="http://www.linkedin.com/in/raulpm">http://www.linkedin.com/in/raulpm</a></p></div>
+
 <div><p class="only-print">GitHub Page: <a href="http://github.com/raulperula">http://github.com/raulperula</a></p></div>
 
 ## Who am I
