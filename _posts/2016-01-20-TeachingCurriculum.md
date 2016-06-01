@@ -60,9 +60,9 @@ permalink: teaching.html
 # Final Degree Projects
 
 * Sánz Ruzafa, Eduardo. "Navegación robusta de un robot social mediante fusión sensorial". 2015.
-* Blázquez Partido, María. "Desarrollo de una librería para control de colonia de mini-robots". 2014.
+* Blázquez Partido, María. "Desarrollo de una librería para control de colonia de mini-robots". 2014. [GitHub](https://github.com/raulperula/rpc_robot_colony)
 * Ponce Antolín, Miguel. "Diseño, Construcción y Puesta en Marcha de una Impresora 3D Modelo ROSTOCK". 2014.
-* Ruíz-Medrano García, Enrique. "Desarrollo de un sistema de telepresencia robótica con Oculus Rift". 2013.
+* Ruíz-Medrano García, Enrique. "Desarrollo de un sistema de telepresencia robótica con Oculus Rift". 2013. [GitHub](https://github.com/raulperula/oculus_rift)
 
 # Workshops & Events
 
