@@ -200,6 +200,22 @@ education:
    description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a href="https://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
 
 publications:
+ - title: "ProtoCREA: A Robot to Teach Them All"
+   authors: Félix R. Cañadillas, Raúl Pérula-Martínez, Verónica González, Miguel A. Salichs, Carlos Balaguer
+   year: 2016
+   venue: EDULEARN16
+   where: Barcelona, Spain, July 4-6, 2016
+   description:
+   pdf: ""
+   
+ - title: "A Review on How to Easily Program Robots at High School"
+   authors: Verónica González, Félix R. Cañadillas, Raúl Pérula-Martínez, Miguel A. Salichs, Carlos Balaguer
+   year: 2016
+   venue: RoboCity16: Robots for Citizens
+   where: Madrid, Spain, May 26-27, 2016
+   description:
+   pdf: ""
+   
  - title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
    authors: Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, Carlos Balaguer
    year: 2015
