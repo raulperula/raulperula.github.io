@@ -211,7 +211,7 @@ publications:
  - title: "A Review on How to Easily Program Robots at High School"
    authors: Verónica González, Félix R. Cañadillas, Raúl Pérula-Martínez, Miguel A. Salichs, Carlos Balaguer
    year: 2016
-   venue: RoboCity16: Robots for Citizens
+   venue: RoboCity16. Robots for Citizens
    where: Madrid, Spain, May 26-27, 2016
    description:
    pdf: ""
