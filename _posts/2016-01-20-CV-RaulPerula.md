@@ -3,7 +3,7 @@ layout: post-cv
 title: Curriculum Vitae
 cv-download-link: Europass-CV-20160108-EN-brief.pdf
 category: cv
-description: "Software Engineer and Roboticist <br><br> <i>\"Give me an API, and I shall program the world\"</i>"
+description: "Software Engineer and Roboticist"
 article: yes
 permalink: cv.html
 tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad carlos iii,uc3m,phd,yale,university,software,engineer]
