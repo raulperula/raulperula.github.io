@@ -168,7 +168,7 @@ professional:
 
 education:
  - name: Ph.D. in Robotics
-   title: Thesis title ``
+   title: Thesis title `A Cognitive System Based on Self-Learning for Human-Robot Interaction`
    start: 2013
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
@@ -201,7 +201,7 @@ education:
 
 publications:
  - title: "ProtoCREA: A Robot to Teach Them All"
-   authors: Félix R. Cañadillas, Raúl Pérula-Martínez, Verónica González, Miguel A. Salichs, Carlos Balaguer
+   authors: Félix R. Cañadillas, Raúl Pérula-Martínez, Verónica González, Miguel A. Salichs, and Carlos Balaguer
    year: 2016
    venue: EDULEARN16
    where: Barcelona, Spain, July 4-6, 2016
@@ -209,7 +209,7 @@ publications:
    pdf: ""
    
  - title: "A Review on How to Easily Program Robots at High School"
-   authors: Verónica González, Félix R. Cañadillas, Raúl Pérula-Martínez, Miguel A. Salichs, Carlos Balaguer
+   authors: Verónica González, Félix R. Cañadillas, Raúl Pérula-Martínez, Miguel A. Salichs, and Carlos Balaguer
    year: 2016
    venue: RoboCity16. Robots for Citizens
    where: Madrid, Spain, May 26-27, 2016
@@ -217,7 +217,7 @@ publications:
    pdf: ""
    
  - title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
-   authors: Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, Carlos Balaguer
+   authors: Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, and Carlos Balaguer
    year: 2015
    venue: XXXVI Jornadas de Automática
    where: Bizkaia Aretoa, Bilbao, Spain, September 2-4, 2015
