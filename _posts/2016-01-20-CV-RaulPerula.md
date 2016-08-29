@@ -62,6 +62,8 @@ skills:
       knowledge: 95
     - name: Social Robot Maggie
       knowledge: 95
+    - name: Shadow Hand
+      knowledge: 90
     - name: 3D Printers
       knowledge: 80
     - name: PR2
@@ -83,7 +85,7 @@ skills:
     - name: MIT App Inventor
       knowledge: 95
     - name: Android Development
-      knowledge: 40
+      knowledge: 50
        
  - name: OS / Software
    items: 
@@ -105,9 +107,9 @@ skills:
     - name: Spanish
       knowledge: 99
     - name: English
-      knowledge: 75
+      knowledge: 80
     - name: French
-      knowledge: 35
+      knowledge: 40
 
 professional:
  - name: Chief Technology Officer
