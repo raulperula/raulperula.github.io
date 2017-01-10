@@ -199,9 +199,17 @@ education:
    end: 2009
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: https://www.uco.es/eps/node/87
-   description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a href="https://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
+   description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a href="htt   ps://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
 
 publications:
+ - title: "Autonomy in Human-Robot Interaction Scenarios for Entertainment"
+   authors: Raúl Pérula-Martínez, Álvaro Castro-González, María Malfaz, and Miguel A. Salichs
+   year: 2016
+   venue: 12th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+   where: Vienna, Austria, March 6-9, 2017
+   description:
+   pdf: "Perula-Martinez2016"
+   
  - title: "ProtoCREA: A Robot to Teach Them All"
    authors: Félix R. Cañadillas, Raúl Pérula-Martínez, Verónica González, Miguel A. Salichs, and Carlos Balaguer
    year: 2016
