@@ -208,7 +208,7 @@ publications:
    venue: 12th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
    where: Vienna, Austria, March 6-9, 2017
    description:
-   pdf: "Perula-Martinez2016"
+   pdf: "Perula-Martinez2016c.pdf"
    
  - title: "ProtoCREA: A Robot to Teach Them All"
    authors: Félix R. Cañadillas, Raúl Pérula-Martínez, Verónica González, Miguel A. Salichs, and Carlos Balaguer
@@ -224,7 +224,7 @@ publications:
    venue: RoboCity16. Robots for Citizens
    where: Madrid, Spain, May 26-27, 2016
    description:
-   pdf: ""
+   pdf: "Perula-Martinez2016a.pdf"
    
  - title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
    authors: Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, and Carlos Balaguer
