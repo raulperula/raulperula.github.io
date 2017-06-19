@@ -66,7 +66,9 @@ skills:
       knowledge: 95
     - name: Robotics Manipulators (Shadow Hand)
       knowledge: 90
-    - name: 3D Printers (Prusa, XYZ, LEON3D)
+    - name: 3D Printers (Prusa, XYZ, LEON3D, ZMorph)
+      knowledge: 80
+    - name: Simulators (Gazebo, Rviz)
       knowledge: 80
     - name: PR2 Robot (simulation)
       knowledge: 50
