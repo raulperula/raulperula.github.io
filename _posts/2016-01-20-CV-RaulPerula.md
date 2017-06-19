@@ -28,6 +28,8 @@ skills:
       knowledge: 95
     - name: Matlab
       knowledge: 95
+    - name: Scratch
+      knowledge: 95
     - name: SQL
       knowledge: 85
     - name: Bash
@@ -58,17 +60,17 @@ skills:
    items:
     - name: ROS
       knowledge: 95
-    - name: PrintBots (Arduino)
+    - name: PrintBots (Arduino, RPI)
       knowledge: 95
-    - name: Social Robot Maggie
+    - name: Social Robots (Maggie, Mini, MBot)
       knowledge: 95
-    - name: Shadow Hand
+    - name: Robotics Manipulators (Shadow Hand)
       knowledge: 90
-    - name: 3D Printers
+    - name: 3D Printers (Prusa, XYZ, LEON3D)
       knowledge: 80
-    - name: PR2
+    - name: PR2 Robot (simulation)
       knowledge: 50
-    - name: NAO
+    - name: NAO robot (simulation)
       knowledge: 20
       
  - name: Versioning Systems
@@ -92,6 +94,8 @@ skills:
     - name: Ubuntu GNU/Linux
       knowledge: 95
     - name: Microsoft Windows
+      knowledge: 90
+    - name: macOS
       knowledge: 90
     - name: Eclipse
       knowledge: 90
