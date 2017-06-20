@@ -118,13 +118,21 @@ skills:
       knowledge: 40
 
 professional:
- - name: Chief Technology Officer
+ - name: Technical Editor
+   title: Editorial Reviewer @ <a href="http://www.aeroteconline.es/seccion/107/yorobot/" target="_blank">YoRobot Magazine</a>
+   start: Dec. 2016
+   end: Present
+   location: Madrid, ES
+   location-link: 
+   description: I am one of the responsible of reviewing the technical articles.
+   
+ - name: Chief Technology Officer & Founding Member
    title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
    start: Sep. 2015
    end: Present
    location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://portal.uc3m.es/portal/page/portal/investigacion/parque_cientifico/empresas/vivero/directorio_empresas/CREA-Robotica-Educativa
-   description: I am currently the responsible of the software department. Moreover, I am part of the team of teachers responsible for training other teachers from schools. 
+   description: I am the responsible of the software department. Moreover, I am part of the team of teachers responsible for training other teachers from schools. 
 
  - name: Ph.D. Fellow
    title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
