@@ -118,8 +118,6 @@ skills:
       knowledge: 90
     - name: Dia Diagram Editor
       knowledge: 90
-    - name: Trello
-      knowledge: 90
     - name: Gimp
       knowledge: 60
       
