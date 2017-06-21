@@ -20,11 +20,26 @@ skills:
     - name: Continuous Integration
       knowledge: 70
       
+  - name: Project Management
+   items:
+    - name: Trello
+      knowledge: 95
+    - name: Kanban
+      knowledge: 80
+    - name: Jira
+      knowledge: 80
+    - name: Jenkins
+      knowledge: 60
+    - name: MS Project
+      knowledge: 50
+    - name: Slack
+      knowledge: 40
+      
  - name: Programming
    items:
     - name: Python
       knowledge: 95
-    - name: C / C++
+    - name: C / C++ (STL)
       knowledge: 95
     - name: Matlab
       knowledge: 95
