@@ -20,7 +20,7 @@ skills:
     - name: Continuous Integration
       knowledge: 70
       
-  - name: Project Management
+ - name: Project Management
    items:
     - name: Trello
       knowledge: 95
