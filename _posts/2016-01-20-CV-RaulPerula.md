@@ -137,7 +137,7 @@ professional:
    end: Present
    location: Madrid, ES
    location-link: 
-   description: I am one of the responsible of reviewing the technical articles.
+   description: Responsible of reviewing the technical articles.
    
  - name: Chief Technology Officer & Founding Member
    title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
@@ -145,7 +145,7 @@ professional:
    end: Present
    location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://portal.uc3m.es/portal/page/portal/investigacion/parque_cientifico/empresas/vivero/directorio_empresas/CREA-Robotica-Educativa
-   description: I am the responsible of the software department. Moreover, I am part of the team of teachers responsible for training other teachers from schools. 
+   description: Responsible of the software development department. Part of the team of teachers responsible for training other teachers from schools. 
 
  - name: Ph.D. Fellow
    title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
@@ -153,7 +153,7 @@ professional:
    end: Present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://roboticslab.uc3m.es/
-   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my Ph.D. project. I have been involved in the <a href="http://monarch-fp7.eu/" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> and the <a href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> projects, funded by the European Union Seventh Framework Program. And also in the national project <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a>. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
+   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my PhD project. I have been involved in the <a href="http://monarch-fp7.eu/" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> and the <a href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> projects, funded by the European Union Seventh Framework Program. And also in the national project <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a>. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
    
  - name: Visiting Assistance in Research
    title: VAR @ Social Robotics Lab, Computer Science Department
