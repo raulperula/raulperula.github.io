@@ -197,7 +197,7 @@ professional:
 
 education:
  - name: Ph.D. in Robotics
-   title: Thesis title `A Cognitive System Based on Self-Learning for Human-Robot Interaction`
+   title: Thesis title `Autonomous Decision-Making for Socially Interactive Robots`
    start: 2013
    end: present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
