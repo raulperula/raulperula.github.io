@@ -73,7 +73,7 @@ skills:
 
  - name: Robots & Platforms
    items:
-    - name: ROS
+    - name: ROS (from hydro to kinetic version)
       knowledge: 95
     - name: PrintBots (Arduino, RPI)
       knowledge: 95
