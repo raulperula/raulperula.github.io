@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Competition robots
+title: Competition Robots
 download-link: https://github.com/asrob-uc3m/rpc_robot_colony.git
 download-alt: GitHub repository
 date: 2016-02-02
-img: printbot.png
-alt: printbot
+img: robot-protocrea.png
+alt: robot-protocrea
 category: robots
 description: 
 tags: [printbot,printbots,robot,rpmbot,impresora 3d,3d printer,open source]

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Shadow Robotic Hand
+title: Mitsubishi PA10 & Shadow Robotic Hand
 download-link: 
 download-alt:  
 date: 2016-02-03
-img: shadow_hand.png
-alt: shadow-hand
+img: robot-handle.png
+alt: robot-handle
 category: robots
 description: 
 tags: [linux,ubuntu,open source]
@@ -13,7 +13,7 @@ article: yes
 
 ---
 
-The Shadow Robotic Hand is an anthropomorphic robotic platform used for in-hand manipulation.
+The Shadow Robotic Hand is an anthropomorphic robotic platform used for in-hand manipulation in addition to an articulated arm such as the Mitsubishi PA10.
 
 ## Description
 
