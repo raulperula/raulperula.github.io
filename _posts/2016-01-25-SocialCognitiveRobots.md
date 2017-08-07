@@ -3,8 +3,8 @@ layout: post
 title: Socially Interactive Robots
 link: https://github.com/UC3MSocialRobots?utf8=%E2%9C%93&query=maggie
 link-alt: GitHub repository
-img: research-sir.png
-alt: research-sir
+img: research-socialrobots.png
+alt: research-socialrobots
 date: 2016-01-25
 category: research
 description: 
