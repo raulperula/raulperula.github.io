@@ -3,8 +3,8 @@ layout: post
 title: Social Cognitive Robots
 link: https://github.com/UC3MSocialRobots?utf8=%E2%9C%93&query=maggie
 link-alt: GitHub repository
-img: robot.png
-alt: social-robot
+img: research-socialrobots.png
+alt: research-socialrobots
 date: 2016-01-25
 category: research
 description: 

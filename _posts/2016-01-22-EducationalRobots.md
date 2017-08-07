@@ -3,8 +3,8 @@ layout: post
 title: Educational Robotics (Printbots)
 link: https://github.com/asrob-uc3m/rpc_robot_colony
 link-alt: GitHub repository
-img: printbots.png
-alt: printbots
+img: research-printbots.png
+alt: research-printbots
 date: 2016-01-22
 category: research
 description: 
