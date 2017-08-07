@@ -17,6 +17,6 @@ Maggie Social Robot is a research robotic platform used for human-robot interact
 
 ## Description
 
-I released some of the components developed for this SIR in the official <a href="https://github.com/UC3MSocialRobots" target="_blank">GitHub account</a> of the Social Robots Group (RoboticsLab) from the UC3M (Open Source license).
+I released some of the components developed for this SIR in the official <a href="https://github.com/UC3MSocialRobots?utf8=%E2%9C%93&q=maggie&type=&language=" target="_blank">GitHub account</a> of the Social Robots Group (RoboticsLab) from the UC3M (Open Source license).
 
 I have done the ROS <a href="http://wiki.ros.org/Robots/Maggie" target="_blank">documentation</a> with a complete description of the robotic architecture of the socially interactive robot Maggie. Including all components from drivers, devices and high-level skills developed in the architecture.
