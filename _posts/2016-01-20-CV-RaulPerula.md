@@ -83,7 +83,7 @@ skills:
       knowledge: 90
     - name: 3D Printers (Prusa, XYZ, LEON3D, ZMorph)
       knowledge: 80
-    - name: Simulators (Gazebo, Rviz)
+    - name: Simulators (Gazebo, Rviz, Webots)
       knowledge: 80
     - name: PR2 Robot (simulation)
       knowledge: 50
