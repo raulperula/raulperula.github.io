@@ -79,7 +79,7 @@ skills:
       knowledge: 95
     - name: Social Robots (Maggie, Mini, MBot)
       knowledge: 95
-    - name: Robotics Manipulators (Shadow Hand)
+    - name: Robotics Manipulators (PA10, Kuka, Shadow Hand)
       knowledge: 90
     - name: 3D Printers (Prusa, XYZ, LEON3D, ZMorph)
       knowledge: 80
@@ -87,19 +87,19 @@ skills:
       knowledge: 80
     - name: PR2 Robot (simulation)
       knowledge: 50
-    - name: NAO robot (simulation)
+    - name: NAO/Pepper robot (simulation)
       knowledge: 20
       
  - name: Versioning Systems
    items:
-    - name: Git
+    - name: Git (GitHub, GitLab)
       knowledge: 95
-    - name: Subversion
+    - name: Subversion (Sourceforge)
       knowledge: 90
     - name: Mercurial
       knowledge: 80
       
- - name: Mobile
+ - name: Mobile Devices
    items:
     - name: MIT App Inventor
       knowledge: 95
