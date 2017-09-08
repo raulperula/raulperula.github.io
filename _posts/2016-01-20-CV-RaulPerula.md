@@ -202,7 +202,7 @@ education:
    end: 2017
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://www.uc3m.es/ss/Satellite/Doctorado/en/Detalle/Estudio_C/1371210539831/1371210298470/Electrical_Engineering,_Electronics_and_Automation
-   description: Major: Software Engineering. I focused on improving the low and high-level capabilities of the social robot Maggie, by implementing a bio-inspired decision-making system able to learn from Human-Robot Interaction.
+   description: I focused on improving the low and high-level capabilities of the social robot Maggie, by implementing a bio-inspired decision-making system able to learn from Human-Robot Interaction.
    
  - name: M.Sc. in Robotics and Automation
    title: Thesis title `State of the Art and Implementation of a Classifier for Daily Use Objects`
