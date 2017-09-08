@@ -145,7 +145,7 @@ professional:
    end: Aug. 2017
    location: Madrid, ES
    location-link: 
-   description: In a collaboration between the University Rey Juan Carlos I (URJC) and Google, the goal of this project is to explore the use of Scratch with robots, both simulated and real. JdeRobot is a project that allows and simplifies the use of them. We started with simulated robots in Gazebo, despite with real robots because the interfaces are the same. This project expected to develop a new tool prototype that reads Scratch programs and translate them into ROS-Python components.
+   description: In a collaboration between the University Rey Juan Carlos I (URJC) and Google, the goal of this project is to explore the use of Scratch with robots, both simulated and real. JdeRobot is a project that allows and simplifies the use of them. We started with simulated robots in Gazebo, despite with real robots because the interfaces are the same. This project expected to develop a new tool prototype that reads Scratch programs and translate them into ROS-Python components. More info about the <a href="https://summerofcode.withgoogle.com/projects/#6344228931108864" target="_blank">GSoC project description</a>, and the <a href="http://jderobot.org/Raulperula-colab" target="_blank">Project Results</a>.
    
  - name: Technical Editor
    title: Editorial Reviewer @ <a href="http://www.aeroteconline.es/seccion/107/yorobot/" target="_blank">YoRobot Magazine</a>
