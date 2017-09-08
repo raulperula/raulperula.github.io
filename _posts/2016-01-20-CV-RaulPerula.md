@@ -196,7 +196,7 @@ professional:
    description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks.
 
 education:
- - name: Ph.D. in Robotics (Major: Software Engineering)
+ - name: Ph.D. in Robotics
    title: Thesis title `Autonomous Decision-Making for Socially Interactive Robots`
    start: 2013
    end: 2017
