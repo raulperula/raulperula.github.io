@@ -155,7 +155,7 @@ professional:
    location-link: 
    description: Technical writer and responsible of reviewing the rest of articles.
    
-  - name: Visiting Assistance in Research
+ - name: Visiting Assistance in Research
    title: VAR @ Social Robotics Lab, Computer Science Department
    start: Dec. 2015
    end: Feb. 2016
