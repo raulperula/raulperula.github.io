@@ -131,46 +131,6 @@ skills:
       knowledge: 40
 
 professional:
- - name: Chief Technology Officer & Founding Member
-   title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
-   start: Sep. 2015
-   end: Present
-   location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://portal.uc3m.es/portal/page/portal/investigacion/parque_cientifico/empresas/vivero/directorio_empresas/CREA-Robotica-Educativa
-   description: Responsible of the software development and research departments. Part of the team of teachers responsible for training other teachers from schools.
-
- - name: Google Summer of Code 2017 participant with University Rey Juan Carlos I
-   title: Open Source Developer @ <a href="http://jderobot.org/Raulperula-colab" target="_blank">JdeRobot project</a>
-   start: May. 2017
-   end: Aug. 2017
-   location: Madrid, ES
-   location-link: 
-   description: In a collaboration between the University Rey Juan Carlos I (URJC) and Google, the goal of this project is to explore the use of Scratch with robots, both simulated and real. JdeRobot is a project that allows and simplifies the use of them. We started with simulated robots in Gazebo, despite with real robots because the interfaces are the same. This project expected to develop a new tool prototype that reads Scratch programs and translate them into ROS-Python components. More info: <a href="https://summerofcode.withgoogle.com/projects/#6344228931108864" target="_blank">GSoC project description</a>, <a href="http://jderobot.org/Raulperula-colab" target="_blank">Project Results</a>.
-
- - name: Technical Editor
-   title: Editorial Reviewer @ <a href="http://www.aeroteconline.es/seccion/107/yorobot/" target="_blank">YoRobot Magazine</a>
-   start: Dec. 2016
-   end: Sep. 2017
-   location: Madrid, ES
-   location-link: 
-   description: Technical writer and responsible of reviewing the rest of articles.
-   
- - name: Visiting Assistance in Research
-   title: VAR @ Social Robotics Lab, Computer Science Department
-   start: Dec. 2015
-   end: Feb. 2016
-   location: Yale University, New Haven, CT, USA
-   location-link: http://scazlab.yale.edu
-   description: I did some research related to how to increase the interaction with users applying a probabilistic method for personalization in human-robot collaboration applied to teach children.
-
- - name: Ph.D. Fellow
-   title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
-   start: Sep. 2012
-   end: Aug. 2017
-   location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://roboticslab.uc3m.es/
-   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my PhD project. I have been involved in the <a href="http://monarch-fp7.eu/" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> and the <a href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> projects, funded by the European Union Seventh Framework Program. And also in the national project <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a>. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
-
  - name: Chairman IEEE Student Branch
    title: Project Manager @ Robotics Society & IEEE Student Branch (ASROB)
    start: Jan. 2014
@@ -204,14 +164,6 @@ professional:
    description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks.
 
 education:
- - name: Ph.D. in Robotics
-   title: Thesis title `Autonomous Decision-Making for Socially Interactive Robots`
-   start: 2013
-   end: 2017
-   location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://www.uc3m.es/ss/Satellite/Doctorado/en/Detalle/Estudio_C/1371210539831/1371210298470/Electrical_Engineering,_Electronics_and_Automation
-   description: Major: Software Engineering. I focused on improving the low and high-level capabilities of the social robot Maggie, by implementing a bio-inspired decision-making system able to learn from Human-Robot Interaction.
-   
  - name: M.Sc. in Robotics and Automation
    title: Thesis title `State of the Art and Implementation of a Classifier for Daily Use Objects`
    start: 2011
