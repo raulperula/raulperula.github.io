@@ -17,7 +17,9 @@ skills:
       knowledge: 80
     - name: Agile Development
       knowledge: 70
-    - name: Continuous Integration
+    - name: Continuous Integration (Jenkins, Travis, GitLab)
+      knowledge: 70
+    - name: Artificial Vision
       knowledge: 70
       
  - name: Project Management
@@ -53,10 +55,10 @@ skills:
       knowledge: 80
     - name: CMake
       knowledge: 80
-    - name: CUDA
+    - name: CUDA (and OpenCL)
       knowledge: 70
     - name: OpenCV
-      knowledge: 30
+      knowledge: 60
     - name: CSS3 & HTML5
       knowledge: 30
 
