@@ -17,25 +17,21 @@ skills:
       knowledge: 80
     - name: Agile Development
       knowledge: 70
-    - name: Continuous Integration (Jenkins, Travis, GitLab)
-      knowledge: 70
     - name: Artificial Vision
       knowledge: 70
       
  - name: Project Management
    items:
-    - name: Trello
+    - name: Agile Management Software (Trello, Kanban)
       knowledge: 95
-    - name: Kanban
+    - name: Software Development Tools (Jira, Trac)
       knowledge: 80
-    - name: Jira
-      knowledge: 80
-    - name: Jenkins
+    - name: Continuous Integration (Jenkins, Travis, GitLab)
       knowledge: 60
     - name: MS Project
       knowledge: 50
     - name: Slack
-      knowledge: 40
+      knowledge: 50
       
  - name: Programming
    items:
@@ -60,7 +56,7 @@ skills:
     - name: OpenCV
       knowledge: 60
     - name: CSS3 & HTML5
-      knowledge: 30
+      knowledge: 50
 
  - name: Documentation
    items:
@@ -90,7 +86,7 @@ skills:
     - name: PR2 Robot (simulation)
       knowledge: 50
     - name: NAO/Pepper robot (simulation)
-      knowledge: 20
+      knowledge: 50
       
  - name: Versioning Systems
    items:
@@ -130,7 +126,7 @@ skills:
     - name: English
       knowledge: 80
     - name: French
-      knowledge: 40
+      knowledge: 50
 
 professional:
  - name: Chief Technology Officer & Founding Member
