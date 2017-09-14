@@ -75,6 +75,7 @@ permalink: teaching.html
 
 # Workshops & Events
 
+* [RoboticAULA 2017](https://www.flickr.com/photos/eventosuc3m/sets/72157677681847554/). University Carlos III of Madrid. 2017.
 * Introduction to Robotics with Arduino. [RoboticAULA 2016](http://asrob.uc3m.es/index.php/School_of_Robots#AULA_.28IFEMA.29). Robotics Society & IEEE Student Branch. University Carlos III of Madrid. 2016.
 * Event Manager: [RoboKode 2015](http://asrob.uc3m.es/index.php/School_of_Robots#Robokode). University Carlos III of Madrid. 2015.
 * Introduction to Robotics with Arduino. [RoboticAULA 2015](http://asrob.uc3m.es/index.php/School_of_Robots#AULA_.28IFEMA.29). Robotics Society & IEEE Student Branch. University Carlos III of Madrid. 2015.
