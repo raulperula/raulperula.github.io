@@ -15,6 +15,13 @@ permalink: teaching.html
 
 # Subjects
 
+## 2016-2017
+
+### 1st Semester
+
+* Informática Industrial II (Industrial Computer Science II). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. University Carlos III of Madrid. (6 ECTS)
+* Robótica (Robotics). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. University Carlos III of Madrid. (6 ECTS)
+
 ## 2015-2016
 
 ### 1st Semester
@@ -59,6 +66,8 @@ permalink: teaching.html
 
 # Final Degree Projects
 
+* Jimenez Bermejo, Vctor. "Desarrollo de Actividades en Robótica Educativa". 2017.
+* Landrove Castellanos, Fernando. "Desarrollo de una Electrónica Integrada para Robots Educativos". 2017.
 * Sánz Ruzafa, Eduardo. "Navegación robusta de un robot social mediante fusión sensorial". 2015.
 * Blázquez Partido, María. "Desarrollo de una librería para control de colonia de mini-robots". 2014. [GitHub](https://github.com/raulperula/rpc_robot_colony)
 * Ponce Antolín, Miguel. "Diseño, Construcción y Puesta en Marcha de una Impresora 3D Modelo ROSTOCK". 2014.
