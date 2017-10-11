@@ -330,13 +330,6 @@ misc:
    venue: "Congreso Internacional de Tecnología y Turismo para todas las Personas"
    where: Malaga, Spain, September 27-29, 2017
    description: "Organized by Fundación ONCE. Speaker at the round table about robotics, centered in Socially Interactive and Educational robots."
-   
- - title: "Acercamiento a la ingeniería en inglés. Robótica"
-   authors: "Raúl Pérula-Martínez"
-   year: 2017
-   venue: "TECNOCAMP 2017. Una Experiencia de Acercamiento a la Ingeniería"
-   where: Madrid, Spain, July 10, 2017
-   description: "Talk about how robotics and 3D printers can be used in our dialy life."
 
  - title: "Co-organizer of the <i>RoboticAula</i> workshop"
    authors: "Raúl Pérula-Martínez, Verónica González, Juan M. García-Haro, Pablo Marín"
