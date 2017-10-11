@@ -129,6 +129,14 @@ skills:
       knowledge: 50
 
 professional:
+ - name: PostDoc Position
+   title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
+   start: Sep. 2017
+   end: Present
+   location: University Carlos III of Madrid (UC3M), Madrid, ES
+   location-link: http://roboticslab.uc3m.es/
+   description: 
+   
  - name: Chief Technology Officer & Founding Member
    title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
    start: Sep. 2015
@@ -316,6 +324,13 @@ publications:
    pdf: "Pedrero-Luque2011.pdf"
 
 misc:
+ - title: "Speaker at Robotics workshop"
+   authors: "Raúl Pérula-Martínez"
+   year: 2017
+   venue: "Congreso Internacional de Tecnología y Turismo para todas las Personas"
+   where: Malaga, Spain, September 27-29, 2017
+   description: "Organized by Fundación ONCE. Speaker at the round table about robotics, centered in Socially Interactive and Educational robots."
+
  - title: "Co-organizer of the <i>RoboticAula</i> workshop"
    authors: "Raúl Pérula-Martínez, Verónica González, Juan M. García-Haro, Pablo Marín"
    year: 2016
@@ -348,7 +363,7 @@ misc:
    authors: "Raúl Pérula-Martínez"
    year: 2013
    venue: "University Carlos III of Madrid"
-   where: Madrid, Spain, September 27, 2013
+   where: Madrid, Spain, February 14-15, 2013
    description: "One-day workshop @T3chFest Conference. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
    
  - title: "Co-rganizer of the <i>Introduction to robotics</i> workshop"
@@ -380,5 +395,5 @@ Enthusiastic and skillful Software Engineer and Roboticist with more than five y
 ## Summary
 
 Raúl Pérula-Martínez was born in Cordoba, Spain, 1988. He received his BSc in [Technical Engineering in Computer Science Systems](http://www.uco.es/eps/node/87) at the [University of Cordoba](http://www.uco.es/) in 2009. In 2011 he completed another BSc in [Computer Science Engineering](http://www.uco.es/eps/node/99)  in the same university. While he was working as Jr. Software Engineer for the company Mirada PLC, he finished his MSc in Robotics and Automation at the [University Carlos III of Madrid](http://www.uc3m.es/) in 2013. In 2012, he started as a member of the [Robotics Society and IEEE Student Branch](http://ieee.uc3m.es/) at the UC3M, being the _Chairman_ since 2014.
-Since 2013, he is working in his Ph.D. in _Robotics_ from the same university. During this time he is working in the _Social Robots_ group at the _RoboticsLab_, UC3M. The goal of his Ph.D. project is to exploit insights from neuroscience and psychology in order to implement a model of a **Decision-Making** process for Social Robots based on Human-Robot Interaction. He is also teacher of Robotics and Computer Science.
+From 2013 to 2017, he was working in his Ph.D. in _Robotics_ at the same university. During this time he was working in the _Social Robots_ group at the _RoboticsLab_, UC3M. The goal of his Ph.D. project was to exploit insights from neuroscience and psychology in order to implement a model of a Cognitive Architecture including a **Decision-Making** system for Socially Interactive Robots. He is also teacher of some subjects related to Robotics and Computer Science.
 He also collaborated as a Visiting Assistance in Research at the [Social Robotics Lab](http://scazlab.yale.edu/) in Yale University.
