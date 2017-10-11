@@ -331,7 +331,7 @@ misc:
    where: Malaga, Spain, September 27-29, 2017
    description: "Organized by Fundación ONCE. Speaker at the round table about robotics, centered in Socially Interactive and Educational robots."
 
- - title: "Acercamiento a la ingeniería en inglés: Robótica"
+ - title: "Acercamiento a la ingeniería en inglés. Robótica"
    authors: "Raúl Pérula-Martínez"
    year: 2017
    venue: "TECNOCAMP 2017. Una Experiencia de Acercamiento a la Ingeniería (UC3M)"
