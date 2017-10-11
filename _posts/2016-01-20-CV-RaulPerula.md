@@ -334,7 +334,7 @@ misc:
  - title: "Acercamiento a la ingeniería en inglés: Robótica"
    authors: "Raúl Pérula-Martínez"
    year: 2017
-   venue: "TECNOCAMP 2017: Una Experiencia de Acercamiento a la Ingeniería (UC3M)"
+   venue: "TECNOCAMP 2017. Una Experiencia de Acercamiento a la Ingeniería (UC3M)"
    where: Madrid, Spain, September 27-29, 2017
    description: "Talk about how robotics and 3D printers can be used in our dialy life."
 
