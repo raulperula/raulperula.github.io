@@ -129,8 +129,8 @@ skills:
       knowledge: 50
 
 professional:
- - name: PostDoc Position
-   title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
+ - name: Postdoctoral Research Fellow and Teaching Assistant
+   title: Roboticist and Soft. Engineer @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
    start: Sep. 2017
    end: Present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
