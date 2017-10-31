@@ -169,7 +169,7 @@ professional:
    location-link: http://scazlab.yale.edu
    description: I did some research related to how to increase the interaction with users applying a probabilistic method for personalization in human-robot collaboration applied to teach children.
 
- - name: Ph.D. Fellow
+ - name: Ph.D. Fellow and Teaching Assistant
    title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
    start: Sep. 2012
    end: Aug. 2017
