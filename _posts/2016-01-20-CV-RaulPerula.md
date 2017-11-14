@@ -124,7 +124,7 @@ skills:
     - name: Spanish
       knowledge: 99
     - name: English
-      knowledge: 80
+      knowledge: 85
     - name: French
       knowledge: 50
 
