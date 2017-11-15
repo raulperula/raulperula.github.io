@@ -1,7 +1,6 @@
 ---
 layout: post-cv
 title: Curriculum Vitae
-cv-download-link: Europass-CV-20160108-EN-brief.pdf
 category: cv
 description: "PhD in Robotics and Software Engineer"
 article: yes
