@@ -44,15 +44,17 @@ skills:
       knowledge: 95
     - name: SQL
       knowledge: 85
-    - name: Bash
+    - name: Bash (and Shell Script)
       knowledge: 80
     - name: Qt & QML
       knowledge: 80
-    - name: CMake
+    - name: CMake (and Makefile)
       knowledge: 80
     - name: CUDA (and OpenCL)
       knowledge: 70
     - name: OpenCV
+      knowledge: 60
+    - name: MPI (and OpenMP)
       knowledge: 60
     - name: CSS3 & HTML5
       knowledge: 50
@@ -134,7 +136,7 @@ professional:
    end: Present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://roboticslab.uc3m.es/
-   description: 
+   description: See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
    
  - name: Chief Technology Officer & Founding Member
    title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
