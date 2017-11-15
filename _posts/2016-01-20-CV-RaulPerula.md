@@ -136,7 +136,7 @@ professional:
    end: Present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://roboticslab.uc3m.es/
-   description: See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career. <br>Tasks<br> Analisis, Design (UML), Implementation (C++ and Python mainly), Tests (unit test and mocks), Integration (jenkins, git, svn among others), and iterative life cycle. Team management between 3 and 10 people. Technichal writting. <br>Tools<br> Eclipse, MySQL, C++, Python, Matlab, Google Test, Google Mock, Jenkins, Git, SVN, Android, Qt, QML, ROS, C.
+   description: See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career. <br><b>Tasks</b><br> Analisis, Design (UML), Implementation (C++ and Python mainly), Tests (unit test and mocks), Integration (jenkins, git, svn among others), and iterative life cycle. Team management between 3 and 10 people. Technichal writting. <br><b>Tools</b><br> Eclipse, MySQL, C++, Python, Matlab, Google Test, Google Mock, Jenkins, Git, SVN, Android, Qt, QML, ROS, C.
 
    
  - name: Chief Technology Officer & Founding Member
