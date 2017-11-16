@@ -136,7 +136,8 @@ professional:
    end: Present
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://roboticslab.uc3m.es/
-   description: See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
+   description:
+   See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
    
  - name: Chief Technology Officer & Founding Member
    title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
