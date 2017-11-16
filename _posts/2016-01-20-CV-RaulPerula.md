@@ -209,7 +209,7 @@ professional:
    end: Jun. 2010
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/grupos/ayrna/index.php/en
-   description: I implemented a set of libraries in Matlab for Ordinal Classification using Artificial Neural Networks.<br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Matlab), Tests (unit test), Integration (svn), and iterative life cycle. Technichal writting. <br><b>Tools</b><br> Matlab, C++, SVN, Android, Threads.
+   description: I implemented a set of libraries in Matlab for Ordinal Classification using Artificial Neural Networks. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Matlab), Tests (unit test), Integration (svn), and iterative life cycle. Technichal writting. <br><b>Tools</b><br> Matlab, C++, SVN, Threads.
 
 education:
  - name: Ph.D. in Robotics
