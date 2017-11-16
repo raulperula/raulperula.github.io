@@ -200,7 +200,7 @@ professional:
    end: Feb. 2012
    location: Mirada PLC, Madrid, ES
    location-link: http://www.mirada.tv/
-   description: I implemented a set of interactive TV applications using QML and Qt technologies.
+   description: I implemented a set of interactive TV applications using QML and Qt technologies. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++, Qt, QML), Tests (unit test), Integration (mercurial), and agil life cycle. Technichal writting. <br><b>Tools</b><br> C++, Qt, QML, Relational Databases, Java, Mercurial, Embeded systems.
 
  - name: Research Fellow
    title: Machine Learning Engineer @ Learning and Artificial Neural Networks AYRNA, Computer Science Department
