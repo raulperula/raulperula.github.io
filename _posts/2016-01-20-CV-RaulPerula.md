@@ -192,7 +192,7 @@ professional:
    end: Sep. 2012
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://www.uc3m.es
-   description: See the <i>`Education`</i> section below for details about my master thesis. <br><b>Projects</b><br> During this period, I have involved in the <a href="http://www.handle-project.eu/" target="_blank">HANDLE: Developmental pathway towards autonomy and dexterity in robot in-hand manipulation FP7-ICT-2007-3-231640</a> project funded by the European Union Seventh Framework Program. <br><b>Tasks</b><br> Systems Analysis and Design (UML), Implementation (C++), Tests (unit test), Integration (svn), and agil life cycle. Technichal writting. <br><b>Tools</b><br> C++, Python, HTML, CSS, Wordpress, Relational Databases, SVN, ROS, OpenCV, RVIZ, Gazebo, OpenRAVE, Mitsubishi PA10 industrial robot, HANDLE robotic hand, RGBD camera Microsoft Kinect.
+   description: See the <i>`Education`</i> section below for details about my master thesis. <br><b>Projects</b><br> During this period, I have involved in the <a href="http://www.handle-project.eu/" target="_blank">HANDLE - Developmental pathway towards autonomy and dexterity in robot in-hand manipulation FP7-ICT-2007-3-231640</a> project funded by the European Union Seventh Framework Program. <br><b>Tasks</b><br> Systems Analysis and Design (UML), Implementation (C++), Tests (unit test), Integration (svn), and agil life cycle. Technichal writting. <br><b>Tools</b><br> C++, Python, HTML, CSS, Wordpress, Relational Databases, SVN, ROS, OpenCV, RVIZ, Gazebo, OpenRAVE, Mitsubishi PA10 industrial robot, HANDLE robotic hand, RGBD camera Microsoft Kinect.
 
  - name: Jr. Software Engineer 
    title: UX/UI Engineer @ Mirada PLC
