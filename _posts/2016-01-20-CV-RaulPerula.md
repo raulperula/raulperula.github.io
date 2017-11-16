@@ -177,7 +177,7 @@ professional:
    end: Aug. 2017
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://roboticslab.uc3m.es/
-   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my PhD project. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
+   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my PhD project. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career. <br><b>Projects</b><br> During this period, I have involved in the <a href="http://monarch-fp7.eu/" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> project funded by the European Union Seventh Framework Program. Besides, I participated on the <a href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> and the <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a> national projects. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Python mainly), Tests (unit test and mocks), Integration (jenkins, git, svn among others), and iterative life cycle. Team management between 3 and 10 people. Technichal writting. <br><b>Tools</b><br> Eclipse, MySQL, C++, Python, Matlab, Google Test, Google Mock, Jenkins, Git, SVN, Android, Qt, QML, ROS, C.
    
  - name: Chairman IEEE Student Branch
    title: Project Manager @ Robotics Society & IEEE Student Branch (ASROB)
