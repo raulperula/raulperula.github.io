@@ -192,7 +192,7 @@ professional:
    end: Sep. 2012
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://www.uc3m.es
-   description: I have partnered with the HANDLE European Project during my MSc thesis. See the <i>`Education`</i> section below for details about my master thesis.
+   description: I have partnered with the HANDLE European Project during my MSc thesis. See the <i>`Education`</i> section below for details about my master thesis. <br><b>Tasks</b><br> Systems Analysis and Design (UML), Implementation (C++), Tests (unit test), Integration (svn), and agil life cycle. Technichal writting. <br><b>Tools</b><br> C++, Python, HTML, CSS, Wordpress, Relational Databases, SVN, ROS, OpenCV, RVIZ, Gazebo, OpenRAVE, Mitsubishi PA10 industrial robot, HANDLE robotic hand, RGBD camera Microsoft Kinect.
 
  - name: Jr. Software Engineer 
    title: UX/UI Engineer @ Mirada PLC
