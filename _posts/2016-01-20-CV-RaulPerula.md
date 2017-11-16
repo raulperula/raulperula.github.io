@@ -177,7 +177,7 @@ professional:
    end: Aug. 2017
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://roboticslab.uc3m.es/
-   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my PhD project. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career. <br><b>Projects</b><br> I have been involved in the <a href="http://monarch-fp7.eu/" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> and the <a href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM project (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> projects, funded by the European Union Seventh Framework Program. And also in the national project <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a>. <br><b>Tasks</b><br> Analisis, Design (UML), Implementation (C++ and Python mainly), Tests (unit test and mocks), Integration (jenkins, git, svn among others), and iterative life cycle. Team management between 3 and 10 people. Technichal writting. <br><b>Tools</b><br> Eclipse, MySQL, C++, Python, Matlab, Google Test, Google Mock, Jenkins, Git, SVN, Android, Qt, QML, ROS, C.
+   description: Doctoral course in Robotics. See the <i>`Education`</i> section below for details about my PhD project. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career. <br><b>Projects</b><br> During this period, I have involved in the <a href="http://monarch-fp7.eu/" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> project funded by the European Union Seventh Framework Program. Besides, I participated on the <a href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> and the <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a> national projects. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Python mainly), Tests (unit test and mocks), Integration (jenkins, git, svn among others), and iterative life cycle. Team management between 3 and 10 people. Technichal writting. <br><b>Tools</b><br> Eclipse, MySQL, C++, Python, Matlab, Google Test, Google Mock, Jenkins, Git, SVN, Android, Qt, QML, ROS, C.
    
  - name: Chairman IEEE Student Branch
    title: Project Manager @ Robotics Society & IEEE Student Branch (ASROB)
@@ -185,7 +185,7 @@ professional:
    end: Feb. 2016
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://ieee.uc3m.es/
-   description: I coordinated several educational projects at the <a href="http://asrob.uc3m.es/index.php/School_of_Robots" target="_blank">School of Robots</a> and <a href="http://asrob.uc3m.es/index.php/Impresora-3D_Open_Source" target="_blank">Open-Source 3D Printers</a> groups. 
+   description: I coordinated several educational projects at the <a href="http://asrob.uc3m.es/index.php/School_of_Robots" target="_blank">School of Robots</a> and <a href="http://asrob.uc3m.es/index.php/Impresora-3D_Open_Source" target="_blank">Open-Source 3D Printers</a> groups.
    
  - name: Research Fellow
    title: Research Assistant and IT Engineer @ <a href="http://www.handle-project.eu/" target="_blank">HANDLE Project</a>
@@ -209,7 +209,7 @@ professional:
    end: Jun. 2010
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/grupos/ayrna/index.php/en
-   description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks.
+   description: I implemented a set of libraries in Matlab for Ordinal Classification using Artificial Neural Networks.<br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Matlab), Tests (unit test), Integration (svn), and iterative life cycle. Technichal writting. <br><b>Tools</b><br> Matlab, C++, SVN, Android, Threads.
 
 education:
  - name: Ph.D. in Robotics
