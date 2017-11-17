@@ -144,7 +144,7 @@ professional:
    end: Present
    location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://portal.uc3m.es/portal/page/portal/investigacion/parque_cientifico/empresas/vivero/directorio_empresas/CREA-Robotica-Educativa
-   description: Responsible of the software development and research departments. Part of the team of teachers responsible for training other teachers from schools.
+   description: Responsible of the software development and research departments. Part of the team of teachers responsible for training other teachers from schools. <br><b>Projects</b><br> During this period, I have involved in the ProtoCREA educational robot project and the Extracurricular material methodology for teaching teachers and children project. <br><b>Tasks</b><br> Identify technological opportunities and risks for the business. Manage research and development (R&D). Monitor technology and social trends that could impact the company. Participate in management decisions about corporate governance. Manage the company's technology strategy. Maintain information about technology standards and compliance regulations. 
    
  - name: Google Summer of Code 2017 participant with University Rey Juan Carlos I
    title: Open Source Developer @ <a href="http://jderobot.org/Raulperula-colab" target="_blank">JdeRobot project</a>
