@@ -168,7 +168,7 @@ professional:
    end: Feb. 2016
    location: Yale University, New Haven, CT, USA
    location-link: http://scazlab.yale.edu
-   description: I did some research related to how to increase the interaction with users applying a probabilistic method for personalization in human-robot collaboration applied to teach children.
+   description: I did some research related to how to increase the interaction with users applying a probabilistic method for personalization in human-robot collaboration applied to teach children. <br><b>Tasks</b><br> Systems Analysis and Design (UML), Implementation (Python), Tests (unit test), Integration (git), and Scrum. Technichal writting. <br><b>Tools</b><br> Python, Relational Databases, Git, ROS, Socially Interactive Robots, Arduino, RaspberryPi.
 
  - name: Ph.D. Fellow and Teaching Assistant
    title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
@@ -208,7 +208,7 @@ professional:
    end: Jun. 2010
    location: University of Cordoba (UCO), Cordoba, ES
    location-link: http://www.uco.es/grupos/ayrna/index.php/en
-   description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Matlab), Tests (unit test), Integration (svn), and iterative life cycle. Technichal writting. <br><b>Tools</b><br> Matlab, C++, SVN, Threads.
+   description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Matlab), Tests (unit test), Integration (svn), and iterative life cycle. Technichal writting. <br><b>Tools</b><br> Matlab, C++, Java, SVN, Threads.
 
 education:
  - name: Ph.D. in Robotics
@@ -246,7 +246,7 @@ education:
 publications:
  - title: "Autonomy in Human-Robot Interaction Scenarios for Entertainment"
    authors: Raúl Pérula-Martínez, Álvaro Castro-González, María Malfaz, and Miguel A. Salichs
-   year: 2016
+   year: 2017
    venue: 12th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
    where: Vienna, Austria, March 6-9, 2017
    description:
