@@ -2,7 +2,7 @@
 layout: post-cv
 title: Curriculum Vitae
 category: cv
-description: "PhD in Robotics and Software Engineer"
+description: "PhD in Robotics (SW Eng., Machine Learning, HRI)"
 article: yes
 permalink: cv.html
 tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad carlos iii,uc3m,phd,yale,university,software,engineer]
@@ -130,6 +130,14 @@ skills:
       knowledge: 50
 
 professional:
+ - name: Chief Technology Officer
+   title: CTO @ <a href="http://www.robotronica.com" target="_blank">Robotronica (a Juguetronica division)</a>
+   start: Dec. 2017
+   end: Present
+   location: Madrid, ES
+   location-link: 
+   description: R&D director. AI manager (computer vision, machine learning, natural language, speech recognition, sensor fusion, etc.), HRI, HCI. Project manager for the Pepper and NAO robots from SoftBank Robotics. Project manager for the Elf robot from QIHAN Sanbot Robotics. Technical Support Manager. 
+   
  - name: Postdoctoral Research Fellow and Teaching Assistant
    title: Roboticist and Soft. Engineer @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
    start: Sep. 2017
