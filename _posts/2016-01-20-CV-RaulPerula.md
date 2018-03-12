@@ -141,7 +141,7 @@ professional:
  - name: Postdoctoral Research Fellow and Teaching Assistant
    title: Roboticist and Soft. Engineer @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
    start: Sep. 2017
-   end: Present
+   end: Dec. 2017
    location: University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://roboticslab.uc3m.es/
    description: See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
@@ -149,7 +149,7 @@ professional:
  - name: Chief Technology Officer & Founding Member
    title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
    start: Sep. 2015
-   end: Present
+   end: Dec. 2017
    location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
    location-link: http://portal.uc3m.es/portal/page/portal/investigacion/parque_cientifico/empresas/vivero/directorio_empresas/CREA-Robotica-Educativa
    description: Responsible of the software development and research departments. Part of the team of teachers responsible for training other teachers from schools. <br><b>Projects</b><br> During this period, I have involved in the ProtoCREA educational robot project and the Extracurricular material methodology for teaching teachers and children project. <br><b>Tasks</b><br> Identify technological opportunities and risks for the business. Manage research and development (R&D). Monitor technology and social trends that could impact the company. Participate in management decisions about corporate governance. Manage the company's technology strategy. Maintain information about technology standards and compliance regulations. Scrum Manager. <br><b>Tools</b><br> Trello. 
