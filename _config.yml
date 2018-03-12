@@ -1,32 +1,32 @@
 # Site settings
 title: raulperula
-email: raul.perula@uc3m.es
+email: raul.perula@robotronica.com
 url: http://raulperula.github.io
 phone: +34
-description: "Personal website of Raúl Pérula-Martínez, Software Engineer and Roboticist. He works at the Social Robots Group at RoboticsLab, University Carlos III, Madrid, Spain."
+description: "Personal website of Raúl Pérula-Martínez, Software Engineer and Roboticist. He works at the Robotronica division at Juguetronica Inc., Madrid, Spain."
 owner: Raúl Pérula-Martínez
-aboutA: "Personal website of Raúl Pérula-Martínez, Software Engineer and Roboticist. He works at the Social Robots Group at RoboticsLab, University Carlos III, Madrid, Spain."
-aboutB: "Raúl has a 5-year research experience in software and robotics engineering, working full time with Maggie, one of the most advanced social robots out there. He is mainly working on software engineering applied to robotics and decision-making systems. His deep knowledge of C++ and Python as well as the ROS framework has been mainly used for driver implementation, high level skills development, and artificial intelligence."
+aboutA: "Personal website of Raúl Pérula-Martínez, Software Engineer and Roboticist. He works at the Robotronica division at Juguetronica Inc., Madrid, Spain."
+aboutB: "Raúl has a more than 8-year R&D experience in software and robotics development, working with the most advanced social and humanoid robots out there. He is mainly working on software engineering and machine learning applied to service robotics. His deep knowledge of many programming languages as well as machine learning framework has been mainly used for project management, robotics architecture development, and artificial intelligence."
 blog: ""
-keywords: [Raul,Perula,raules,software,robotics,engineer,researcher,phd,social robot,maggie robot,human robot interaction,asrob,ieee]
+keywords: [Raul,Perula,raules,software,robotics,engineer,researcher,phd,social robot,maggie robot,human robot interaction,hri,asrob,ieee]
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://www.linkedin.com/in/raulpm
+    url: http://www.linkedin.com/in/raulperula
   - title: github
     url: https://github.com/raulperula
   - title: twitter
-    url: https://twitter.com/ra_ules
+    url: https://twitter.com/raulperula
   - title: google-plus
     url: https://plus.google.com/+RaulPM
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Social Robots Group, Robotics Lab
-  - line: Department of System Engineering and Automation
-  - line: University Carlos III of Madrid
-  - line: Leganes, 28911, Madrid, Spain
+  - line: Robotronica
+  - line: (+34) 914 478 808 Ext. 215
+  - line: C/ Alberto Aguilera, 7
+  - line: 28015 Madrid, Spain
 
 # Build settings
 markdown: kramdown
