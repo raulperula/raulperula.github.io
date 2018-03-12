@@ -392,7 +392,7 @@ misc:
 
 <div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
 
-<div><p class="only-print">LinkedIn Page: <a href="http://www.linkedin.com/in/raulpm">http://www.linkedin.com/in/raulpm</a></p></div>
+<div><p class="only-print">LinkedIn Page: <a href="http://www.linkedin.com/in/raulperula">http://www.linkedin.com/in/raulperula</a></p></div>
 
 <div><p class="only-print">GitHub Page: <a href="http://github.com/raulperula">http://github.com/raulperula</a></p></div>
 
@@ -403,7 +403,7 @@ Enthusiastic and skillful Software Engineer and Roboticist with more than five y
 ## Me at a glance
 
  * **Python and C++ developer**, with a fine knowledge of software engineering methodologies, continuous integration, and statistical software and libraries.
- * **Robotics Engineer** with _5 years full-time experience_ with one of the most advanced social robots out there, the social robot [Maggie](http://wiki.ros.org/Robots/Maggie). Considerable background employing the ROS framework, from low-level implementation (i.e. drivers) to high-level skills (i.e. decision-making systems), and the deployment process
+ * **Robotics Engineer** with more than _5 years full-time experience_ with one of the most advanced social robots out there, the social robot [Maggie](http://wiki.ros.org/Robots/Maggie). Considerable background employing the ROS framework, from low-level implementation (i.e. drivers) to high-level skills (i.e. decision-making systems), and the deployment process
  * **Researcher** with interests about: software engineering methodologies, social interactive robots, educational robots, high-level decision-making, or machine learning. For more information about my research history check my [Google Scholar](https://scholar.google.es/citations?user=5-9VRawAAAAJ&hl=es), [ResearchGate](https://www.researchgate.net/profile/Raul_Perula-Martinez/), or [ORCID](http://orcid.org/0000-0002-3991-9546) profiles.
  * Some of my works are available to download at my [GitHub page](http://github.com/raulperula/). And also in the [Social Robots GitHub Organization](https://github.com/UC3MSocialRobots) or the [ASROB GitHub Organization](https://github.com/asrob-uc3m).
  * GNU/Linux user with more than _8 years experience_, and contributor with some scripts.
