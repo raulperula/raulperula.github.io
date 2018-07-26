@@ -252,6 +252,14 @@ education:
    description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a href="htt   ps://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
 
 publications:
+ - title: "Bioinspired Decision-Making for a Socially Interactive Robot" (in revision)
+   authors: Raúl Pérula-Martínez, Álvaro Castro-González, María Malfaz, and Miguel A. Salichs
+   year: 2018
+   venue: Cognitive Systems Research (Q3)
+   where: Elsevier
+   description:
+   pdf: ""
+   
  - title: "Autonomy in Human-Robot Interaction Scenarios for Entertainment"
    authors: Raúl Pérula-Martínez, Álvaro Castro-González, María Malfaz, and Miguel A. Salichs
    year: 2017
@@ -295,7 +303,7 @@ publications:
  - title: "Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies"
    authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, and Miguel A. Salichs
    year: 2015
-   venue: Journal of Intelligent and Robotics Systems
+   venue: Journal of Intelligent and Robotics Systems (Q3)
    where: Springer
    description: 
    pdf: "Perula-Martinez2015a.pdf"
