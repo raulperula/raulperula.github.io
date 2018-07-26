@@ -252,7 +252,7 @@ education:
    description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a href="htt   ps://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
 
 publications:
- - title: "Bioinspired Decision-Making for a Socially Interactive Robot" (in revision)
+ - title: "Bioinspired Decision-Making for a Socially Interactive Robot (in revision)"
    authors: Raúl Pérula-Martínez, Álvaro Castro-González, María Malfaz, and Miguel A. Salichs
    year: 2018
    venue: Cognitive Systems Research
