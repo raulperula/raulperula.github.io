@@ -255,7 +255,7 @@ publications:
  - title: "Bioinspired Decision-Making for a Socially Interactive Robot (in revision)"
    authors: Raúl Pérula-Martínez, Álvaro Castro-González, María Malfaz, and Miguel A. Salichs
    year: 2018
-   venue: Cognitive Systems Research
+   venue: Cognitive Systems Research (Q3)
    where: Elsevier
    description:
    pdf: ""
@@ -303,7 +303,7 @@ publications:
  - title: "Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies"
    authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, and Miguel A. Salichs
    year: 2015
-   venue: Journal of Intelligent and Robotics Systems
+   venue: Journal of Intelligent and Robotics Systems (Q3)
    where: Springer
    description: 
    pdf: "Perula-Martinez2015a.pdf"
