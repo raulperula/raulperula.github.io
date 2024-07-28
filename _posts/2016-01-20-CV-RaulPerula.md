@@ -4,7 +4,6 @@ title: Raúl Pérula-Martínez
 category: cv
 description: "Artificial Intelligence Researcher"
 article: yes
-permalink: cv.html
 tags: [research,teaching]
 
 
