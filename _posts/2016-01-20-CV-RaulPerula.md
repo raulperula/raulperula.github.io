@@ -203,7 +203,7 @@ teaching:
  - title: "Course"
    year: 2017-2018
    venue: "University Carlos III of Madrid (UC3M)"
-   description: "- Informática Industrial II (Industrial Computer Science II). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Robótica (Robotics). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- TFG Tutor. <i>Desarrollo de Actividades en Robótica Educativa<i>. Victor Jimenez Bermejo. <i>Desarrollo de una Electrónica Integrada para Robots Educativos<i>, Fernando Landrove Castellanos."
+   description: "- Informática Industrial II (Industrial Computer Science II). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Robótica (Robotics). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- TFG Tutor. <i>Desarrollo de Actividades en Robótica Educativa</i>. Victor Jimenez Bermejo. <i>Desarrollo de una Electrónica Integrada para Robots Educativos</i>, Fernando Landrove Castellanos."
 
  - title: "Course"
    year: 2016-2017
@@ -218,17 +218,17 @@ teaching:
  - title: "Course"
    year: 2014-2015
    venue: "University Carlos III of Madrid (UC3M)"
-   description: "- Informática Industrial II (Industrial Computer Science II). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Robótica (Robotics). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Rapid prototyping and use of 3D printers. Master in Robotics and Automation. (2 ECTS)<br>- TFG Tutor. <i>Navegación robusta de un robot social mediante fusión sensorial<i>, Eduardo Sánz Ruzafa."
+   description: "- Informática Industrial II (Industrial Computer Science II). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Robótica (Robotics). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Rapid prototyping and use of 3D printers. Master in Robotics and Automation. (2 ECTS)<br>- TFG Tutor. <i>Navegación robusta de un robot social mediante fusión sensorial</i>, Eduardo Sánz Ruzafa."
 
  - title: "Course"
    year: 2013-2014
    venue: "University Carlos III of Madrid (UC3M)"
-   description: "- Informática Industrial II (Industrial Computer Science II). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Robótica (Robotics). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Rapid prototyping and use of 3D printers. Master in Robotics and Automation. (2 ECTS)<br>- Design and Printing of 3D Parts with Open Source Tools. Master in Robotics and Automation. (2 ECTS)<br>- Organización de Computadores (Computers Organization). Computer Science Engineering Degree. 3rd year. (6 ECTS)<br>- TFG Tutor. - <i>Desarrollo de una librería para control de colonia de mini-robots<i>, María Blázquez Partido, [GitHub](https://github.com/raulperula/rpc_robot_colony). <i>Diseño, Construcción y Puesta en Marcha de una Impresora 3D Modelo ROSTOCK<i>, Miguel Ponce Antolín."
+   description: "- Informática Industrial II (Industrial Computer Science II). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Robótica (Robotics). Bachelor's Degree in Industrial Electronics and Automation Engineering. 4th year. (6 ECTS)<br>- Rapid prototyping and use of 3D printers. Master in Robotics and Automation. (2 ECTS)<br>- Design and Printing of 3D Parts with Open Source Tools. Master in Robotics and Automation. (2 ECTS)<br>- Organización de Computadores (Computers Organization). Computer Science Engineering Degree. 3rd year. (6 ECTS)<br>- TFG Tutor. - <i>Desarrollo de una librería para control de colonia de mini-robots</i>, María Blázquez Partido, [GitHub](https://github.com/raulperula/rpc_robot_colony). <i>Diseño, Construcción y Puesta en Marcha de una Impresora 3D Modelo ROSTOCK</i>, Miguel Ponce Antolín."
 
  - title: "Course"
    year: 2012-2013
    venue: "University Carlos III of Madrid (UC3M)"
-   description: "- Ingeniería de Control (Control Engineering). Bachelor's Degree in Industrial Electronics and Automation Engineering. 3rd year. (6 ECTS)<br>- Ingeniería de Control (Control Engineering). Bachelor's Degree in Industrial Technologies Engineering. 3rd year. (6 ECTS)<br>- Organización de Computadores (Computers Organization). Computer Science Engineering Degree. 1st year. (6 ECTS)<br>- Informática Industrial (Industrial Computer Science). Bachelor's Degree in Industrial Technologies Engineering. 4th year. (6 ECTS)<br>- TFG Tutor. <i>Desarrollo de un sistema de telepresencia robótica con Oculus Rift<i>, Enrique Ruíz-Medrano García, [GitHub](https://github.com/raulperula/oculus_rift)."
+   description: "- Ingeniería de Control (Control Engineering). Bachelor's Degree in Industrial Electronics and Automation Engineering. 3rd year. (6 ECTS)<br>- Ingeniería de Control (Control Engineering). Bachelor's Degree in Industrial Technologies Engineering. 3rd year. (6 ECTS)<br>- Organización de Computadores (Computers Organization). Computer Science Engineering Degree. 1st year. (6 ECTS)<br>- Informática Industrial (Industrial Computer Science). Bachelor's Degree in Industrial Technologies Engineering. 4th year. (6 ECTS)<br>- TFG Tutor. <i>Desarrollo de un sistema de telepresencia robótica con Oculus Rift</i>, Enrique Ruíz-Medrano García, [GitHub](https://github.com/raulperula/oculus_rift)."
 ---
 
 <div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
