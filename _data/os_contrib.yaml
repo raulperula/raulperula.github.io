@@ -1,0 +1,41 @@
+- name: Ph.D. in Robotics
+  title: Thesis title `Autonomous Decision-Making for Socially Interactive Robots`
+  end: 2017
+  link: http://www.uc3m.es/ss/Satellite/Doctorado/en/Detalle/Estudio_C/1371210539831/1371210298470/Electrical_Engineering,_Electronics_and_Automation
+  description: I focused on improving the low and high-level capabilities of the social robot Maggie, by implementing a bio-inspired decision-making system able to learn from Human-Robot Interaction.
+
+- name: Google Summer of Code 2017 participant with University Rey Juan Carlos I
+  title: Open Source Developer @ JdeRobot project
+  end: 2017
+  link: http://jderobot.org/Raulperula-colab
+  description: In a collaboration between the University Rey Juan Carlos I (URJC) and Google, the goal of this project is to explore the use of Scratch with robots, both simulated and real. JdeRobot is a project that allows and simplifies the use of them. We started with simulated robots in Gazebo, despite with real robots because the interfaces are the same. This project expected to develop a new tool prototype that reads Scratch programs and translate them into ROS-Python components. More info about the <a href="https://summerofcode.withgoogle.com/projects/#6344228931108864" target="_blank">GSoC project description</a>.
+
+- name: Visiting Assistance in Research
+  title: VAR @ Social Robotics Lab, Computer Science Department
+  end: 2016
+  link: http://scazlab.yale.edu
+  description: I did some research related to how to increase the interaction with users applying a probabilistic method for personalization in human-robot collaboration applied to teach children. <br><b>Tasks</b><br> Systems Analysis and Design (UML), Implementation (Python), Tests (unit test), Integration (git), and Scrum. Technichal writting. <br><b>Tools</b><br> Trello, Python, Relational Databases, Git, ROS, Socially Interactive Robots, Arduino, RaspberryPi.
+
+- name: M.Sc. in Robotics and Automation
+  title: Thesis title `State of the Art and Implementation of a Classifier for Daily Use Objects`
+  end: 2013
+  link: http://www.uc3m.es/ss/Satellite/Postgrado/en/Detalle/Estudio_C/1371209124791/1371211096495/Master_in_Robotics_and_Automation
+  description: I developed an artificial vision machine learning system using ROS in order to improve the detection and the identification of daily use objects. Specifically, I implemented a SIFT-based system able to integrate between the 2D (SIFT) and 3D (PointCloud) information coming from a kinect camera. The system proved to be successful in improving the vision-based detection and labeling of a set of objects.
+
+- name: B.Sc. with honors in Computer Science Engineering
+  title: Thesis title `Neuronal Networks Models for Ordinal Regression based on Gradient Descent Techniques`
+  end: 2011
+  link: https://www.uco.es/eps/node/99
+  description: I carried out more functionalities for a Matlab toolbox (nnet) implementing the ordinal regression algorithm iRPROP+, throw Artificial Neural Networks. This work is available to download at my <a href="https://github.com/raulperula/nnet_toolbox" target="_blank">GitHub project</a>.
+
+- name: Research Fellow
+  title: Machine Learning Engineer @ Learning and Artificial Neural Networks AYRNA, Computer Science Department
+  end: 2010
+  link: http://www.uco.es/grupos/ayrna/index.php/en
+  description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Matlab), Tests (unit test), Integration (svn), and iterative life cycle. Technichal writting. <br><b>Tools</b><br> Matlab, C++, Java, SVN, Threads.
+
+- name: B.Sc. in Technical Engineering in Computer Science Systems
+  title: Thesis title `Watermarks in Digital Images`
+  end: 2009
+  link: https://www.uco.es/eps/node/87
+  description: I implemented the most significant algorithms used for watermarking (steganography) as a toolbox in Matlab. This work is available to download at my <a href="htt   ps://github.com/raulperula/watermarks_toolbox" target="_blank">GitHub project</a>.
