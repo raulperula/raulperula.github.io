@@ -99,22 +99,26 @@ projects:
  - title: "MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033"
    authors: "European Union Seventh Framework Program"
    year: 2017
-   description: The MONARCH project focus is on social robotics using networked heterogeneous robots and sensors to interact with children, staff, and visitors, engaging in edutainment activities in the pediatric infirmary at the portuguese oncology institute at Lisbon (IPOL), Portugal. <a href="https://cordis.europa.eu/project/id/601033/results" target="_blank">Website</a>.
+   website: https://cordis.europa.eu/project/id/601033/results
+   description: The MONARCH project focus is on social robotics using networked heterogeneous robots and sensors to interact with children, staff, and visitors, engaging in edutainment activities in the pediatric infirmary at the portuguese oncology institute at Lisbon (IPOL), Portugal.
 
  - title: "RoboCity2030-III-CM (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)"
    authors: "European Union"
    year: 2015
-   description: RoboCity2030 is the biggest robotic long term cluster in Europe working since 2006. The consortium is formed by the six leading R&D centres of Madrid with more than 100 researchers in the field, half of them being PhDs. It is funded by the Community of Madrid and cofunded by Structural Funds of the European Union. <a href="http://www.robocity2030.org/" target="_blank">Website</a>.
+   website: http://www.robocity2030.org/
+   description: RoboCity2030 is the biggest robotic long term cluster in Europe working since 2006. The consortium is formed by the six leading R&D centres of Madrid with more than 100 researchers in the field, half of them being PhDs. It is funded by the Community of Madrid and cofunded by Structural Funds of the European Union.
 
  - title: "Applications of Social Robots National Project"
    authors: "Spanish Government"
    year: 2014
-   description: <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Website</a>.
+   website: http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots
+   description: This project is focused on the development of social robots involving the specific design of this kind of robots, the perception systems, decision-making systems, or the human-robot interaction.
 
  - title: "HANDLE - Developmental pathway towards autonomy and dexterity in robot in-hand manipulation FP7-ICT-2007-3-231640"
    authors: "European Union Seventh Framework Program"
    year: 2013
-   description: The HANDLE project aims at understanding how humans perform the manipulation of objects in order to replicate grasping and skilled in-hand movements with an anthropomorphic artificial hand, and thereby move robot grippers from current best practice towards more autonomous, natural and effective articulated hands. <a href="https://cordis.europa.eu/project/id/231640/reporting" target="_blank">Website</a>.
+   website: https://cordis.europa.eu/project/id/231640/reporting
+   description: The HANDLE project aims at understanding how humans perform the manipulation of objects in order to replicate grasping and skilled in-hand movements with an anthropomorphic artificial hand, and thereby move robot grippers from current best practice towards more autonomous, natural and effective articulated hands.
 
 workshops:
  - title: "RoboticAula workshop"
