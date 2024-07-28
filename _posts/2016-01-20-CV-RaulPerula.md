@@ -126,7 +126,7 @@ workshops:
    year: 2017
    venue: Aula
    where: IFEMA
-   description: "Third edition. One-days workshop @Aula educational event. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
+   description: "Third edition. One-day workshop. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
 
  - title: "Speaker at the Robotics round table"
    authors: "Raúl Pérula-Martínez"
@@ -147,7 +147,7 @@ workshops:
    year: 2016
    venue: Aula
    where: IFEMA
-   description: "Second edition. Two-days workshop @Aula educational event. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
+   description: "Second edition. Two-days workshop. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
    
  - title: "Multiple Talks & Workshops"
    authors: "Raúl Pérula-Martínez"
