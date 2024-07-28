@@ -1,0 +1,85 @@
+- title: "Bioinspired Decision-Making for a Socially Interactive Robot"
+  authors: Raúl Pérula-Martínez, Álvaro Castro-González, María Malfaz, and Miguel A. Salichs
+  year: 2018
+  venue: Cognitive Systems Research (Q3)
+  where: Elsevier
+  description:
+
+- title: "Autonomy in Human-Robot Interaction Scenarios for Entertainment"
+  authors: Raúl Pérula-Martínez, Álvaro Castro-González, María Malfaz, and Miguel A. Salichs
+  year: 2017
+  venue: 12th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+  where: Vienna, Austria, March 6-9, 2017
+  description:
+  pdf: "Perula-Martinez2016c.pdf"
+
+- title: "ProtoCREA: A Robot to Teach Them All"
+  authors: Félix R. Cañadillas, Raúl Pérula-Martínez, Verónica González, Miguel A. Salichs, and Carlos Balaguer
+  year: 2016
+  venue: EDULEARN16
+  where: Barcelona, Spain, July 4-6, 2016
+  description:
+
+- title: "A Review on How to Easily Program Robots at High School"
+  authors: Verónica González, Félix R. Cañadillas, Raúl Pérula-Martínez, Miguel A. Salichs, and Carlos Balaguer
+  year: 2016
+  venue: RoboCity16. Robots for Citizens
+  where: Madrid, Spain, May 26-27, 2016
+  description:
+  pdf: "Perula-Martinez2016a.pdf"
+
+- title: "Estado de la Tecnología en Robótica Educativa para la Educación Secundaria"
+  authors: Verónica González, Raúl Pérula-Martínez, Félix R. Cañadillas, Miguel A. Salichs, and Carlos Balaguer
+  year: 2015
+  venue: XXXVI Jornadas de Automática
+  where: Bizkaia Aretoa, Bilbao, Spain, September 2-4, 2015
+  description:
+  pdf: "Gonzalez2015.pdf"
+
+- title: "Improving the expressiveness of a social robot through luminous devices"
+  authors: Raúl Pérula-Martínez, Esther Salichs, Irene P. Encinar, Álvaro Castro-González, and Miguel A. Salichs
+  year: 2015
+  venue: 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+  where: Portland, USA, March 2-5, 2015
+  description:
+  pdf: "Perula-Martinez2015b.pdf"
+
+- title: "Developing Educational Printable Robots to Motivate University Students Using Open Source Technologies"
+  authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, Carlos Balaguer, and Miguel A. Salichs
+  year: 2015
+  venue: Journal of Intelligent and Robotics Systems (Q3)
+  where: Springer
+  description:
+  pdf: "Perula-Martinez2015a.pdf"
+
+- title: "Modelado e Implementación de un robot de entretenimiento para competición"
+  authors: Raúl Pérula-Martínez, Juan Miguel García-Haro, and Abdulla Al-Kaff
+  year: 2013
+  venue: 13th workshop Robocity2030. Robots para los ciudadanos
+  where: University Carlos III of Madrid, Spain, September 27, 2013
+  description:
+  pdf: "Perula-Martinez2013a.pdf"
+
+- title: "Diseño de un robot móvil como mascota robótica de entretenimiento para personas con discapacidad"
+  authors: Raúl Pérula-Martínez, Abdulla Al-Kaff, and Juan Miguel García-Haro
+  year: 2013
+  venue: 13th workshop Robocity2030. Robots para los ciudadanos
+  where: University Carlos III of Madrid, Spain, September 27, 2013
+  description:
+  pdf: "Perula-Martinez2013b.pdf"
+
+- title: "Algoritmos cuánticos en criptografía y distribución de claves en espacio libre"
+  authors: Raúl Pérula-Martínez, and Pedro A. Gutiérrez Peña
+  year: 2011
+  venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011)
+  where: University of Cordoba, Spain, April 13, 2011
+  description:
+  pdf: "Perula-Martinez2011.pdf"
+
+- title: "Diseño de un controlador PID en NXT OSEK para el autoequilibrado de un robot sobre dos ruedas"
+  authors: Manuel Pedrero-Luque, Raúl Pérula-Martínez, and José M. Palomares Muñoz
+  year: 2011
+  venue: II Congreso de Actividades Académicamente Dirigidas (CAADE 2011)
+  where: University of Cordoba, Spain, April 13, 2011
+  description:
+  pdf: "Pedrero-Luque2011.pdf"
