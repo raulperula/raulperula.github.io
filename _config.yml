@@ -1,6 +1,6 @@
 # Site settings
 title: raulperula
-email: 
+email:
 url: http://raulperula.github.io
 phone: +34
 description: ""
@@ -8,9 +8,11 @@ owner: Raúl Pérula-Martínez
 aboutA: ""
 aboutB: ""
 blog: ""
-keywords: [robotics,artificial intelligence,generative ai, nlp, computer vision, cv]
+keywords: [robotics, artificial intelligence, generative ai, nlp, computer vision, cv]
 
-# Social networks usernames
+cv-image: /img/profile_photo.jpg
+
+# Social networks
 social:
   - title: github
     url: https://github.com/raulperula
@@ -26,17 +28,14 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-gems:
+plugins:
   - jekyll-sitemap
 
-# Some more default colors
+# Some more default colors (hex-codes without the leading hash-tag)
 color:
-# Color settings (hex-codes without the leading hash-tag)
-# I've put different combinations to test
-# ALTERNATIVE 0
-  articletext: 4e4e4e                     # This is the text color
-  primary: c4e59c                         # This is the gray color with a green tint
-  secondary: 84ad52                       # This is the green color
-  secondary-dark: 6e9145                  # This is the dark green color
-  secondary-alpha: rgba(132,173,82,.7)    # This is the same as the secondary color but with an alpha value
-  tertiary: 7a3bff                        # This is purple
+  articletext: 4e4e4e # This is the text color
+  primary: c4e59c # This is the gray color with a green tint
+  secondary: 84ad52 # This is the green color
+  secondary-dark: 6e9145 # This is the dark green color
+  secondary-alpha: rgba(132,173,82,.7) # This is the same as the secondary color but with an alpha value
+  tertiary: 7a3bff # This is purple
