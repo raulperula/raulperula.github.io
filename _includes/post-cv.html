@@ -10,48 +10,6 @@
         <div id="article">
             {{ content }}
 
-            <h2>Professional Experience</h2>
-            {% for item in page.professional %}
-                <div class="row cv-item">  
-                    <div class="col-sm-4">
-                        <div class="cv-section-title">
-                            <h4 class="inlineifprinted">{{item.start}} - {{item.end}}</h4>
-                            {% if item.location-link %}<h3 class="inlineifprinted"><a href="{{item.location-link}}" target="_blank">{{item.location}}</a></h3>
-                            {% else %}<h3 class="inlineifprinted">{{item.location}}</h3>
-                            {% endif %}
-                        </div>
-                    </div>
-
-                    <div class="col-sm-8">
-                        <h2>{{item.name}}</h2>
-                        <p>{% if item.title %}<i>{{item.title}}</i><br>{% endif %}
-                        {{item.description}}
-                        </p>
-                    </div>
-                </div>
-            {% endfor %}
-
-            <h2>Education</h2>
-            {% for college in page.education %}
-                <div class="row cv-item">  
-                    <div class="col-sm-4">
-                        <div class="cv-section-title">
-                            <h4 class="inlineifprinted">{{college.start}} - {{college.end}}</h4>
-                            {% if college.location-link %}<h3 class="inlineifprinted"><a href="{{college.location-link}}" target="_blank">{{college.location}}</a></h3>
-                            {% else %}<h3 class="inlineifprinted">{{college.location}}</h3>
-                            {% endif %}
-                        </div>
-                    </div>
-
-                    <div class="col-sm-8">
-                        <h2>{{college.name}}</h2>
-                        <p>{% if college.title %}<i>{{college.title}}</i><br>{% endif %}
-                        {{college.description}}
-                        </p>
-                    </div>
-                </div>
-            {% endfor %}
-
             <h2>Publications</h2>
             {% for item in page.publications %}
                 <div class="row cv-item">  
@@ -72,14 +30,12 @@
                 </div>
             {% endfor %}
 
-            <h2>Misc</h2>
-            {% for item in page.misc %}
+            <h2>European and Spanish Project Participation</h2>
+            {% for item in page.projects %}
                 <div class="row cv-item">  
                     <div class="col-sm-4">
                         <div class="cv-section-title">
                             <h3 class="inlineifprinted">{{item.year}}</h3>
-                            <h4 class="inlineifprinted">{{item.venue}}</h4>
-                            <p>{{item.where}}</p>
                         </div>
                     </div>
 
@@ -92,28 +48,41 @@
                 </div>
             {% endfor %}
 
-            <h2>Skills and Technical Expertise</h2>  
-            {% for skill in page.skills %}
-            <div class="row cv-item">
-                <div class="col-sm-12">
-                    <p class="inlineifprinted"><b>{{ skill.name }}: </b></p>
-                    <div class="only-print">
-                    {% for item in skill.items %}
-                        <span class="label" style="opacity: 0.{{ item.knowledge }};"><e class="ok"> {{ item.name }} </e><e class="hover"> {{ item.knowledge }}% </e></span>
-                    {% endfor %} 
+            <h2>Teaching Experience</h2>
+            {% for item in page.teaching %}
+                <div class="row cv-item">  
+                    <div class="col-sm-4">
+                        <div class="cv-section-title">
+                            <h3 class="inlineifprinted">{{item.title}}{{item.year}}</h3>
+                            <h4 class="inlineifprinted">{{item.venue}}</h4>
+                        </div>
                     </div>
 
-                    {% for item in skill.items %}
-                        <div class="progress no-print">
-                            <div class="progress-bar" role="progressbar" data-percent="{{ item.knowledge }}%" style="width: {{ item.knowledge }}%;">
-                                <span class="sr-only">{{ item.knowledge }}% Complete</span>
-                            </div>
-                            <span class="progress-type">{{ item.name }}</span>
-                            <span class="progress-completed">{{ item.knowledge }}%</span>
-                        </div>
-                    {% endfor %}
+                    <div class="col-sm-8">
+                        {{item.description}}
+                        </p>
+                    </div>
                 </div>
-            </div>
+            {% endfor %}
+
+            <h2>Workshops Organization & Participation</h2>
+            {% for item in page.workshops %}
+                <div class="row cv-item">  
+                    <div class="col-sm-4">
+                        <div class="cv-section-title">
+                            <h3 class="inlineifprinted">{{item.year}}</h3>
+                            <h4 class="inlineifprinted">{{item.venue}}</h4>
+                            <p  class="no-print">{{item.where}}</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-8">
+                        <h2>{{item.title}}</h2>
+                        <p><i>{{item.authors}}</i><br>
+                        {{item.description}}
+                        </p>
+                    </div>
+                </div>
             {% endfor %}
 
             <p class="only-print" style="border-left: 10px solid #{{ site.color.primary }}; padding-left: 10px; margin-top: 20px;">This CV has been auto generated from the correspondent page on my personal website. For this reason, please forgive me in advance if there are some formatting problems. Compilation Date: <i>{{ page.date | date: '%B %d, %Y' }}.</i></p>
