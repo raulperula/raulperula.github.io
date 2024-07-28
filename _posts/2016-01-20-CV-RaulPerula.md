@@ -117,61 +117,68 @@ projects:
    description: The HANDLE project aims at understanding how humans perform the manipulation of objects in order to replicate grasping and skilled in-hand movements with an anthropomorphic artificial hand, and thereby move robot grippers from current best practice towards more autonomous, natural and effective articulated hands. <a href="https://cordis.europa.eu/project/id/231640/reporting" target="_blank">Website</a>.
 
 workshops:
- - title: "Speaker at the Robotics workshop"
+ - title: "RoboticAula workshop"
+   authors: "Raúl Pérula-Martínez, Verónica González, Juan M. García-Haro, Pablo Marín"
+   year: 2017
+   venue: Aula
+   where: IFEMA
+   description: "Third edition. One-days workshop @Aula educational event. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
+
+ - title: "Speaker at the Robotics round table"
    authors: "Raúl Pérula-Martínez"
    year: 2017
    venue: "Congreso Internacional de Tecnología y Turismo para todas las Personas"
-   where: Malaga, Spain, September 27-29, 2017
+   where: Malaga
    description: "Organized by Fundación ONCE. Speaker at the round table about robotics, centered in Socially Interactive and Educational robots."
 
  - title: "Acercamiento a la ingeniería en inglés, Robótica"
    authors: "Raúl Pérula-Martínez"
    year: 2017
    venue: "TECNOCAMP 2017, Una Experiencia de Acercamiento a la Ingeniería"
-   where: Madrid, Spain, July 10, 2017
+   where: Madrid
    description: "Talk about how robotics and 3D printers can be used in our daily life."
 
- - title: "Co-organizer of the <i>RoboticAula</i> workshop"
+ - title: "RoboticAula workshop"
    authors: "Raúl Pérula-Martínez, Verónica González, Juan M. García-Haro, Pablo Marín"
    year: 2016
-   venue: "University Carlos III of Madrid"
-   where: Madrid, Spain, March 2-3, 2016
+   venue: Aula
+   where: IFEMA
    description: "Second edition. Two-days workshop @Aula educational event. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
    
- - title: "Organizer of the <i>Robokode</i> Conference"
+ - title: "Multiple Talks & Workshops"
    authors: "Raúl Pérula-Martínez"
    year: 2015
-   venue: "University Carlos III of Madrid"
-   where: Madrid, Spain, November 12-13, 2015
-   description: "Second edition. Two-days workshop @Robokode2015 Conference. The goal of the workshop was to <i>teach students in other topics than related to basic subjects</i> they learn in the career. In this way, there were talks, demonstrations, and practical classes."
+   venue: Robokode
+   where: University Carlos III of Madrid
+   description: "Second edition. Two-days workshop. The goal of the workshop was to <i>teach students in other topics than related to basic subjects</i> they learn in the career. In this way, there were talks, demonstrations, and practical classes."
    
- - title: "Co-organizer of the <i>RoboticAula</i> workshop"
+ - title: "RoboticAula workshop"
    authors: "Raúl Pérula-Martínez, Verónica González, Juan M. García-Haro, Pablo Marín"
    year: 2015
-   venue: "University Carlos III of Madrid"
-   where: Madrid, Spain, March 4, 2015
-   description: "One-day workshop @Aula educational event. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
+   venue: Aula
+   where: IFEMA
+   description: "One-day workshop. The goal of the workshop was to <i>introduce high-school students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
    
- - title: "Organizer of the <i>Robokode</i> Conference"
+ - title: "Multiple Talks & Workshops"
    authors: "Raúl Pérula-Martínez"
    year: 2014
-   venue: "University Carlos III of Madrid"
-   where: Madrid, Spain, October 13-16, 2014
-   description: "Two-days workshop @Robokode2014 Conference. The goal of the workshop was to <i>teach students in other topics than related to basic subjects</i> they learn in the career. In this way, there were talks, demonstrations, and practical classes."
+   venue: Robokode
+   where: University Carlos III of Madrid
+   description: "Two-days workshop. The goal of the workshop was to <i>teach students in other topics than related to basic subjects</i> they learn in the career. In this way, there were talks, demonstrations, and practical classes."
    
- - title: "Organizer of the <i>Arduino + Robots</i> workshop"
+ - title: "Arduino + Robots workshop"
    authors: "Raúl Pérula-Martínez"
    year: 2013
-   venue: "University Carlos III of Madrid"
-   where: Madrid, Spain, February 14-15, 2013
-   description: "One-day workshop @T3chFest Conference. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
+   venue: T3chFest
+   where: University Carlos III of Madrid
+   description: "One-day workshop. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
    
- - title: "Co-organizer of the <i>Introduction to robotics</i> workshop"
+ - title: "Introduction to robotics with Arduino workshop"
    authors: "Raúl Pérula-Martínez, and Juan M. García-Haro"
    year: 2013
-   venue: "University Carlos III of Madrid"
-   where: Madrid, Spain, September 27, 2013
-   description: "Half-day workshop @Robocity13 Conference. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
+   venue: Robocity13
+   where: University Carlos III of Madrid
+   description: "Half-day workshop. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
 
 teaching:
  - title: "Course"
