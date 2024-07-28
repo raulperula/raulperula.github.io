@@ -99,7 +99,7 @@ projects:
  - title: "MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033"
    authors: "European Union Seventh Framework Program"
    year: 2017
-   description: <a href="http://monarch-fp7.eu/" target="_blank">Website</a>.
+   description: The MONARCH project focus is on social robotics using networked heterogeneous robots and sensors to interact with children, staff, and visitors, engaging in edutainment activities in the pediatric infirmary at the portuguese oncology institute at Lisbon (IPOL), Portugal. <a href="https://cordis.europa.eu/project/id/601033/results" target="_blank">Website</a>.
 
  - title: "RoboCity2030-III-CM (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)"
    authors: "European Union"
@@ -114,7 +114,7 @@ projects:
  - title: "HANDLE - Developmental pathway towards autonomy and dexterity in robot in-hand manipulation FP7-ICT-2007-3-231640"
    authors: "European Union Seventh Framework Program"
    year: 2013
-   description: <a href="http://www.handle-project.eu/" target="_blank">Website</a>.
+   description: The HANDLE project aims at understanding how humans perform the manipulation of objects in order to replicate grasping and skilled in-hand movements with an anthropomorphic artificial hand, and thereby move robot grippers from current best practice towards more autonomous, natural and effective articulated hands. <a href="https://cordis.europa.eu/project/id/231640/reporting" target="_blank">Website</a>.
 
 workshops:
  - title: "Speaker at the Robotics workshop"
