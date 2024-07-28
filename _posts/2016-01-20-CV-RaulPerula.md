@@ -184,17 +184,17 @@ teaching:
  - title: "Course"
    year: 2022-2023
    venue: "European University of Madrid (UEM)"
-   description: "Módulo 5. Modelos predefinidos: Reconocimiento de voz, sentimiento e imágenes (3 ECTS). Master in Data Science."
+   description: "- Módulo 5. Modelos predefinidos: Reconocimiento de voz, sentimiento e imágenes. Master in Data Science. (3 ECTS)"
 
  - title: "Course"
    year: 2021-2022
    venue: "European University of Madrid (UEM)"
-   description: "- TFMs tutor (6 ECTS). Master in Big Data.<br>- Módulo 8. Ejecución de Proyectos Agile (3 ECTS). Máster Universitario en Ingeniería de Organización, Dirección de Proyectos y Empresas."
+   description: "- TFMs tutor. Master in Big Data. (6 ECTS)<br>- Módulo 8. Ejecución de Proyectos Agile. Máster Universitario en Ingeniería de Organización, Dirección de Proyectos y Empresas. (3 ECTS)"
 
  - title: "Course"
    year: 2020-2021
    venue: "European University of Madrid (UEM)"
-   description: "Módulo 8. Ejecución de Proyectos Agile (3 ECTS). Máster Universitario en Ingeniería de Organización, Dirección de Proyectos y Empresas."
+   description: "- Módulo 8. Ejecución de Proyectos Agile. Máster Universitario en Ingeniería de Organización, Dirección de Proyectos y Empresas. (3 ECTS)"
 
  - title: "Course"
    year: 2017-2018
