@@ -1,6 +1,5 @@
 ---
 layout: post-cv
-title: Raúl Pérula-Martínez
 category: cv
 description: "PhD in Artificial Intelligence applied to Human-Robot Interaction"
 article: yes
