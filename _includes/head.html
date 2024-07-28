@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     {% if page.title %}
-        <title>{{ page.title }} - {{ site.owner }} - personal website</title>
+        <title>{{ page.title }} - {{ site.owner }}</title>
         <meta property="og:title" content="{{ page.title }} - {{ site.owner }}" />
     {% else %}
         <title>{{ site.owner }}</title>
@@ -12,7 +12,7 @@
     <meta name="description"        content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}">
     <meta name="google-site-verification" content="1fM5KCFImdJuWeo8L_Qo7_-tuItbZ5hoIlGg8g14WkY" />
-    <link rel="canonical" href="{{ page.url | replace:'cv.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}, {{ site.keywords | join: ', ' }}{% else %}{{ site.keywords | join: ', ' }}{% endif %}">
 
